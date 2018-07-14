@@ -65,6 +65,18 @@ prefix notation f*t*w*
 (-e.2) makes 3.2 negative
 (λx.y) makes an inline function
 
+*** application ***
+
+(F x)…
+
+*** currying ***
+
+…
+
+*** partial application
+
+(F (G x)) = ((F G) x)…
+
 …
 
 *** the end ***
