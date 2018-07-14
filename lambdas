@@ -84,6 +84,16 @@ prefix notation f*t*w*
 
 (F (G x)) = ((F G) x)…
 
+*** (in)formalities ***
+
+formalities       | informalities
+------------------|--------------
+(λ x . (λ y . x)) | (λ x y . x)
+(F (G x))         | (F G x)
+((F G) x)         | (F G x)
+
+∵ formal is often "too formal"
+
 …
 
 *** the end ***
