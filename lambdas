@@ -17,14 +17,9 @@ f(x) = x
      that's an equality
      true unless f(x) already exists; use piecewise notation
      true can't handle any"-thing" but the truth
-     ((true) x) makes no cents; or maybe (true x) if x≠false
+     ((true) x) makes no cents; or maybe (true x) is true if x≠false
 
 *** what is a function? ***
-
-f(x) = y
-  ^    ^
-  ||||||
-  show how this relates to coordinate geometry; graphically
 
 f(x) = x
   ^    ^
@@ -41,6 +36,11 @@ f(x) = x
   f is the ¿reference namespace? (i*d*k*…)
   x is: formal parameter, formal argument, free variable (a*k*a* real variable ∧ apparent variable)
   3 in f(3) is: actual parameter, actual argument, bound variable
+
+f(x) = y
+  ^    ^
+  ||||||
+  show how this relates to coordinate geometry; graphically
 
 *** why λ? ***
 
