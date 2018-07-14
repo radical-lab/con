@@ -39,9 +39,10 @@ f(x) = x
   x is: formal parameter, formal argument, free variable (a*k*a* real variable ∧ apparent variable)
   3 in f(3) is: actual parameter, actual argument, bound variable
   iprefer
-     formal variables & actual constants
+     formal variables ∧ actual constants
      x is formally a variable
      3 in f(3) is actually a constant
+     or just variables ∧ constants
 
 f(x) = y
   ^    ^
