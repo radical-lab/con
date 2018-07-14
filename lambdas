@@ -23,9 +23,11 @@ x == 42
 var chair = "chair"
 var floor = "floor"
 	today the word "chair" could mean chair, and the word "floor" could mean floor
-	but tomorrow the word "chair" could mean floor, and the word "floor" could mean chair
 	so today i could say "sit on the chair, and place your feet on the floor"
-	and tomorrow i could say "sit on the floor, and place your feet on the chair"
+chair = "floor"
+floor = "chair"
+	but tomorrow the word "chair" could mean floor, and the word "floor" could mean chair
+	so tomorrow i could say "sit on the floor, and place your feet on the chair"
 
 this makes it difficult to function in any context
 so now lets look at mathematics
