@@ -1,0 +1,98 @@
+*** the ℝ start ***
+
+🖖 Hello World,
+My name is Shyam; recursive acronym…
+
+…
+
+*** the start ***
+
+…
+
+*** equality ***
+
+f(x) = x
+     ^
+     |
+     that's an equality
+     true unless f(x) already exists; use piecewise notation
+     true can't handle any"-thing" but the truth
+     ((true) x) makes no cents; or maybe (true x) if x≠false
+
+*** what is a function? ***
+
+f(x) = y
+  ^    ^
+  ||||||
+  show how this relates to coordinate geometry; graphically
+
+f(x) = x
+  ^    ^
+  ||||||
+  logic programming in languages such as prolog, and mercury, are better for understanding this
+  maybe show an example?
+     f(X, Y) :- X + Y
+             ^^ ^^^^^
+             || |||||
+             || i*d*k*…
+             is that the right syntax?
+     f(3, Y)
+  where was i?
+  f is the ¿reference namespace? (i*d*k*…)
+  x is: formal parameter, formal argument, free variable (a*k*a* real variable ∧ apparent variable)
+  3 in f(3) is: actual parameter, actual argument, bound variable
+
+*** why λ? ***
+
+λ = y
+  ^
+  |
+  λ is the reflection of y
+
+*** functions treated as numbers ***
+
+λx.y
+∓3.2
+
+…
+
+*** the end ***
+
+end by saying this is all made redundant by types, so i've wasted your time
+(∵ this is ¬ language agnostic; it's probably best to use red colour-coding, or make it language agnostic f*t*w*)
+(the only reason i like using haskell ∀ e*g* is ∵ "connect the dots")
+
+id ::    x -> x
+id = ( \ x -> x )
+ ^ ^     ^^^^^^ ^
+ | |     |||||| |
+ | |     |||||| throw a lambda in front ∧ parenthesise
+ | |     copy down the rest
+ | |
+ | copy down the four dots, and "connect the dots" horizontally 
+ copy down the namespace
+
+const ::    x ->     y -> x
+const = ( \ x -> ( \ y -> x ) )
+    ^
+    |
+    same as id, but the rule is;
+    	lambdas out the front ∧ after every arrow/dot, except ∀ the last
+	parentheses before every lambda, and balance them out in the end
+
+this demonstrates implementation inference
+while the inference is bidirections, typing is less typing than typing /lambdas|the implementation/ (less is more than more, more is less than less)
+types should start c̄ typed lambda calculus ∧ end c̄ dependent types; the middle should make types intuitive
+
+*** the ℝ end ***
+
+not sure where to put this…
+
+SKI jokes (doesn't involve snow, but I could draw an "I know no\"-thing\"" meme)
+
+3K = 1K ∴ 3 = 1
+
+Cxy=y ∴ konst is const than const (more is less than less, less is more than more)
+Why Cxy=y? `K` -> `ꓘ` -> `>` -> `C`
+You could also say const is konst than konst…
+C=KI
