@@ -57,6 +57,13 @@ f(x) = y
 
 λx.y
 ∓3.2
+^
+|
+prefix notation f*t*w*
+
+(+3.2) makes 3.2 positive
+(-e.2) makes 3.2 negative
+(λx.y) makes an inline function
 
 …
 
