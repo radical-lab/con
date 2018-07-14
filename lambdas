@@ -92,8 +92,17 @@ formalities       | informalities
 (λ x . (λ y . x)) | (λ x y . x)
 (F (G x))         | (F G x)
 ((F G) x)         | (F G x)
+(((λ f . f) (λ x . x)) x) | ((λ f . f) (λ x . x) x)
+((λ f . f) ((λ x . x) x)) | ((λ f . f) (λ x . x) x)
 
-∵ formal is often "too formal"
+
+∵ formal is often "too formal"; ∀ e*g*:
+
+formalities               | informalities
+--------------------------|--------------
+(λ x . (λ y . x))         | (λ x y . x)
+((λ f . f) ((λ x . x) x)) | ((λ f . f) (λ x . x) x)
+(((λ f . f) (λ x . x)) x) | ((λ f . f) (λ x . x) x)
 
 …
 
