@@ -12,6 +12,32 @@ My name is Shyam; recursive acronym…
 
 …
 
+*** side effects ***
+
+this is what some programming languages allow you to do
+
+var x = 6
+x *= 9 (augmented assignment)
+x == 42
+
+var chair = "chair"
+var floor = "floor"
+	today the word "chair" could mean chair, and the word "floor" could mean floor
+	but tomorrow the word "chair" could mean floor, and the word "floor" could mean chair
+	so today i could say "sit on the chair, and place your feet on the floor"
+	and tomorrow i could say "sit on the floor, and place your feet on the chair"
+
+this makes it difficult to function in any context
+so now lets look at mathematics
+
+3x² +2x +1
+explain like terms, and the commutative property
+imagine what it would be like if x could arbitrarily change?
+it would be impossible to be of any practical use
+
+this is why mathematics, and programming language based on mathematics, avoid side effects
+it's side effects, as in the side effects of prescription drugs
+
 *** immutability ***
 
 f(x) = x²
