@@ -36,6 +36,10 @@ f(x) = x
   f is the ¿reference namespace? (i*d*k*…)
   x is: formal parameter, formal argument, free variable (a*k*a* real variable ∧ apparent variable)
   3 in f(3) is: actual parameter, actual argument, bound variable
+  iprefer
+     formal variables & actual constants
+     x is formally a variable
+     3 in f(3) is actually a constant
 
 f(x) = y
   ^    ^
@@ -83,6 +87,8 @@ const = ( \ x -> ( \ y -> x ) )
 this demonstrates implementation inference
 while the inference is bidirections, typing is less typing than typing /lambdas|the implementation/ (less is more than more, more is less than less)
 types should start c̄ typed lambda calculus ∧ end c̄ dependent types; the middle should make types intuitive
+
+sorry for the iprefers
 
 *** the ℝ end ***
 
