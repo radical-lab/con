@@ -73,6 +73,10 @@ prefix notation f*t*w*
 
 …
 
+*** procedural parameters ***
+
+…
+
 *** partial application
 
 (F (G x)) = ((F G) x)…
