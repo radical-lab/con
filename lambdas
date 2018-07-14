@@ -51,7 +51,7 @@ f(x) = x²
 f(3) = 9
      ^
      |
-     that's an equality, which means they are the same "-thing"
+     that's an equality, which means f(3) ∧ 9 are the same "-thing"
 
 *** equality ***
 
