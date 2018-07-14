@@ -12,6 +12,19 @@ My name is Shyam; recursive acronym…
 
 …
 
+*** immutability ***
+
+f(x) = x²
+x² doesn't change x; it replaces it c̄ a new value
+
+*** referential transparency ***
+
+f(x) = x²
+f(3) = 9
+     ^
+     |
+     that's an equality, which means they are the same "-thing"
+
 *** equality ***
 
 f(x) = x
