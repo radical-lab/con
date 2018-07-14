@@ -127,6 +127,8 @@ explicit order of precedence; no need for confusing implicit p*e*m*d*a*s*
 
 (F (G x)) = ((F G) x)…
 
+…
+
 *** (in)formalities ***
 
 formalities       | informalities
