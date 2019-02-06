@@ -184,6 +184,9 @@ const = ( \ x -> ( \ y -> x ) )
 
 this demonstrates implementation inference
 while the inference is bidirections, typing is less typing than typing /lambdas|the implementation/ (less is more than more, more is less than less)
+	you are typing more if you are not typing typing
+	you are typing less if you are typing typing
+	Does automake make make redundant?
 types should start c̄ typed lambda calculus ∧ end c̄ dependent types; the middle should make types intuitive
 
 sorry for the iprefers
