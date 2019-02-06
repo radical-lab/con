@@ -114,9 +114,9 @@ f(x) = y
 prefix notation f*t*w*
 explicit order of precedence; no need for confusing implicit p*e*m*d*a*s*
 
-(+3.2) makes 3.2 positive
-(-3.2) makes 3.2 negative
-(λx.y) makes an inline function
+(+3.2) makes 3.2 positive, or returns 3.2 as a positive number
+(-3.2) makes 3.2 negative, or returns 3.2 as a negative number
+(λx.y) makes an inline function, or returns an inline function; avoiding the problems of the equality function that only returns true/false
 
 *** application ***
 
