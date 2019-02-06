@@ -149,8 +149,8 @@ formalities       | informalities
 formalities               | informalities
 --------------------------|--------------
 (λ x . (λ y . x))         | (λ x y . x)
-((λ f . f) ((λ x . x) x)) | ((λ f . f) (λ x . x) x)
-(((λ f . f) (λ x . x)) x) | ((λ f . f) (λ x . x) x)
+((λ f . f) ((λ g . g) x)) | ((λ f . f) (λ g . g) x)
+(((λ f . f) (λ g . g)) x) | ((λ f . f) (λ g . g) x)
 
 …
 
