@@ -14,6 +14,8 @@
 
               [adurag] [swastika] [garuda]
 
+                      [mahamantra]
+
 ------------------------------------------------------------------------------------------------------------
 
 Abstract:
@@ -169,7 +171,7 @@ https://en.wikipedia.org/wiki/Pressure
 p = F÷A
 
 F=E(a÷c²);E=F(c²÷a);F(c²)=E(a);
-p=E(a÷c²)÷A
+p=E(a÷c²)÷A();
 
 {do not go into relativity nor perpetual motion machines; https://time.is/}
 {view-source:http://shyam.id.au/awooga/post.js}
