@@ -176,9 +176,9 @@ R = ["∞"] 8<< ∞ is irrational, right?
 can't use single quotes, no primitives besides []
 the whole point of this was to say unsigned [ℚ:R:ℂ] cannot be ℕ
 
-combining zero, and one, into a single base for shyamscript to stack boxes
-,[] is an empty box;
-,[] is one empty box;
+combining zero, and one, into a single base for shyamscript to stack boxes atop of
+,[] is an empty box
+,[] is one empty box
 https://github.com/Shyam-Has-Your-Anomaly-Mitigated/Shyamscript/blob/fbf1b713754d732162b7bfebe37a95b263666e97/syntaxxxx.md
 
 signage signifies nature
