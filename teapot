@@ -156,7 +156,7 @@ since only having zeros is completely useless for any"-thing" except for zero it
 
 base-01 ≠ {0}
 base-01 = {1}
-base-00 = {0}
+base-00 = {0} = {}
 
 mathematics is exceptional!
 
