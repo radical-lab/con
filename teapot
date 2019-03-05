@@ -189,7 +189,7 @@ base-02 = {0,1}
 base-01 = {0}
 base-00 = {}
 
-since only having zeros is completely useless for any"-thing" except for zero itself; we compromise by breaking the rules!
+since only having zeros is completely useless for anything except for zero itself; we compromise by breaking the rules!
 
 base-01 ≠ {0}
 base-01 = {1}
