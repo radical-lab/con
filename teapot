@@ -183,7 +183,7 @@ I need to prevent unethical behaviour; human subject research (tracking users,..
 
 ~~~ Baseless Accusations ~~~
 
-there are n numerical representations in base-n, excluding n; which is 10 in all bases, except for n≤1
+There are n numerical representations in base-n, excluding n; which is 10 in all bases, except for n≤1.
 
 base-16 = {0,1,2,3,4,5,6,7,8,9,a,b,c,d,e,f}
 base-15 = {0,1,2,3,4,5,6,7,8,9,a,b,c,d,e}
@@ -203,13 +203,13 @@ base-02 = {0,1}
 base-01 = {0}
 base-00 = {}
 
-since only having zeros is completely useless for anything except for zero itself; we compromise by breaking the rules!
+Since only having zeros is completely useless for anything except for zero itself; we compromise by breaking the rules!
 
 base-01 ≠ {0}
 base-01 = {1}
 base-00 = {0} = {}
 
-mathematics is exceptional!
+Mathematics is exceptional!
 
 ~~~ Nothing Is Natural ~~~
 
@@ -291,8 +291,10 @@ F = ma
 https://en.wikipedia.org/wiki/Pressure
 p = F÷A
 
+`
 F=E(a÷c²);E=F(c²÷a);F(c²)=E(a);
 p=E(a÷c²)÷A();
+`
 
 {do not go into relativity nor perpetual motion machines nor spirituality; https://time.is/}
 {view-source:http://shyam.id.au/awooga/post.js}
