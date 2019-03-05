@@ -131,7 +131,7 @@ if you're a nazi with a swastika tattooed to your forehead, they'll mock you for
 
 ~~~ baseless accusations ~~~
 
-there are n numerical representations in base-n, excluding n
+there are n numerical representations in base-n, excluding n; which is 10 in all bases except for n=1
 
 base-16 = {0,1,2,3,4,5,6,7,8,9,a,b,c,d,e,f}
 base-15 = {0,1,2,3,4,5,6,7,8,9,a,b,c,d,e}
@@ -154,6 +154,7 @@ since only having zeros is completely useless for any"-thing" except for zero it
 
 base-01 ≠ {0}
 base-01 = {1}
+base-00 = {0}
 
 ~~~ zero is natural ~~~
 
