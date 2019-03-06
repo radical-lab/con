@@ -241,13 +241,13 @@ Counting accumulates from nothing.
 The first position in a list is one, unless the list lists nothing; the only reason why anachronistic programming languages use nothing to address the first position in a list, is because once upon a time, computational resources were so expensively minimal, that the extraposition was worth it; waste not, want not!
 
 ~~ … ~~
+~~~ Hindu Numbers ~~~
+~~~ Hindu Numerals ~~~
+~~~ Arabic Algebra ~~~
+~~~ Arabic Algorithms ~~~
+~~~ Fraudulent Fibonacci ~~~
 
-{
-Hindu Numbers
-Hindu Numerals
-Arabic Algebra
-Arabic Algorithms
-}
+~~ … ~~
 
 {
 Argument Structure
