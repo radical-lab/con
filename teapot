@@ -335,13 +335,6 @@ Prove ¬P
 Inductive Proofs
 (P(1) ∧ (∀k: P(k) → P(k + 1))) → (∀n: P(n)), where k ≥ 1 ≤ n
 
-need to do this in latex, and dot; next time when applying for jobs
-dot for graph theoretic map of dependencies that lead to श्याम
-	^what i want from proofwiki
-dot nodal vertices hyperlink to latex math mode; challenge accepted (not sure if dot html hyperlinks will work in latex pdf)
-if anyone wants references; provide a flossed logical kbs; or wait until i do it myself
-	Except for /Rape Culture/; since it is not covered by the FOI of any country involved, and I deny every"-thing"!!! :D #plausible_deniability
-
 https://github.com/Shyam-Has-Your-Anomaly-Mitigated/Shyamscript/blob/cf0881840476c166fb5162f50bb26b125b7a89e7/hmm/games/psychic
 http://shyam.id.au/mowgli/
 file:///
@@ -461,6 +454,15 @@ I do not know English perfectly, nor am I familiar with your dialect, but this d
 : However, you need not fear.
 : Ease assured, 't's all well calculated.
 ∴ Shyam has your anomaly mitigated.
+
+~~ Wubba Lubba Dub-Dub ~~
+
+If anyone wants references; provide a flossed logical kbs; or wait until i do it myself!
+Except for /Rape Culture/; since it is not covered by the FOI of any country involved, and I deny every"-thing"!!! :D #plausible_deniability
+
+Wanted to do this in \LaTeX, and dot.
+Dot for graph theoretic map of dependencies that lead to श्याम; what i want from proofwiki.
+Dot nodal vertices hyperlink to \LaTeX math mode; challenge accepted (not sure if dot html hyperlinks will work in latex pdf).
 
 {
 plan life and narrate
