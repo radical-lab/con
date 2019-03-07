@@ -367,6 +367,14 @@ p=E(a÷c²)÷A();
 
 Without mass, no acceleration is paradoxical; it can only increase, or decrease, but not both; well, we just don't know…
 
+F=E(a÷c²);
+F=E(0÷c²);
+F=E(0);
+
+E=F(c²÷a);
+E=F(c²÷0);
+E=F(श्याम);
+
 {
 view-source:http://shyam.id.au/awooga/post.js
 do not go into relativity nor perpetual motion machines nor spirituality; https://time.is/
