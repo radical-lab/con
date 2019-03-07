@@ -379,11 +379,11 @@ E=E(0÷0);
 
 E=F;
 
-a÷b = 0÷0
-0÷0 = 0÷0
+a÷b = 0÷0;
+0÷0 = 0÷0;
 
-a(b÷c) = (ab)÷c
-0(0÷0) = 0÷0
+a(b÷c) = (ab)÷c;
+0(0÷0) = 0÷0;
 
 {
 view-source:http://shyam.id.au/awooga/post.js
