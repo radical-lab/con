@@ -347,7 +347,7 @@ https://en.wikipedia.org/wiki/Tie_(typography)#Papyrological_hyphen
 ~~~ Mathematics Is Exceptional! ~~~
 
 श्याम = 1÷0
-श्याम ≠ n÷0, where n≠1
+श्याम ≠ [n≠1]n÷0
 n÷0 = (n × 1)÷0 = n × (1÷0) = n × श्याम
 
 -श्याम = |श्याम| = +श्याम
@@ -358,8 +358,8 @@ n÷0 = (n × 1)÷0 = n × (1÷0) = n × श्याम
 -|y| = श्याम + 1 = 1 + श्याम = 1 - श्याम
 +|y| = श्याम - 1
 
-श्याम × (2x) = 0, where x is an integer
-श्याम × (2x - 1) = श्याम, where x is an integer
+श्याम × (2⌈x⌉) = 0
+श्याम × (2⌊x⌋ - 1) = श्याम
 श्याम ÷ श्याम = 1
 
 Fracturing श्याम is as trivial as fracturing any conceptual distance from 0 on the number circle.
