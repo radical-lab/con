@@ -373,6 +373,8 @@ F(c²)=E(a);
 E=F(c²÷a);
 F=E(a÷c²);
 p=E(a÷c²)÷A();
+P=E(a÷c²)V;
+P=F(c²÷a)÷t;
 
 ; Without mass, no acceleration is paradoxical; it can only increase, or decrease, but not both; well, we just don't know…
 
