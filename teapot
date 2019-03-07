@@ -419,8 +419,8 @@ a(b÷c)=(ab)÷c;
 a÷b=a(1÷b);
 0÷0=0(1÷0);
 
-0श्याम=0; Makes more sense than…
-0श्याम=श्याम; When considering distance from zero as significant.
+श्याम(0)=0; Makes more sense than…
+श्याम(0)=श्याम(); When considering distance from zero as significant.
 
 a÷a=1; If 'tweren't for this…
 0÷0=1; Dilemma!
