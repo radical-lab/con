@@ -299,7 +299,7 @@ The first position in a list is one, unless the list lists nothing; the only rea
 
 I am not disputing this!
 
-x = 0÷a
+x = 0÷(a+[a≠0]+[-1=a])
 x = 0
 
 I do not even know what this even is!!
