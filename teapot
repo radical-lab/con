@@ -345,7 +345,7 @@ https://en.wikipedia.org/wiki/Hyphen
 https://en.wikipedia.org/wiki/Tie_(typography)#Papyrological_hyphen
 }
 
--श्याम = +श्याम = |श्याम|
+-श्याम = |श्याम| = +श्याम
 श्याम - श्याम = 0 = श्याम + श्याम
 0 - श्याम = श्याम - 0 = 0 + श्याम = श्याम + 0 = श्याम
 -|y| = श्याम + 1 = 1 + श्याम = 1 - श्याम
