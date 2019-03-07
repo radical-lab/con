@@ -398,6 +398,8 @@ d=dilemma;
 adb; dilemma is a binary decision
 adbdc=(adb)dc=ad(bdc);
 adbdc=adcdb=cdadb=cdbda=bdadc=bdcda;
+adb=d(a,b);
+adbdc=d(a,b,c);
 
 {
 view-source:http://shyam.id.au/awooga/post.js
