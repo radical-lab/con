@@ -385,8 +385,11 @@ a÷b=0÷0;
 a(b÷c)=(ab)÷c;
 0(0÷0)=0÷0;
 
-0श्याम = 0; makes more sense than
-0श्याम = श्याम; when considering distance from zero as significant
+a÷b=a(1÷b);
+0÷0=0(1÷0);
+
+0श्याम=0; makes more sense than
+0श्याम=श्याम; when considering distance from zero as significant
 
 {
 view-source:http://shyam.id.au/awooga/post.js
