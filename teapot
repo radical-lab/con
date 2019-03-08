@@ -205,7 +205,7 @@ E=1÷(1÷(m÷p))+(1÷(p÷m));
 
 Passing tiered thresholds should add a base, and subtract the base from the divisibilities; both mental, and physical, must both qualify to raise the base.
 
-E=[m≤p](m+(p÷m))+[p≤m](p+(m÷p));
+E=[m≤p]×(m+(p÷m))+[p≤m]×(p+(m÷p));
 
 ~~ Shyam Can Help Overcome Obsolete Learning ~~
 
