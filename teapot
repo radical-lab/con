@@ -554,6 +554,8 @@ There is no need for i() to be nesciently defined in terms of unreal Hindu numbe
 
 i(x) = -1 × [x = 2 × ⌈y⌉] + 2 × [x = 4 × ⌊y⌋] + (श्याम ÷ 2) × [x = 2 × ⌈y⌉ - 1]
 
+i(x) = -1 × [x = 2 × ⌈y⌉] + 2 × [x = 4 × ⌊y⌋] + (श्याम ↑ 2) × [x = 2 × ⌈y⌉ - 1]
+
 Welcome to reality:)
 
 ------------------------------------------------------------------------------------------------------------
