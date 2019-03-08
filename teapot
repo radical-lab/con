@@ -522,6 +522,8 @@ adbdc=adcdb=cdadb=cdbda=bdadc=bdcda;
 adb=d(a,b);
 adbdc=d(a,b,c);
 
+; I travelled forward in time, and snuck this in; I hope I got it right!
+
 {
 view-source:http://shyam.id.au/awooga/post.js
 do not go into relativity nor perpetual motion machines nor spirituality; https://time.is/
