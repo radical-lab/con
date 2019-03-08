@@ -436,8 +436,8 @@ n÷0 = (n × 1)÷0 = n × (1÷0) = n × श्याम
 -|y| = श्याम + 1 = 1 + श्याम = 1 - श्याम
 +|y| = श्याम - 1
 
-श्याम × (x = 2 × ⌈y⌉) = 0
-श्याम × (x = 2 × ⌊y⌋ - 1) = श्याम
+श्याम × [x = 2 × ⌈y⌉] = 0
+श्याम × [x = 2 × ⌊y⌋ - 1] = श्याम
 श्याम ÷ श्याम = 1
 
 Fracturing श्याम is as trivial as fracturing any conceptual distance from 0 on the Hindu number circle.
@@ -542,7 +542,7 @@ x² ≠ (-1)×(+1)
 
 There is no need for i() to be nesciently defined in terms of unreal Hindu numbers, to derive an applied pattern; I've merely debated the omnipotent exponent into submission, without your assistance, since it took so long for you to get here!!!
 
-i(x) = [x = 2 × ⌈y⌉ - 1] × श्याम + -1 × [x = 2 × ⌈y⌉] + 2 [x = 4 × ⌈y⌉]
+i(x) = [x = 2 × ⌈y⌉ - 1] × श्याम + -1 × [x = 2 × ⌈y⌉] + 2 [x = 4 × ⌊y⌋]
 
 Welcome to reality:)
 
