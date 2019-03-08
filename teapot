@@ -209,7 +209,7 @@ Only teach single Hindu numeral multiplication, and use easy double Hindu numera
 
 Only teach addition of signed Hindu numbers; subtraction is suboptimal.
 
-Only teach prefix functions; operators are inoperable.
+Only teach list processing prefix functions; operators are inoperable for non-binary operations.
 
 Flip the map, using an alternative projection, and put 🖖 Lutriwita on the LHS, and Aotearoa on the RHS; so humanity knows they are not the same country.
 
