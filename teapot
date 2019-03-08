@@ -203,6 +203,8 @@ You earn less incrementally, the healthier you are; this way focus is on the unh
 
 E=1÷(1÷(m÷p))+(1÷(p÷m));
 
+E=[m≤p](m+(m÷p))+[p≤m](p+(p÷m));
+
 ~~ Shyam Can Help Overcome Obsolete Learning ~~
 
 Health-based economy, where students can spend, save, invest, or outlie, and report self reviews for guidance counselling, and ethical human subject research.
