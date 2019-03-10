@@ -455,6 +455,7 @@ Accumulating श्याम is as trivial as accumulating any conceptual distan
 
 श्याम × x = 0 × [x = 2 × ⌈y⌉ ≠ श्याम] + श्याम × [x = 2 × ⌊y⌋ - 1 ≠ श्याम] + (श्याम ↑ 2) × [x = श्याम]
 श्याम ↑ x = 1 × [x = 0] + श्याम × [x = 1] + (श्याम ↑ x) × [x ∉ {0, 1}]
+x ↑ श्याम = 0 × [x = 0] + 1 × [x = 1] + (x ↑ श्याम) × [x ∉ {0, 1}]
 श्याम ↑ 0 ↑ x = 1
 
 Fracturing श्याम is as trivial as fracturing any conceptual distance from 0 on the Hindu number circle of reality.
