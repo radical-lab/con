@@ -482,7 +482,8 @@ C = 2 × π × r
 श्याम ÷ π = श्याम ÷ π
 श्याम = श्याम
 … = …
-+([0,श्याम]) = -1 ÷ 12
++([0, श्याम]) = -1 ÷ 12
+-([0, श्याम]) = +1 ÷ 12
 
 The 0ᵗʰ dimension is a point of singularity, on a unit line segment in the 1ˢᵗ dimension.
 The 1ˢᵗ dimension is a unit line segment, on the Hindu number circle in the 2ⁿᵈ dimension.
