@@ -487,6 +487,7 @@ C = 2 × π × r
 …∞… = …∞…
 +([0, श्याम]) = -1 ÷ 12
 -([0, श्याम]) = +1 ÷ 12
++(-([0, श्याम]),+([0, श्याम])) = (-1 ÷ 12) + (+1 ÷ 12) = 0
 
 The 0ᵗʰ dimension is a real point of singularity, on a real unit line segment in the 1ˢᵗ dimension.
 The 1ˢᵗ dimension is a real unit line segment, on the Hindu number circle of reality in the 2ⁿᵈ dimension.
