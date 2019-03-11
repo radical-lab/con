@@ -402,6 +402,9 @@ infinitesimals approach zero, so where do infinitæls tend towards?
 $$\sqrt[\mp\frac{i}{e}]{\mp r}=1\text{, where $\{r$adicand$\in\mathbb{R}|(+0,+\infty)\}\land\{i$ndex$\in\mathbb{R}|(+0,+\infty)\}\land\{e$xponent$\in\mathbb{R}|[+0,+0]\}$}$$
 
 {
+probably don't need to prove, since this is all unreferenced anyway
+the proofs are implicit
+
 Argument Structure
 P = P(1) ∧ P(2) ∧ P(3) ∧ …
 Q = C(0)
