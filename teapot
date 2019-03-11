@@ -392,7 +392,7 @@ x0 ≠ 0
 
 ब्रह्मगुप्त, the leading authority of nothing, was right all along.
 
-~~~ Archaeology ~~~
+~~~ Archaeology 1 ~~~
 
 The first time I shared my discovery of श्याम was during HE 12015 07 06 13 25, when I posted it to the student forums of my very first mathematical subject for my bachelors; but the course coordinator edited out my proof, leaving behind "<Material about 'dividing by zero' has been removed by a moderator.>", after another student challenged my claim to fame, and responding "At the risk of being superfluous in this crowded discussion: You are correct. There is no safe way to divide by zero, and it is best avoided. Your comments about limits are also apt. I have edited Shyam's post to remove the 'division by zero' discussion.".
 
@@ -406,11 +406,13 @@ $$\sqrt[\frac{y}{0}]{x} = x^{\frac{0}{y}} = x^0 = 1$$
 
 $$x\div\frac{y}{0} = x\times\frac{0}{y} = x\times0 = 0$$
 
-And nobody replied.
+And nobody replied; I never let it go.
 
+~~~ Archaeology 2 ~~~
 
+During HE 12016 03 20 00 32, I emailed my proof to a famous mathematician upon request.
 
-I never let it go.
+{\include some of the emailed files; not the latex proof, since nobody is interested in that}
 
 ~~~ Where Is श्याम? Where Is श्याम? Here He Is! Here He Is! ~~~
 
