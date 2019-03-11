@@ -394,6 +394,13 @@ x0 ≠ 0
 
 ⁽ⁱ÷ᵉ⁾√r = ⁱ√rᵉ = r⁽ᵉ÷ⁱ⁾
 
+i = 1
+e = 0
+
+infinitesimals approach zero, so where do infinitæls tend towards?
+\usepackage{amsmath}\usepackage{amsfonts}
+$$\sqrt[\mp\frac{i}{e}]{\mp r}=1\text{, where $\{r$adicand$\in\mathbb{R}|(+0,+\infty)\}\land\{i$ndex$\in\mathbb{R}|(+0,+\infty)\}\land\{e$xponent$\in\mathbb{R}|[+0,+0]\}$}$$
+
 {
 Argument Structure
 P = P(1) ∧ P(2) ∧ P(3) ∧ …
