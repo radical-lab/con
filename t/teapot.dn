@@ -1,0 +1,311 @@
+\documentclass[12pt,a4paper,oneside]{article}
+
+%%%%%%%% /lib/ %%%%%%%%
+
+\usepackage{svg}
+
+% encoding scheme
+\usepackage[utf8x]{inputenc}
+%\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{textcomp}
+\usepackage{devanagari}
+
+% no hyphenation
+\usepackage[none]{hyphenat}%http://tex.stackexchange.com/a/5039
+
+% maths
+\usepackage{amsfonts}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{mathtools}
+\usepackage{pgfplots}
+
+% other
+\usepackage[left=1cm, right=1cm, top=1in, bottom=1in]{geometry}
+\usepackage{enumitem}
+\usepackage{tabularx}
+\usepackage{xcolor, colortbl}% (x)color
+\usepackage{hyperref}%\usepackage{url}
+\usepackage{graphicx}
+\usepackage[english]{babel}
+%\usepackage[english, hebrew]{babel}
+\usepackage[yyyymmdd]{datetime}\renewcommand{\dateseparator}{--}% \today
+\usepackage{fancyhdr}
+
+%\usepackage[obeyspaces]{url}
+\usepackage{menukeys}
+
+\usepackage{multicol}
+\usepackage{pdfpages}
+
+% strikeout with \sout{...}
+\usepackage{ulem}
+
+%%%%%%%% /cfg/ %%%%%%%%
+
+%\usepackage{parskip}
+%\setlength{\parindent}{0pt}
+
+\definecolor{urllink}{rgb}{.5,.75,.5}
+\definecolor{pdflink}{rgb}{.75,.75,1}
+\hypersetup{
+    colorlinks = false
+    , urlbordercolor  = {urllink}
+    , citebordercolor = {pdflink}
+    , linkbordercolor = {pdflink}
+}
+
+\pagestyle{fancy}
+\fancyhf{}
+\chead{All content used for employment purposes.}% academic/employment
+\rfoot{\hyperlink{contents}{TOC}}
+\cfoot{\thepage}
+\renewcommand{\footrulewidth}{1pt}
+
+% \maketitle
+\title{
+	\vspace*{\fill}
+	{\Huge I'm A Little Teapot, And Here's My Proof!}
+	\\\bigskip{\small by}\\\bigskip
+	{\huge Shyam Has Your Anomaly Mitigated}
+	\\\bigskip{\small published by}\\\bigskip
+	{\LARGE $\vcenter{\hbox{$\sqrt{}$}}$ Research And Development In Computation And Linguistics}
+	\\\bigskip{\small on}\\\bigskip
+	{\Large Bhūmi ∘ Sūrya ∘ Kṣīra-Sāgaraḥ}
+	\\\bigskip{\small during}\\\bigskip
+	{\large HE ∘ 12019 ∘ 04 ∘ 01}
+	\\\bigskip\bigskip\bigskip
+	$\vcenter{\hbox{\includegraphics[keepaspectratio,scale=0.666]{swastika.png}}}$
+	\\\bigskip\bigskip\bigskip
+	$\vcenter{\hbox{\includegraphics[keepaspectratio,scale=0.1825]{garuda.png}}}$
+	\parbox{0.3\textwidth}{\centering{\dn hare k.r.s.na hare k.r.s.na\\k.r.s.na k.r.s.na hare hare\\hare raama hare raama\\raama raama hare hare}}
+	$\vcenter{\hbox{\includegraphics[keepaspectratio,scale=0.1825]{adurag.png}}}$
+	\vspace*{\fill}
+}
+%\underline{\underline{\underline{\Huge\phantom{\SHYAM}}}}\smallskip\\\underline{\underline{\underline{\Huge\SHYAM}}}
+%\includegraphics[keepaspectratio,height=\fontcharht\font`\U]{file.png}
+%\includegraphics[keepaspectratio,height=\fontcharht\font`\R]{file.png}
+%\includepdf[pages=-]{ref.pdf}
+%
+%\author{\Huge\ShYaM\smallskip\\\small\Shyam\smallskip}
+\date{}
+%\version{1337}
+
+% Shyam
+\def\Shyam{$[$\texttt{\href{mailto:shyam@shyam.id.au?Subject=We need to talk.}{shyam@shyam.id.au}}$]$}
+% SHYAM
+\def\SHYAM{\textbf{S}\textit{hyam} \textbf{H}\textit{as} \textbf{Y}\textit{\kern-.2em{}our} \textbf{A}\textit{nomaly} \textbf{M}\textit{itigated}}
+\def\SHYAM{\textbf{$\mathbb{S}$}\textit{hyam} \textbf{$\mathbb{H}$}\textit{as} \textbf{$\mathbb{Y}$}\textit{\kern-.2em{}our} \textbf{$\mathbb{A}$}\textit{nomaly} \textbf{$\mathbb{M}$}\textit{itigated}}
+% ShYaM
+\def\ShYaM{\rm S\kern-.13em\lower-.47em\hbox{\fontsize{.5em}{0em}\selectfont H}\kern-.0555em{}Y\kern-.442em\lower.227em\hbox{A}\kern-.25em{}M}
+
+\def\dshyam{{\dn "syaama}}
+\def\dkrishna{{\dn k.r.s.na}}
+\def\davatar{{\dn avataara}}
+\def\dvishnu{{\dn vi.s.nu}}
+\def\dgita{{\dn bhagavadgiitaa}}
+\def\dkarma{{\dn karma}}
+
+\newcommand{\fSH}[1]{{\colorbox{black}{\texttt{#1}}}}
+\newcommand{\fsh}[1]{{\color{gray}{#1}}}
+\newcommand{\fcurve}[1]{(\fsh{#1})}
+\newcommand{\fstrike}[1]{\fsh{\sout{#1}}}
+\newcommand{\fquote}[1]{``#1''}
+\newcount\tmp\newcommand{\n}[1]{\tmp=0\loop\advance\tmp by 1\linebreak\ifnum\tmp<#1\repeat}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{document}%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\newgeometry{margin=0in}
+\clearpage
+\maketitle
+\thispagestyle{empty}
+\restoregeometry
+\clearpage
+\vspace*{\fill}
+\abstract{}
+\vspace*{\fill}
+\hypertarget{contents}{}
+\tableofcontents
+\vspace*{\fill}
+\clearpage
+%\raggedright
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{First Impressions}
+
+%🖖 Hello World,
+Hello World,
+\medskip
+\\My name is Shyam, and I'm mad as a Hatter!
+\medskip
+\\You should just give me a PHD, without requiring me to complete the final kobayashi maru subject for my bachelors, and accept me as \textit{The Doctor Of Mathematics}; so when they call for a doctor in emergencies, I can burst into the room, and announce \fquote{I am The Doctor!}, and everyone will query \fquote{Doctor Who?}!!
+\medskip
+\\Śyāma is how you pronounce Shyam, and \dshyam{} is how you spell Śyāma; \dshyam{} is one of the 108 names of \dkrishna{}, an \davatar{} of \dvishnu{}, who was hunted to death by an archer, after singing the \dgita{}; a conversation, where he peer pressures a friend into killing their relatives, and friends, to score \dkarma{} points!!! \texttt{:D}
+\medskip
+\\My favourite real integers are; \dshyam{}, -1, 0, 1, 2, 3, 6, 10, 11, 16, 32, 42, 64, 69, 72, 73, 83, 89, 101, 108, 1337, 1727, 1989, 2072, 2073, 2414, 2419, 2914, 2919, 8730, 11989, 12072, 12073, and \dshyam{}.
+\medskip
+\\I whisper sweet nothings to my machine, and it just listens to me \fcurve{like nobody else will}; I am \textit{The Computer Whisperer}, but I whisper with my finger tips…
+\medskip
+\\I am unemployed, and I do not sign non-disclosure agreements, so email me for my personal documentation; I am also a Robot.
+\begin{itemize}[itemsep=0pt, parsep=0pt, labelsep=0pt]
+	\item[\texttt{R}]\texttt{ MIT}
+	\item[\texttt{O}]\texttt{ UA}
+	\item[\texttt{B}]\texttt{ achelor}
+	\item[\texttt{O}]\texttt{ f}
+	\item[\texttt{T}]\texttt{ echnology}
+	\item[\texttt{S}]\texttt{ tudents}
+\end{itemize}
+\fcurve{Until they changed the degree a B.IT!}
+\\\textit{We are Robots. We are Students. We do not plagiarise. We do not cheat. Employ us.}
+\medskip
+\\Live Long $\land$ Prosper \textbackslash{}$\lor$/,
+\\Shyam Has Your Anomaly Mitigated! \texttt{;)}
+%\\🕴
+\\Migrating Infestive Bugs !!
+\medskip
+\\PS: My email is shyam@shyam.id.au; I will definitely get it if the subject is \texttt{/Handbook of Robotics, 56th Edition, 12058 H.E./}.
+\medskip
+% If Bill Nye the Science Guy did it; they'd use \fquote{The End Is Nye}.
+\\PSS: I expect the news headlines to be \fquote{The Man Who Knows Everything Divides By Zero}, and \fquote{The Man Who Knows Everything Divided By Zero Equals \dshyam}, and \fquote{Shyam Has Your Anomaly Mitigated, And Existentially Is Odd; Understandably}, and \fquote{We Discovered An Undefined Flying Teapot, But We Don't Understand What The Pioneer Plaque Means}, and \fquote{We Found Porn, In Space}, and \fquote{Space Porn}, and \fquote{We Scavenged Scrap Space Junk, And Melted It Down For An Early Retirement}, and \fquote{We Got It All Wrong} \fcurve{Hindu numerals, Hindu numbers, Hindu integer sequences, and Hindu number circles of realities}, and \fquote{Mathematics Is Exceptional}, and \fquote{Nothing Is Natural}, and \fquote{Real Aryans Know \texttt{\textbackslash{}}\fquote{-thing\texttt{\textbackslash{}}}s}, and \fquote{Massive Acceration Is Querious}, and \fquote{Without Mass, No Acceleration Is Paradoxical}, and \fquote{Well, We Just Don't Know…}, and \fquote{You Can Run, But You Cann't Hide}, and \fquote{Nothing Is Significant}, and \fquote{The Leading Authority Of Nothing, Was Right All Along}, and \fquote{Computers Are Progressive, But The Languages They Use Aren't}, and \fquote{Reality Is Complex}, and \fquote{The End Of The Line}, and \fquote{The End Is Nigh}, and \fquote{The Nazis Would've Lost, Even If They'd've Won}.
+\medskip
+\\PSSS: I also expect this will mean a half-dozen papers, a thesis or two, and a paragraph in every textbook on number theory; because Cueball stroked it for queuing theory, but mines longer, and size matters.
+
+\section{All The Worlds A Stage}
+
+\subsection{World Records}
+
+I hold the world record for the shortest possible abstract; the empty set.
+
+\subsection{Just Cause}
+
+This is my thesis statement; that $(∓1)\div0$ is my numerical point.
+
+\begin{center}
+	\dshyam
+\end{center}
+
+\noindent{}Radical is my logo.
+
+   $$\sqrt{}$$
+
+\noindent{}The red, black, and white, swastika is my flag.
+
+\begin{center}
+	$\vcenter{\hbox{\includegraphics[keepaspectratio,scale=0.333]{swastika.png}}}$
+\end{center}
+
+\noindent{}Garuda is my emblematic coat of arms.
+
+\begin{center}
+	$\vcenter{\hbox{\includegraphics[keepaspectratio,scale=0.1825]{garuda.png}}}$
+\end{center}
+
+\noindent{}The mahā-mantra is my mantra.
+
+\begin{center}
+	\parbox{0.3\textwidth}{\centering{\dn hare k.r.s.na hare k.r.s.na\\k.r.s.na k.r.s.na hare hare\\hare raama hare raama\\raama raama hare hare}}
+\end{center}
+
+\noindent{}I am a Hindu, and I'm taking it all back.
+
+\subsection{Stage Fright}
+
+The Nazis are Christian, but used symbols of Hinduism to undermine it; they never intended to win the war; how could they? They wære one tiny insignificant little country who attempted world domination twice in a row, and failed successfully.
+\\The Nazis are European, whose ancestors forsook their own religion for a middle eastern religion; otherwise, we would know about the Stonehenge.
+\\European religions are predominantly polytheistic; pagan apparently means polytheist, so I am a pagan, but I've always thought of paganism as a religion; Greek Olympians Zeus, Hades, Hera, Hercules, and Xena; Norse Vikings Thor, and Loki.
+\\Abrahamic religions are monotheistic; Jews, Christians, Muslims, and Rastafarians.
+\\The Saudi Arabians continue to behead witches; their sultans, or whatever, are afraid a witch will steal their power like in \textit{Beauty And The Beast}; they do not understand that movies, and television shows, and books, are all fiction; I suspect their language probably does not support the concept, as Klingon does not support begging \fquote{please}s, and sycophantising \fquote{thank you}s.
+\\The Saudi Arabian sultans have a special task force of witch hunters, who rummage through decapitated witches possessions looking for magic lamps.
+\\The Saudi Arabian sultans like to think of what they will wish for when they finally discover a genie; eternal youth, immortality,.; they then decide everyone else should wish to be a genie, so they get one thousand, and one, wishes, and will set them all free as their final wish.
+\\The Saudi Arabian sultans also behead witches because they are afraid of sea, and moon, splitting prophets sending them to Hell.
+\\They break the ten commandments; beheading witches is killing thy neighbour; the British royal family is going to Hell too, for capitalism, but everyone knows that the church of England is just a social club anyway; the British also sent all of their convicts to \textit{Australia Prison}, to avoid what happened to the French; vive la guillotine!
+\\Jesus has gaps in the history books; it is believed he travelled to India to become a mystic yogi, but it is most likely he became a godman instead; and the Romans killed him because his magic, that wouldn't even fool \textit{Penn \& Teller}, was a threat to their power; even though they lost it all anyway, meanwhile Christianity lives on; et tu brute?
+\\So Saudi Arabian sultans kill witches because they want to prevent representatives of God from liberating their people.
+\\Saudi Arabian sultans are satanic ritualists, while monotheists have ungodly angels; meanwhile magicians can't overthrow the authoritah, nor can they save themselves from death, even though they can others; wherefore art thou magic?
+\\
+\\If Nazis are Christian, why else would they use Hinduism instead; if 'tweren't for scripted failure?
+\\The rest of the world worshipfully sacrificed their lives for the Jews; even though Hitler gave them all a chance to save them in the first place.
+\\Agora \fcurve{2009} documents how everyone hated the Jews, then they all converted to Christianity, and still hated the Jews; even going so far as to attack them on a Spartan day, when the Jews could not defend themselves; even though the ten commandments sent them all to Hell for it.
+\\Obviously Christianity was a failed attempt to passively destroy antisemitism, and the world war was an attempt to actively destroy antisemitism; whilst subliminally conspiring against Hinduism.
+\\The Vatican supported agora \fcurve{2009} depictions of Christian hostility, human rights abuses, and other atrocities.
+\\The Vatican, and the Red Cross, helped Nazis escape.
+\\The \textit{Vatican Secret Archives} may hide texts, and other objectivity, that one may never see during their lifetime; even if it could mean the difference between Heaven, and Hell.
+\\I do not consider closed source suppressive cults, like the Vatican, and Scientology, to be valid religions.
+
+\newpage
+\noindent{}Jesus was a Jew, and their act of self-sacrifice was very Spock; crowned \textit{King Of The Jews}, so why aren't Christians Jews?
+\\Hitler was a Jew, and their plot was blonde enough to actually work; winning wars of such scale, do you even occupy?
+\\
+\\Jews were less than half of the Holocaust, but are more than half of the cognizance; Hinduism was most of the presentation, even though Christianity was most of the affiliation, and had they used the Christian cross instead… \fcurve{God would not be cross with them, and they would have won the war, systematically committed genocide on a global scale, before conclusively wiping themselves out as an unsustainable monoculture; all's well that ends well.}
+\\They lost the war by angering the Gods with their colour vision deficiency; Hindu orange is not red!
+\\Caucasia, albino, and vitiligo, are skin diseases caused by an ultraviolent \fcurve{invasive} solar-photonic immunodeficiency; so much for Nazi eugenics!!
+\\Blondes lack the intellectual capacity to recognise their own shortcomings; contrafibularities!!! :D
+\\
+\\The Nazis can take me to court for intellectual property infringement; but in most jurisdictions, this should be enough to put them \fstrike{down} in prison for discrimination.
+
+\subsection{Rape Culture}
+
+\textbf{What's't like in prison for males?}
+\begin{itemize}[itemsep=0pt, parsep=0pt]
+	\item \fquote{Got crushed nuts?}; they crush your nuts while raping Uranus to Titan the gas chamber, and make you sing like a little girl; after they laugh about how funny it was, with your eyes popping out of your red head; high pitched \fquote{ergh}, LOL, \fquote{ergh}, LOL; while rocking their head back each time, making a double-chinned funny face, and widening their eyes while rolling them back; they do it until you start laughing about it too, then tell you how fucked up you are, how fucked up your life is, how you are a total fuck up, and that you are going to get fucked again, and again, and a…like a merry-go-round.
+	\item \fquote{Suck shit!}; they will tell you to be a cocksucker, and if you hesitate for an infinitesimal interval of time, they will feed you a knuckle sandwich that will break your front teeth so your back teeth prevent you from closing your gums, and then they will rape Uranus, before raping your pie hole; everyone who has false front teeth is a jailbird; literally everyone; there are no exceptions$\curvearrowright$.%$\searrow$.%↘.%↷.
+	\item They let you wear a wig, and makeup; so the guards know you are not getting raped when you're screaming for crushed nuts.
+\end{itemize}
+
+\noindent{}\textbf{What's't like in prison for females?}
+\begin{itemize}[itemsep=0pt, parsep=0pt]
+	\item \fquote{Clitical nipple cripple}; they nipple cripple your clit to make you icecream.
+	\item They poke out your third eye \fcurve{brown eye}, and they also poke you in your fourth eye \fcurve{whispering eye}.
+	\item They make you pull a goatse, and then close it, and then goatse again, and then...while encouraging you to do it faster, and faster, and faster, and wider, and wider, and wider; then they start punching their fist in each time when it is wide enough, and then they start fisting you to their elbow.
+	\item They shove their shitty fist in your pussy, passed your cervix, and into your womb; then they open, and close, their hand, while informing you that you will never have babies. \fcurve{Medical professionals do not back these claims; some people are just born infertile, defective, or incompatible, and think prison caused it; it takes two to tango.}
+	\item You also get knuckle sandwiches; false teeth, and glass eyes.
+\end{itemize}
+
+\newpage
+\noindent{}\textbf{What's't like in prison for everyone?}
+\begin{itemize}[itemsep=0pt, parsep=0pt]
+	\item They man-handle you; including pulling hair, rubbing raw, scratching, and biting. \fcurve{Not just your genitals!}
+	\item In the courtyard, they will befriend you, and ask you if you've been sexually abused; no matter what you say, they will sympathise, relate to it, and invite you to join their gang, which was formed by people like you to protect yourselves; you'll go, and sit, with them, and there will be a large group, large enough to form a human wall; the guard will come over to see over their shoulders, and check all is well; everyone will say yes, and look to you encouragingly, and you will agree; as soon as the guard leaves, they will gag `n' bag you.
+	\item If you snitch, they gouge out your eye\fcurve{s}; then they abuse you with fake voices so you cannot snitch; growling \fquote{Fee fi fo fum, I'm gonna fuck you in the bum!}, and squeaking \fquote{Hickory dickory dock, it's time to suck my cock!}.
+	\item Fights are fake for distracting the guards.
+	\item Inmates punch guards in the head, and everyone points at you.
+	\item They offer to go easier on you if you start fights, punch guards, smuggle Uranus, and stuff; to prevent you from using good behaviour to escape early; \fstrike{is} was it worth it?
+	\item Prison riots are how they get you in the end; even isolation isn't safe.
+\end{itemize}
+
+\noindent{}Juvie is the complete opposite to prison; in juvie it's better to be older, while in prison it's better to be younger.
+\\
+\\Most of this can happen in jail as well; where the cameras are fawlty, but equipped with an indicator light, that indicates when the camera is functioning, and when there is a \fquote{blackout}; when the camera is malfunctioning, bad stuff will happen to you; the technicians say there are gremlins, and hackers, in the system. \fcurve{But we all know it is systemic; as the Russians know everything before the British? \textit{Yes, Minister!}}
+\\If they show you your cell, but don't put you in straight away; your inmates will get incentives for scaring you into a submissive vegetable, just like lawyers.
+\\Before letting you in; they give your inmates gum to smear on the camera, before abusing you, and when they come in to scrape it off the camera; they kick you when you're down, giving you the steel-toed boot, but make out like it's an accidental trip with your inmates jeering while lined up against the wall.
+\\In jail the police officers will make you pay tickets; they make you say a truth, and then make you tell a lie, which makes you lying to a police officer, and then you go back to the truth, which makes you lie for a second time, and this can go back, and forths, until you end up paying lots of tickets; they would've let you go anyway, but they have hard evidence in the form of an audio recording of you lying just to get out, and away, from the abuse that occurs when the cameras are dysfunctioning.
+\\If your cell is empty, government employees will act accordingly; sometimes they are even undercover police officers, who may be gay, or gay for pay, but are probably into \textit{BDSM}. It is a good way to train undercover police officers; if you can't break someone else in, then you'ren't cutout for the roleplay.
+\\
+\\Talk to lawyers; people tell them all their sob stories when they want to sue their inmates, guards, prison, and government, all at the same time because their neuroplasticity adapted, and now they spend all their time, and money, on therapy, and sex toys.
+But lawyers'll say anything to keep you out of prison for government incentives.
+All good lawyers give the same sex advice, no matter how much you pay, and whether you like it, or not; they tell you to be a cocksucker \fcurve{or kittylicker}, put out Uranus, be prepared for the worst of it, do not trust anyone, and don't \fstrike{panic} snitch.
+\\
+\\If you're a Nazi with a swastika tattooed to your forehead, they'll mock you for being a Nazi Christian whose forsaken the Christian cross in favour of Hinduism; the \textit{Stanford Prison Experiment} taught us boredom leads to bullying, which was shortly followed by \textit{Rat Park} teaching us bullying leads to addiction.
+
+\subsection{Contrafibularities}
+
+\subsubsection{Fool Me Once, Fool Me Twice}
+
+%Blonde jokes ridicule a second attempt at world domi-nation; \R{נקמת היהודים}.
+\fcurve{Deutschland was blonde enough to proceed; lacking the intellectual capacity to succeed.}
+
+\subsubsection{All Jokes Aside}
+
+The original blonde joke was probably about black Hitler leading the blondes against non-blondes.
+%\fcurve{Black Hitler was like black \R{יֵשׁוּעַ}; they were both \R{יהודי}, but their followers wære not.}
+
+\subsubsection{Educated Applebys, And Amish Oranges}
+
+Thanks to the little apple song, I now understand the Nazis with their golden angels, and reddish devils; they were led by a blackish badasssnake.
+
+\end{document}
+% add a moral to the story: governments should trust their own citizens, and floss their source, since spies already have it; vets miss the long game, fake identities, and stolen identities.
