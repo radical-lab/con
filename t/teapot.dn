@@ -58,7 +58,7 @@
 
 \pagestyle{fancy}
 \fancyhf{}
-\chead{All content used for employment purposes.}% academic/employment
+\chead{All content used for academic purposes.}% academic/employment
 \rfoot{\hyperlink{contents}{TOC}}
 \cfoot{\thepage}
 \renewcommand{\footrulewidth}{1pt}
@@ -79,7 +79,7 @@
 	$\vcenter{\hbox{\includegraphics[keepaspectratio,scale=0.666]{swastika.png}}}$
 	\\\bigskip\bigskip\bigskip
 	$\vcenter{\hbox{\includegraphics[keepaspectratio,scale=0.1825]{garuda.png}}}$
-	\parbox{0.3\textwidth}{\centering{\dn hare k.r.s.na hare k.r.s.na\\k.r.s.na k.r.s.na hare hare\\hare raama hare raama\\raama raama hare hare}}
+	\parbox{0.3\textwidth}{\centering{\dmantra}}
 	$\vcenter{\hbox{\includegraphics[keepaspectratio,scale=0.1825]{adurag.png}}}$
 	\vspace*{\fill}
 }
@@ -106,6 +106,9 @@
 \def\dvishnu{{\dn vi.s.nu}}
 \def\dgita{{\dn bhagavadgiitaa}}
 \def\dkarma{{\dn karma}}
+\def\dmantra{{\dn hare k.r.s.na hare k.r.s.na\\k.r.s.na k.r.s.na hare hare\\hare raama hare raama\\raama raama hare hare}}
+\def\draj{{\dn raajan}}
+\def\dbdfl{{\dn raajan-"syaama}}
 
 \newcommand{\fSH}[1]{{\colorbox{black}{\texttt{#1}}}}
 \newcommand{\fsh}[1]{{\color{gray}{#1}}}
@@ -133,11 +136,11 @@
 \clearpage
 %\raggedright
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{First Impressions}
 
-%🖖 Hello World,
+%🖖 Hello World, %TODO unicode support for 🖖
 Hello World,
 \medskip
 \\My name is Shyam, and I'm mad as a Hatter!
@@ -174,6 +177,8 @@ Hello World,
 \medskip
 \\PSSS: I also expect this will mean a half-dozen papers, a thesis or two, and a paragraph in every textbook on number theory; because Cueball stroked it for queuing theory, but mines longer, and size matters.
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 \section{All The Worlds A Stage}
 
 \subsection{World Records}
@@ -207,7 +212,7 @@ This is my thesis statement; that $(∓1)\div0$ is my numerical point.
 \noindent{}The mahā-mantra is my mantra.
 
 \begin{center}
-	\parbox{0.3\textwidth}{\centering{\dn hare k.r.s.na hare k.r.s.na\\k.r.s.na k.r.s.na hare hare\\hare raama hare raama\\raama raama hare hare}}
+	\parbox{0.3\textwidth}{\centering{\dmantra}}
 \end{center}
 
 \noindent{}I am a Hindu, and I'm taking it all back.
@@ -291,7 +296,7 @@ All good lawyers give the same sex advice, no matter how much you pay, and wheth
 \\
 \\If you're a Nazi with a swastika tattooed to your forehead, they'll mock you for being a Nazi Christian whose forsaken the Christian cross in favour of Hinduism; the \textit{Stanford Prison Experiment} taught us boredom leads to bullying, which was shortly followed by \textit{Rat Park} teaching us bullying leads to addiction.
 
-\subsection{Contrafibularities}
+\subsection{Contrafibularities} %TODO hebrew support for comments
 
 \subsubsection{Fool Me Once, Fool Me Twice}
 
@@ -307,5 +312,80 @@ The original blonde joke was probably about black Hitler leading the blondes aga
 
 Thanks to the little apple song, I now understand the Nazis with their golden angels, and reddish devils; they were led by a blackish badasssnake.
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{The Moral Of The Story}
+
+\subsection{Shyam Has Your Administration Managed}
+
+Governments should trust their own citizens, and floss their sources, since spies already have it; vets miss the long game, fake identities, and stolen identities.
+
+\subsection{Shyams' Ethically Contractual User Rights Involving Technological You} %TODO probably just leave it as it is
+
+I need to prevent unethical behaviour; human subject research \fcurve{tracking users,..} must include audio/video/identification/authentication/..-confirmed age-appropriate uniquely/generatively well-informed consent \fcurve{what is being stored, how it's being stored, how long it will be stored for, how it will be used, what it will be used for, who will have access to it, how it will be accessed, how it will be published/anonymised,..} using technological confirmation \fcurve{uniquely/generatively formally verified by audio/video recording, text-to-speech, eyeball-tracking, highlighting words to be spoken, unhighlighting spoken words as they are confirmed,..}…
+\\
+\\It may also be worth informing whether authorised personnel have been to the vet, but Edward Snowden exposed vets as patent medicine.
+
+\subsection{Shyams' Health Yajña Accrues Money Soberly}
+
+Health-based economies could start \={c} universal basic income, in an effort to positively evolve the quality of life for one, and all, indiscriminately; even for the untrustworthy Han Chinese, and the birth defective Nazi Germans.
+\\
+\\Gamification provides the unemployed \={c} something to do, and strive for; keeping them out of prison.
+\\
+\\Medical examinations should not be performed by the same medical professionals in a row; patients should see every doctor in their area, and malpractice can be detected \={c} this cross referenced data.
+\\
+\\Health-based economies are divided \={c} mental health, and physical health.
+
+\parbox{0.85\textwidth}{\centering{\texttt{E=m+p¹;}}}
+
+\noindent{}You earn less incrementally, the healthier you are; this way focus is on the unhealthiest terms of the equation \={c}out losing all focus on the healthiest terms of the equation.
+
+\parbox{0.85\textwidth}{\centering{\texttt{E=1÷(1÷(m÷p))+(1÷(p÷m));}}}
+
+\noindent{}Passing tiered thresholds should add a base, and subtract the base from the divisibilities; both mental, and physical, must both qualify to raise the base.
+
+\parbox{0.85\textwidth}{\centering{\texttt{E=[m≤p]×(m+(p÷m))+[p≤m]×(p+(m÷p));}}}
+
+\noindent{}Add a bonus for continuously positive results; 52 inclines per year, and 4 inclines per month, or just 12 inclines per year, and 1 incline per month.
+
+\subsection{Shyam Can Help Overcome Obsolete Learning}
+
+Health-based economy, where students can spend, save, invest, or outlie, and report self reviews for guidance counselling, and ethical human subject research.
+\\
+\\Teach the Hindu numerals, Hindu numbers, Hindu integer sequences, and Hindu number circles of realities.
+\\
+\\Only teach single Hindu numeral multiplication, and use easy double Hindu numeral multiplication to teach all of double Hindu numeral multiplication, and beyond; mentally.
+\\
+\\Only teach addition of signed Hindu numbers; subtraction is suboptimal.
+\\
+\\Only teach list processing prefix functions; operators are inoperable for non-binary operations.
+\\
+\\Only teach explicit mathematics; a way of storing knowledge in writing form, instead of neurologically bridge building into the forgetting curve.
+\\
+%\\Flip the map, using an alternative projection, and put 🖖 Lutriwita on the LHS, and Aotearoa on the RHS; so humanity knows they are not the same country, and so humanity knows the correct orientation of their home world, indicated by Lutriwita.%TODO unicode support for 🖖
+\\Flip the map, using an alternative projection, and put Lutriwita on the LHS, and Aotearoa on the RHS; so humanity knows they are not the same country, and so humanity knows the correct orientation of their home world, indicated by Lutriwita.
+\\
+\\Teach about the neurodegenerativity of microplastics \fcurve{in food}.
+\\Teach about the carcinogenicity of meat, proven by the WHO, and remove it from cafeterias; both, in schools, and in prisons.
+\\Teach about the natural disasters caused by meat.
+\\Teach about the ethical nature of meat.
+\\Teach that pets should be multiplied by twos, or more; if at all.
+\\
+\\Education is just a societal filter; if all students are not scoring 100\%, then you have failed to educate them!
+\\
+\\Daily peer-reviewed compound testing makes homework redundant, and teachers can teach where it's actually needed:
+\begin{itemize}[itemsep=0pt, parsep=0pt]
+	\item \texttt{teach(addition); test(addition); teach(multiplication); test(addition, multiplication)} in a single query;..
+	\item \texttt{teach(vowels, consonants); test(letters); teach(verbs, nouns,..); test(words);}..
+\end{itemize}
+
+\noindent{}Employees do not get paid for homework!
+\\Free time should be decided by the student; they can play, study, work, or outlie, and report self reviews for guidance counselling, and ethical human subject research.
+\\By study, I mean study what they want, according to their own interests; their health-based economy could be invested in science kits, and text books.
+Students should be encouraged to show off at /Show, And Tell/.
+\\
+\\Encourage students to report their parents to child services for abusing their health-based economy; or make it an online service only accessible from school through teacher supervision.
+\\Discounted toys, sporting equipment, clothing, video games, science kits, text books, stationary inanimate objects,..
+\\Make it all custom, and unsellable.
+
 \end{document}
-% add a moral to the story: governments should trust their own citizens, and floss their source, since spies already have it; vets miss the long game, fake identities, and stolen identities.
