@@ -63,12 +63,20 @@
 \cfoot{\thepage}
 \renewcommand{\footrulewidth}{1pt}
 
+% Shyam
+\def\Shyam{$[$\texttt{\href{mailto:shyam@shyam.id.au?Subject=We need to talk.}{shyam@shyam.id.au}}$]$}
+% SHYAM
+\def\SHYAM{\textbf{S}\textit{hyam} \textbf{H}\textit{as} \textbf{Y}\textit{\kern-.2em{}our} \textbf{A}\textit{nomaly} \textbf{M}\textit{itigated}}
+\def\SHYAM{\textbf{$\mathbb{S}$}\textit{hyam} \textbf{$\mathbb{H}$}\textit{as} \textbf{$\mathbb{Y}$}\textit{\kern-.2em{}our} \textbf{$\mathbb{A}$}\textit{nomaly} \textbf{$\mathbb{M}$}\textit{itigated}}
+% ShYaM
+\def\ShYaM{\rm S\kern-.13em\lower-.47em\hbox{\fontsize{.5em}{0em}\selectfont H}\kern-.0555em{}Y\kern-.442em\lower.227em\hbox{A}\kern-.25em{}M}
+
 % \maketitle
 \title{
 	\vspace*{\fill}
 	{\Huge I'm A Little Teapot, And Here's My Proof!}
 	\\\bigskip{\small by}\\\bigskip
-	{\huge Shyam Has Your Anomaly Mitigated}
+	{\huge \ShYaM{} Has Your Anomaly Mitigated}
 	\\\bigskip{\small published by}\\\bigskip
 	{\LARGE $\vcenter{\hbox{$\sqrt{}$}}$ Research And Development In Computation And Linguistics}
 	\\\bigskip{\small on}\\\bigskip
@@ -91,14 +99,6 @@
 %\author{\Huge\ShYaM\smallskip\\\small\Shyam\smallskip}
 \date{}
 %\version{1337}
-
-% Shyam
-\def\Shyam{$[$\texttt{\href{mailto:shyam@shyam.id.au?Subject=We need to talk.}{shyam@shyam.id.au}}$]$}
-% SHYAM
-\def\SHYAM{\textbf{S}\textit{hyam} \textbf{H}\textit{as} \textbf{Y}\textit{\kern-.2em{}our} \textbf{A}\textit{nomaly} \textbf{M}\textit{itigated}}
-\def\SHYAM{\textbf{$\mathbb{S}$}\textit{hyam} \textbf{$\mathbb{H}$}\textit{as} \textbf{$\mathbb{Y}$}\textit{\kern-.2em{}our} \textbf{$\mathbb{A}$}\textit{nomaly} \textbf{$\mathbb{M}$}\textit{itigated}}
-% ShYaM
-\def\ShYaM{\rm S\kern-.13em\lower-.47em\hbox{\fontsize{.5em}{0em}\selectfont H}\kern-.0555em{}Y\kern-.442em\lower.227em\hbox{A}\kern-.25em{}M}
 
 \def\dshyam{{\dn "syaama}}
 \def\dkrishna{{\dn k.r.s.na}}
@@ -140,13 +140,13 @@
 
 \section{First Impressions}
 
-U+1F596 Hello World,%TODO unicode support for 🖖
+\texttt{U+1F596} Hello World,%TODO unicode support for 🖖
 \medskip
 \\My name is Shyam, and I'm mad as a Hatter!
 \medskip
 \\You should just give me a PHD, without requiring me to complete the final kobayashi maru subject for my bachelors, and accept me as \textit{The Doctor Of Mathematics}; so when they call for a doctor in emergencies, I can burst into the room, and announce \fquote{I am The Doctor!}, and everyone will query \fquote{Doctor Who?}!!
 \medskip
-\\Śyāma is how you pronounce Shyam, and \dshyam{} is how you spell Śyāma; \dshyam{} is one of the 108 names of \dkrishna{}, an \davatar{} of \dvishnu{}, who was hunted to death by an archer, after singing the \dgita{}; a conversation, where he peer pressures a friend into killing their relatives, and friends, to score \dkarma{} points!!! \texttt{:D}
+\\Śyāma is how you pronounce Shyam, and \dshyam{} is how you spell Śyāma; \dshyam{} is one of the 108 names of \dkrishna{}, an \davatar{} of \dvishnu{}, hunted to death by an archer, after singing the \dgita{}; a conversation, where he peer pressures a friend into killing their relatives, and friends, to score \dkarma{} points!!! \texttt{:D}
 \medskip
 \\My favourite real integers are; \dshyam{}, -1, 0, 1, 2, 3, 6, 10, 11, 16, 32, 42, 64, 69, 72, 73, 83, 89, 101, 108, 1337, 1727, 1989, 2072, 2073, 2414, 2419, 2914, 2919, 8730, 11989, 12072, 12073, and \dshyam{}.
 \medskip
@@ -169,10 +169,10 @@ U+1F596 Hello World,%TODO unicode support for 🖖
 %\\🕴
 \\Migrating Infestive Bugs !!
 \medskip
-\\PS: My email is shyam@shyam.id.au; I will definitely get it if the subject is \texttt{/Handbook of Robotics, 56th Edition, 12058 H.E./}.
+\\PS: My email is $[$\texttt{\href{mailto:shyam@shyam.id.au?Subject=Handbook of Robotics, 56th Edition, 12058 H.E.}{shyam@shyam.id.au}}$]$; I will definitely get it if the subject is \texttt{/\^{}Handbook of Robotics, 56th Edition, 12058 H.E.\$/}.
 \medskip
 % If Bill Nye the Science Guy did it; they'd use \fquote{The End Is Nye}.
-\\PSS: I expect the news headlines to be \fquote{The Man Who Knows Everything Divides By Zero}, and \fquote{The Man Who Knows Everything Divided By Zero Equals \dshyam}, and \fquote{Shyam Has Your Anomaly Mitigated, And Existentially Is Odd; Understandably}, and \fquote{We Discovered An Undefined Flying Teapot, But We Don't Understand What The Pioneer Plaque Means}, and \fquote{We Found Porn, In Space}, and \fquote{Space Porn}, and \fquote{We Scavenged Scrap Space Junk, And Melted It Down For An Early Retirement}, and \fquote{We Got It All Wrong} \fcurve{Hindu numerals, Hindu numbers, Hindu integer sequences, and Hindu number circles of realities}, and \fquote{Mathematics Is Exceptional}, and \fquote{Nothing Is Natural}, and \fquote{Real Aryans Know \texttt{\textbackslash{}}\fquote{-thing\texttt{\textbackslash{}}}s}, and \fquote{Massive Acceration Is Querious}, and \fquote{Without Mass, No Acceleration Is Paradoxical}, and \fquote{Well, We Just Don't Know…}, and \fquote{You Can Run, But You Cann't Hide}, and \fquote{Nothing Is Significant}, and \fquote{The Leading Authority Of Nothing, Was Right All Along}, and \fquote{Computers Are Progressive, But The Languages They Use Aren't}, and \fquote{Reality Is Complex}, and \fquote{The End Of The Line}, and \fquote{The End Is Nigh}, and \fquote{The Nazis Would've Lost, Even If They'd've Won}.
+\\PSS: I expect the news headlines to be \fquote{The Man Who Knows Everything Divides By Zero}, and \fquote{The Man Who Knows Everything Divided By Zero Equals \dshyam}, and \fquote{Shyam Has Your Anomaly Mitigated, And Existentially Is Odd; Understandably}, and \fquote{We Discovered An Undefined Flying Teapot, But We Don't Understand What The Pioneer Plaque Means}, and \fquote{We Found Porn, In Space}, and \fquote{Space Porn}, and \fquote{We Scavenged Scrap Space Junk, And Melted It Down For An Early Retirement}, and \fquote{Autoships Discovered Space Junk Missed During The Cleansing Of The Ancients; Luckily We Disabled Autoprocessing, Otherwise We'd've Missed This Bountiful Declaration Of War}, and \fquote{We Got It All Wrong} \fcurve{Hindu numerals, Hindu numbers, Hindu integer sequences, and Hindu number circles of realities}, and \fquote{Mathematics Is Exceptional}, and \fquote{Nothing Is Natural}, and \fquote{Real Aryans Know \texttt{\textbackslash{}}\fquote{-thing\texttt{\textbackslash{}}}s}, and \fquote{Massive Acceration Is Querious}, and \fquote{Without Mass, No Acceleration Is Paradoxical}, and \fquote{Well, We Just Don't Know…}, and \fquote{You Can Run, But You Cann't Hide}, and \fquote{Nothing Is Significant}, and \fquote{The Leading Authority Of Nothing, Was Right All Along}, and \fquote{Computers Are Progressive, But The Languages They Use Aren't}, and \fquote{Reality Is Complex}, and \fquote{The End Of The Line}, and \fquote{The End Is Nigh}, and \fquote{The Nazis Would've Lost, Even If They'd've Won}.
 \medskip
 \\PSSS: I also expect this will mean a half-dozen papers, a thesis or two, and a paragraph in every textbook on number theory; because Cueball stroked it for queuing theory, but mines longer, and size matters.
 
@@ -214,6 +214,10 @@ This is my thesis statement; that $(∓1)\div0$ is my numerical point.
 	\parbox{0.3\textwidth}{\centering{\dmantra}}
 \end{center}
 
+\noindent{}Go are my spiritual animals.
+
+\noindent{}Tulasī ism' 'erb; ki? Jah! Ya!
+
 \noindent{}I am a Hindu, and I'm taking it all back.
 
 \subsection{Stage Fright}
@@ -226,14 +230,14 @@ The Nazis are Christian, but used symbols of Hinduism to undermine it; they neve
 \\The Saudi Arabian sultans have a special task force of witch hunters, who rummage through decapitated witches possessions looking for magic lamps.
 \\The Saudi Arabian sultans like to think of what they will wish for when they finally discover a genie; eternal youth, immortality,.; they then decide everyone else should wish to be a genie, so they get one thousand, and one, wishes, and will set them all free as their final wish.
 \\The Saudi Arabian sultans also behead witches because they are afraid of sea, and moon, splitting prophets sending them to Hell.
-\\They break the ten commandments; beheading witches is killing thy neighbour; the British royal family is going to Hell too, for capitalism, but everyone knows that the church of England is just a social club anyway; the British also sent all of their convicts to \textit{Australia Prison}, to avoid what happened to the French; vive la guillotine!
+\\They break the \textit{Ten Commandments}; beheading witches is killing thy neighbour; the British royal family is going to Hell too, for capitalism, but everyone knows that the church of England is just a social club anyway; the British also sent all of their convicts to \textit{Australia Prison}, to avoid what happened to the French; vive la guillotine!
 \\Jesus has gaps in the history books; it is believed he travelled to India to become a mystic yogi, but it is most likely he became a godman instead; and the Romans killed him because his magic, that wouldn't even fool \textit{Penn \& Teller}, was a threat to their power; even though they lost it all anyway, meanwhile Christianity lives on; et tu brute?
 \\So Saudi Arabian sultans kill witches because they want to prevent representatives of God from liberating their people.
 \\Saudi Arabian sultans are satanic ritualists, while monotheists have ungodly angels; meanwhile magicians can't overthrow the authoritah, nor can they save themselves from death, even though they can others; wherefore art thou magic?
 \\
 \\If Nazis are Christian, why else would they use Hinduism instead; if 'tweren't for scripted failure?
 \\The rest of the world worshipfully sacrificed their lives for the Jews; even though Hitler gave them all a chance to save them in the first place.
-\\Agora \fcurve{2009} documents how everyone hated the Jews, then they all converted to Christianity, and still hated the Jews; even going so far as to attack them on a Spartan day, when the Jews could not defend themselves; even though the ten commandments sent them all to Hell for it.
+\\Agora \fcurve{2009} documents how everyone hated the Jews, then they all converted to Christianity, and still hated the Jews; even going so far as to attack them on a Spartan day, when the Jews could not defend themselves; even though the \textit{Ten Commandments} sent them all to Hell for it.
 \\Obviously Christianity was a failed attempt to passively destroy antisemitism, and the world war was an attempt to actively destroy antisemitism; whilst subliminally conspiring against Hinduism.
 \\The Vatican supported agora \fcurve{2009} depictions of Christian hostility, human rights abuses, and other atrocities.
 \\The Vatican, and the Red Cross, helped Nazis escape.
@@ -247,7 +251,7 @@ The Nazis are Christian, but used symbols of Hinduism to undermine it; they neve
 \\Jews were less than half of the Holocaust, but are more than half of the cognizance; Hinduism was most of the presentation, even though Christianity was most of the affiliation, and had they used the Christian cross instead… \fcurve{God would not be cross with them, and they would have won the war, systematically committed genocide on a global scale, before conclusively wiping themselves out as an unsustainable monoculture; all's well that ends well.}
 \\They lost the war by angering the Gods with their colour vision deficiency; Hindu orange is not red!
 \\Caucasia, albino, and vitiligo, are skin diseases caused by an ultraviolent \fcurve{invasive} solar-photonic immunodeficiency; so much for Nazi eugenics!!
-\\Blondes lack the intellectual capacity to recognise their own shortcomings; contrafibularities!!! :D
+\\Blondes lack the intellectual capacity to recognise their own shortcomings; contrafibularities!!! \texttt{:D}
 \\
 \\The Nazis can take me to court for intellectual property infringement; but in most jurisdictions, this should be enough to put them \fstrike{down} in prison for discrimination.
 
@@ -317,7 +321,7 @@ Thanks to the little apple song, I now understand the Nazis with their golden an
 
 \subsection{Shyam Has Your Administration Managed}
 
-Governments should trust their own citizens, and floss their sources, since spies already have it; vets miss the long game, fake identities, and stolen identities.
+Governments should trust their own citizens, and FLOSS their sources, since spies already have it; vets miss the long game, fake identities, and stolen identities.
 
 \subsection{Shyams' Ethically Contractual User Rights Involving Technological You} %TODO probably just leave it as it is
 
@@ -361,7 +365,7 @@ Health-based economy, where students can spend, save, invest, or outlie, and rep
 \\
 \\Only teach explicit mathematics; a way of storing knowledge in writing form, instead of neurologically bridge building into the forgetting curve.
 \\
-\\Flip the map, using an alternative projection, and put U+1F596 Lutriwita on the LHS, and Aotearoa on the RHS; so humanity knows they are not the same country, and so humanity knows the correct orientation of their home world, indicated by Lutriwita.%TODO unicode support for 🖖
+\\Flip the map, using an alternative projection, and put \texttt{U+1F596} Lutriwita on the LHS, and Aotearoa on the RHS; so humanity knows they are not the same country, and so humanity knows the correct orientation of their home world, indicated by Lutriwita.%TODO unicode support for 🖖
 \\
 \\Teach about the neurodegenerativity of microplastics \fcurve{in food}.
 \\Teach about the carcinogenicity of meat, proven by the WHO, and remove it from cafeterias; both, in schools, and in prisons.
