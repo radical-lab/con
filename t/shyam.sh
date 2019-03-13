@@ -1,7 +1,38 @@
 #!/bin/bash
+file=teapot
+set -- tex dn skt
+name=$2
+set -- vim emacs
+butterfly=$1
+
+############################################################################################################
+
+g() {
+	[ $? -eq 0 ] && pdflatex "$1.tex";
+}
+f() {
+	"$1" "$2.$3" && g "$2" && g "$2"; # TIC TOC, TEX TOC
+	[ $? -eq 0 ] && [ $3 != tex ] && rm *.tex;
+	rm -f *.aux *.log *.out *.toc;
+}
+
 printf \\ec;
-vim teapot.dn -c 'set syntax=tex';
-devnag teapot.dn;
-pdflatex teapot.tex;
-pdflatex teapot.tex; # TIC TOC, TEX TOC
-rm *.aux *.log *.out *.toc *.tex;
+case "$name" in
+	tex) cmd=true;;
+	dn ) cmd=devnag;;
+	skt) cmd=skt;;
+	*  ) echo '⸘whois‽' && exit -z
+esac
+
+printf \\ec;
+case "$butterfly" in
+	vim  ) "$butterfly" "$file.$name" -c 'set syntax=tex';;
+	emacs) "$butterfly" "$file.$name";;
+	*    ) echo '⸘do you even hack‽' && exit -z
+esac
+
+printf \\ec;
+f "$cmd" "$file" "$name"
+
+# yet another moral: diplomatic immunity causes human rights abuses (but you should give it to me anyway)
+# yet another teacup: usa cops shoot to kill, but they do not kill terrorists (their cops are terrorists)
