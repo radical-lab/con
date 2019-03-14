@@ -140,7 +140,7 @@
 
 \section{First Impressions}
 
-\texttt{U+1F596} Hello World,%TODO unicode support for 🖖
+\texttt{U+1F596} Hello World,
 \medskip
 \\My name is Shyam, and I'm mad as a Hatter!
 \medskip
@@ -216,7 +216,7 @@ This is my thesis statement; that $(∓1)\div0$ is my numerical point!
 
 \noindent{}Go, my spiritual animals!
 
-\noindent{}Tulasī ism' 'erb; ki? Jah! Ya!
+\noindent{}Tulasī ism' `erb; ki? Jah! Ya!
 
 \noindent{}I am a Hindu, and I'm taking it all back!
 
@@ -365,7 +365,7 @@ Health-based economy, where students can spend, save, invest, or outlie, and rep
 \\
 \\Only teach explicit mathematics; a way of storing knowledge in writing form, instead of neurologically bridge building into the forgetting curve.
 \\
-\\Flip the map, using an alternative projection, and put \texttt{U+1F596} Lutriwita on the LHS, and Aotearoa on the RHS; so humanity knows they are not the same country, and so humanity knows the correct orientation of their home world, indicated by Lutriwita.%TODO unicode support for 🖖
+\\Flip the map, using an alternative projection, and put \texttt{U+1F596} Lutriwita on the LHS, and Aotearoa on the RHS; so humanity knows they are not the same country, and so humanity knows the correct orientation of their home world, indicated by Lutriwita.
 \\
 \\Teach about the neurodegenerativity of microplastics \fcurve{in food}.
 \\Teach about the carcinogenicity of meat, proven by the WHO, and remove it from cafeterias; both, in schools, and in prisons.
