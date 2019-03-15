@@ -297,6 +297,28 @@ Musical algorithms, and programs, probably predate mathematical, and computation
 
 ------------------------------------------------------------------------------------------------------------
 
+~~ a defining point ~~
+
+x^3 = a cube
+x^2 = a square
+x^1 = a line segment
+x^0 = a single point (1)
+
+0^(x + [x = 0]) = 0 \because 0 \times 0 = 0
+
+x^0 = 1 \because \text{1 is the identity of multiplication}
+
+3^0 = 1 \because 1 \times 3 ≠ 1 \therefore 1 \times 3 = 3
+2^0 = 1 \because 1 \times 2 ≠ 1 \therefore 1 \times 2 = 2
+1^0 = 1 \because 1 \times 1 = 1 \therefore 1 \times 1 = 1
+0^0 = 1 \because 1 \times 0 ≠ 1 \therefore 1 \times 0 = 0
+
+~~~ identify yourself ~~~
+
+[identification]
+
+------------------------------------------------------------------------------------------------------------
+
 ~~ Unitary Fractures Of United Unary Units ~~
 
 0.1₁₀ = (1÷10)₁₀
