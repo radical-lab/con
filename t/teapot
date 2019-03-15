@@ -299,6 +299,41 @@ Musical algorithms, and programs, probably predate mathematical, and computation
 
 ~~ a defining point ~~
 
+~~~ identify yourself ~~~
+
+The identity.
+
+f(x) = x
+
+Nothing is cumulating the identity.
+
+f(x) = f(x + 0)
+
+One is accumulating the identity.
+
+f(x) = f(x \times 1)
+
+One is fracturing the identity.
+
+f(x) = f(x \div 1)
+
+One is powering the identity.
+
+f(x) = f(x^1)
+
+One is rooting the identity.
+
+f(x) = f(\sqrt[1]{x})
+
+It appears one identity is more common than none.
+
+~~~ geometry versus identity ~~~
+
+\sqrt[3]{x^3} = x
+\sqrt[2]{x^2} = x
+\sqrt[1]{x^1} = x
+\sqrt[0]{x^0} = x \lor 1 \lor 0
+
 x^3 = a cube
 x^2 = a square
 x^1 = a line segment
@@ -313,7 +348,7 @@ x^0 = 1 \because \text{1 is the identity of multiplication}
 1^0 = 1 \because 1 \times 1 = 1 \therefore 1 \times 1 = 1
 0^0 = 1 \because 1 \times 0 ≠ 1 \therefore 1 \times 0 = 0
 
-¿in the /Flatland/ dimension, they have `/zero|one/` thickness in the higher dimension?
+¿in the /Flatland/ dimension, they have `/zero|one/` thickness in the higher dimensions?
 {
 `/ = open r-expression
 /` = close r-expression
@@ -323,15 +358,12 @@ conceivably, nothing can exist in a dimension
 
 x^0 could be redefined to 0; otherwise, points `/could|should/` be rendered as a {0.5,1.5} box, when graphing a point at (1,1); where points are defined by x^0=1
 
-this is very consistent
+~~~ consistency is a virtue ~~~
+
 0^x = 0
 x^0 = 0
 1^x = 1
 x^1 = x
-
-~~~ identify yourself ~~~
-
-[identification]
 
 ------------------------------------------------------------------------------------------------------------
 
