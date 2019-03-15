@@ -313,6 +313,20 @@ x^0 = 1 \because \text{1 is the identity of multiplication}
 1^0 = 1 \because 1 \times 1 = 1 \therefore 1 \times 1 = 1
 0^0 = 1 \because 1 \times 0 ≠ 1 \therefore 1 \times 0 = 0
 
+¿in the /Flatland/ dimension, they have `/zero|one/` thickness in the third dimension?
+{
+`/ = open r-expression
+/` = close r-expression
+`/ `/ /` /` = nested r-expressions
+}
+conceivably, nothing can exist in a dimension
+
+x^0 could be redefined to 0; otherwise, points `/could|should/` be rendered as a {0.5,1.5} box, when graphing a point at (1,1); where points are defined by x^0=1
+
+this is very consistent
+0^x = 0
+x^0 = 0
+
 ~~~ identify yourself ~~~
 
 [identification]
