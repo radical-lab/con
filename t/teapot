@@ -313,7 +313,7 @@ x^0 = 1 \because \text{1 is the identity of multiplication}
 1^0 = 1 \because 1 \times 1 = 1 \therefore 1 \times 1 = 1
 0^0 = 1 \because 1 \times 0 ≠ 1 \therefore 1 \times 0 = 0
 
-¿in the /Flatland/ dimension, they have `/zero|one/` thickness in the third dimension?
+¿in the /Flatland/ dimension, they have `/zero|one/` thickness in the higher dimension?
 {
 `/ = open r-expression
 /` = close r-expression
@@ -326,6 +326,8 @@ x^0 could be redefined to 0; otherwise, points `/could|should/` be rendered as a
 this is very consistent
 0^x = 0
 x^0 = 0
+1^x = 1
+x^1 = x
 
 ~~~ identify yourself ~~~
 
