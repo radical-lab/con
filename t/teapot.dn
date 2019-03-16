@@ -177,6 +177,9 @@
 \medskip
 \\PSSS: I also expect this will mean a half-dozen papers, a thesis or two, and a paragraph in every textbook on number theory; because Cueball stroked it for queuing theory, but mine's longer, and size matters.
 
+\includepdf[pages=-]{tealeaf.jpg}
+\includepdf[pages=-]{tealeaves.jpg}
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{All The Worlds A Stage}
@@ -624,7 +627,7 @@ During HE ∘ 12015 ∘ 09 ∘ 24 ∘ 14 ∘ 11 ∘ 03, my Uncle emailed \fquote
 
 During HE ∘ 12016 ∘ 03 ∘ 20 ∘ 00 ∘ 32, I emailed my proof to a famous mathematician upon request, subjected \fquote{Warning: Algebra Required!}; who responded \fquote{That is a really good point. I was using the convention that 0 = 6 but I should have been much more clear. Or use your method which also works.}.
 
-{\include{"teatime @ HE 12016 05 06 07 48 26.777.jpg"}}
+\includepdf[pages=-]{teatime_@_HE_12016_05_06_07_48_26_777.jpg}
 
 \subsubsection{Archaeology 5}
 
