@@ -787,7 +787,7 @@ $$∫(\dshyam{})dx = \dshyam{} × x + c$$
 \\3×(1÷3) &= 1
 \end{align*}
 
-\noindent{}\dshyam{} must be prime ∵ the spherical graph of $2 ↑ x$ retraces, since it cannot be odd ∴ \dshyam{} is odd.
+\noindent{}\dshyam{} must be prime ∵ the spherical graph of $2 ↑ x$ retraces, since it cannot be odd ∴ \dshyam{} is odd, and computers must support $4 × x + 2$ memory for \dshyam{}-completeness.
 \\
 \\\dshyam{} is all natural.
 
@@ -806,7 +806,7 @@ $$∫(\dshyam{})dx = \dshyam{} × x + c$$
 [\dshyam{} ÷ +16&, \dshyam{} ÷ -16]\\
 [\dshyam{} ÷ +32&, \dshyam{} ÷ -32]\\
 [\dshyam{} ÷ +64&, \dshyam{} ÷ -64]
-\\¿…∞…&, …∞…?
+\\\text{¿}…∞…&, …∞…?
 \\(\dshyam{} ÷ (\dshyam{} ÷ -64)&, \dshyam{} ÷ (\dshyam{} ÷ +64))
 \\(\dshyam{} ÷ (\dshyam{} ÷ -32)&, \dshyam{} ÷ (\dshyam{} ÷ +32))
 \\(\dshyam{} ÷ (\dshyam{} ÷ -16)&, \dshyam{} ÷ (\dshyam{} ÷ +16))
