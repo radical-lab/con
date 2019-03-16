@@ -14,7 +14,7 @@ g() {
 f() {
 	"$1" "$2.$3" && g "$2" && g "$2"; # TIC TOC, TEX TOC
 	[ $? -eq 0 ] && [ $3 != tex ] && rm *.tex;
-	rm -f *.aux *.log *.out *.toc;
+	rm -f *.aux *.aux\  *.log *.out *.toc;
 }
 
 printf \\ec;

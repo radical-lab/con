@@ -106,6 +106,8 @@
 \def\dmantra{{\dn hare k.r.s.na hare k.r.s.na\\k.r.s.na k.r.s.na hare hare\\hare raama hare raama\\raama raama hare hare}}
 \def\draj{\text{\dn raajan}}
 \def\dbdfl{\text{\dn raajan-"syaama}}
+\def\dbrahmagupta{\text{\dn b.rrahmagup.th}}
+\def\daryabhata{\text{\dn aaryabha.ta}}
 
 \newcommand{\fSH}[1]{{\colorbox{black}{\texttt{#1}}}}
 \newcommand{\fsh}[1]{{\color{gray}{#1}}}
@@ -117,9 +119,7 @@
 %\usepackage{parskip}
 %\setlength{\parindent}{0pt}
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\begin{document}%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{document}
 
 \newgeometry{margin=0in}
 \clearpage
@@ -135,8 +135,6 @@
 \vspace*{\fill}
 \clearpage
 %\raggedright
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{First Impressions}
 
@@ -178,8 +176,6 @@
 
 \includepdf[pages=-]{tealeaf.jpg}
 \includepdf[pages=-]{tealeaves.jpg}
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{All The Worlds A Stage}
 
@@ -319,8 +315,6 @@ The original blonde joke was probably about black Hitler leading the blondes aga
 
 Thanks to the little apple song, I now understand the Nazis with their golden angels, and reddish devils; they were led by a blackish badasssnake.
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
 \section{The Moral Of The Story}
 
 \subsection{Shyam Has Your Administration Managed}
@@ -396,8 +390,6 @@ Students should be encouraged to show off at /Show, And Tell/.
 \\Discounted toys, sporting equipment, clothing, video games, science kits, text books, stationary inanimate objects,..
 \\Make it all custom, and unsellable.
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
 \section{Authoritah}
 
 \subsection{Horrible Histories}
@@ -406,15 +398,15 @@ Students should be encouraged to show off at /Show, And Tell/.
 
 \noindent{}Numerals are abstract representations of anatomical digits; the letters of mathematical language.
 \\
-%\\During HE ∘ 10628, ब्रह्मगुप्त invented nothing, which evolved into the set of numerals most of humanity uses today; 0, 1, 2, 3, 4, 5, 6, 7, 8, and 9.
+\\During HE ∘ 10628, \dbrahmagupta{} invented nothing, which evolved into the set of numerals most of humanity uses today; 0, 1, 2, 3, 4, 5, 6, 7, 8, and 9.
 \\
 \\The concept of nothingness is a dependency for oneness; if you do not know nothing, then what do you know?
 
 \subsubsection{Hindu Numbers}
 
 \noindent{}Numbers are abstract structures formed by the atomic bonding of numerals, within a dimensional base.
-%\\
-%\\The inventor of the basal number system of place values is in dispute; आर्यभट used it during HE ∘ (10476, 10550], while the brahmin son of Chajaka used it in the Bakhshali manuscript; partially carbon dated during HE ∘ [10224, 10383], and HE ∘ [10885, 10993], using inconsistent isotopes.
+\\
+\\The inventor of the basal number system of place values is in dispute; \daryabhata{} used it during HE ∘ (10476, 10550], while the brahmin son of Chajaka used it in the Bakhshali manuscript; partially carbon dated during HE ∘ [10224, 10383], and HE ∘ [10885, 10993], using inconsistent isotopes.
 
 \subsubsection{Persian Algebra}
 
@@ -656,13 +648,13 @@ x &= 0 ÷ 0
 \\x × 0 &≠ 0
 \end{align*}
 
-%\noindent{}ब्रह्मगुप्त, the leading authority of nothing, was right all along.
+\noindent{}\dbrahmagupta{}, the leading authority of nothing, was right all along.
 
 %\subsubsection{Where Is \dshyam{}? Where Is \dshyam{}? Here He Is! Here He Is!}
 
 \noindent{}`T'sn't an equation; there'sn't a need to operate on any geometric sides ∵ the index, exponent, and radicand, are geometrically existential; as subatomically respective needly neutrons, powerful protons, and elementary electrons.
 
-$$\sqrt[i÷e]{r} = \sqrt[i]{r}^e = r^{e÷i}$$
+$$\sqrt[i ÷ e]{r} = \sqrt[i]{r}^e = r^{e ÷ i}$$
 
 \begin{align*}
 i &= ∓1
@@ -671,9 +663,9 @@ i &= ∓1
 
 \noindent{}Infinitesimals approach zero, so where do infinitæls tend towards?
 
-$$\sqrt[\mp\frac{i}{e}]{\mp r}=1\text{, where $\{r$adicand$\in\mathbb{R}|(+0,+\infty)\}\land\{i$ndex$\in\mathbb{R}|(+0,+\infty)\}\land\{e$xponent$\in\mathbb{R}|[+0,+0]\}$}$$
+$$\sqrt[\mp i ÷ e]{\mp r}=1\text{, where $\{r$adicand$\in\mathbb{R}|(+0,+\infty)\}\land\{i$ndex$\in\mathbb{R}|[+1,+1]\}\land\{e$xponent$\in\mathbb{R}|[+0,+0]\}$}$$
 
-\noindent{}The spherical graph of $\dfrac{1}{x}$ geometrically proves the existence of \dshyam{}, along both axes.
+\noindent{}The spherical graph of $1 ÷ x$ geometrically proves the existence of \dshyam{}, along both axes.
 
 %probably don't need to prove, since this is all unreferenced anyway
 %the proofs are implicit
@@ -858,7 +850,7 @@ C &= 2 × \pi × r
 \noindent{}I had the grande delusion of men knowing \fquote{-thing}s:
 
 \begin{itemize}[itemsep=0pt, parsep=0pt]
-%\item ब्रह्मगुप्त, the man who knew nothing; 0.
+\item \dbrahmagupta{}, the man who knew nothing; 0.
 \item Śrīnivāsa Rāmānujān, the man who knew something; ∞.
 \item S.H.Y.A.M., the man who knew everything; ∞÷0.
 \end{itemize}
@@ -867,72 +859,75 @@ C &= 2 × \pi × r
 \\
 \\\fcurve{The trimūrti of reality; BRAHMAgupta, sriniVASa ramaNUjan, SHYAm.}
 
+\newpage
 \subsection{Spiritually Perpetual Anti Mass}
 
-; Massive acceration is querious.
-
-E=mc²; Mass-energy equivalence.
-F=ma ; Force.
-p=F÷A; Pressure.
-P=E÷t; Power.
-P=Fv ; Power.
-P=VI ; Power.
-
-F(c²)=E(a);
-E=F(c²÷a);
-F=E(a÷c²);
-p=E(a÷c²)÷A();
-P=E(a÷c²)v;
-P=F(c²÷a)÷t;
-
-; Without mass, no acceleration is paradoxical; it can only increase, or decrease, but not both; well, we just don't know…
-
-F=E(a÷c²);
-F=E(0÷c²);
-F=E(0);
-F=F(0÷0);
-
-E=F(c²÷a);
-E=F(c²÷0);
-E=F(\dshyam{});
-E=E(0÷0);
-
-E=F;
-
-a÷b=0÷0;
-0÷0=0÷0;
-
-a(b÷c)=(ab)÷c;
-0(0÷0)=0÷0;
-
-a÷b=a(1÷b);
-0÷0=0(1÷0);
-
-\dshyam{}(0)=0; Makes more sense than…
-\dshyam{}(0)=\dshyam{}(); When considering distance from zero as significant.
-
-a÷a=1; If `tweren't for this…
-0÷0=1; Dilemma!
-
-d=dilemma;
-adb; Dilemma is a binary decision.
-adbdc=(adb)dc=ad(bdc);
-adbdc=adcdb=cdadb=cdbda=bdadc=bdcda;
-adb=d(a,b);
-adbdc=d(a,b,c);
-
-; I travelled forward in time, and snuck this in; I hope I got it right!
+\noindent{}\texttt{; Massive acceration is querious.
+\medskip
+\\E=mc²; Mass-energy equivalence.
+\\F=ma ; Force.
+\\p=F÷A; Pressure.
+\\P=E÷t; Power.
+\\P=Fv ; Power.
+\\P=VI ; Power.
+\medskip
+\\F(c²)=E(a);
+\\E=F(c²÷a);
+\\F=E(a÷c²);
+\\p=E(a÷c²)÷A();
+\\P=E(a÷c²)v;
+\\P=F(c²÷a)÷t;
+\medskip
+\\; Without mass, no acceleration is paradoxical; it can only increase, or decrease, but not both; well, we just don't know…
+\medskip
+\\F=E(a÷c²);
+\\F=E(0÷c²);
+\\F=E(0);
+\\F=F(0÷0);
+\medskip
+\\E=F(c²÷a);
+\\E=F(c²÷0);
+\\E=F(\dshyam{});
+\\E=E(0÷0);
+\medskip
+\\E=F;
+\medskip
+\\a÷b=0÷0;
+\\0÷0=0÷0;
+\medskip
+\\a(b÷c)=(ab)÷c;
+\\0(0÷0)=0÷0;
+\medskip
+\\a÷b=a(1÷b);
+\\0÷0=0(1÷0);
+\medskip
+\\\dshyam{}(0)=0; Makes more sense than…
+\\\dshyam{}(0)=\dshyam{}(); When considering distance from zero as significant.
+\medskip
+\\a÷a=1; If `tweren't for this…
+\\0÷0=1; Dilemma!
+\medskip
+\\d=dilemma;
+\\adb; Dilemma is a binary decision.
+\\adbdc=(adb)dc=ad(bdc);
+\\adbdc=adcdb=cdadb=cdbda=bdadc=bdcda;
+\\adb=d(a,b);
+\\adbdc=d(a,b,c);
+\medskip
+\\; I travelled forward in time, and snuck this in; I hope I got it right!
+}
 
 %view-source:http://shyam.id.au/awooga/post.js
 %do not go into relativity nor perpetual motion machines nor spirituality; https://time.is/
 %is using ice perpetual? the ice will heat, and then use the heat; refreezing the ice
 %magnetogravitational waves, blackholes, darkmatter, antimatter, mirrormatter,..
 
+\newpage
 \subsection{I Need An Adult}
 
 \noindent{}I have an imagination complex:(
 \\
-\\Mathematics is a language, which can be (ab)used to explain, or describe, anything!
+\\Mathematics is a language, which can be \fcurve{ab}used to explain, or describe, anything!
 
 $$-1 ≠ (√(-1))² ≠ √((-1)²) = (-1)² = +1 = (+1)²$$
 
@@ -940,9 +935,9 @@ $$-1 ≠ (√(-1))² ≠ √((-1)²) = (-1)² = +1 = (+1)²$$
 
 $$x² ≠ (-1) × (+1)$$
 
-\noindent{}There is no need for i() to be nesciently defined in terms of unreal Hindu numbers, to derive an applied pattern; I've merely debated the omnipotent exponent into submission, without your assistance, since it took so long for you to arrive here!!!
+\noindent{}There is no need for $i()$ to be nesciently defined in terms of unreal Hindu numbers, to derive an applied pattern; I've merely debated the omnipotent exponent into submission, without your assistance, since it took so long for you to arrive here!!!
 
-% (ab)using ∞ requires \dshyam{} multiplication starting from halfway
+% \fcurve{ab}using ∞ requires \dshyam{} multiplication starting from halfway
 %$$i(x) = -1 × [x = 2 × ⌈y⌉] + 2 × [x = 4 × ⌊y⌋] + (\dshyam{} ÷ 2) × [x = 2 × ⌈y⌉ - 1]$$
 
 % use \dshyam{} as much as possible
@@ -952,34 +947,32 @@ $$i(x) = -1 × [x = 2 × ⌈y⌉] + 2 × [x = 4 × ⌊y⌋] + (\dshyam{} ↑ \ds
 
 \noindent{}Welcome to functional-logical reality:)
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
 \section{Generic Public Apology}
 
 \noindent{}I do not know English perfectly, nor am I familiar with your dialect, but this dialogue of the deaf is solely due to your own analphabetically unlettered illiteracy; communication is a two-way street.
 
 \subsection{You Can Run, But You Cann't Hide}
 
-\noindent{}: Our cultural differences aren't to blame.
-\\: Your uncultured interpretation's untame.
-\\: I am right, and you are wrong.
-\\: `Twas the case, all of along.
-\\: Now cease, and desist; you are blithering.
-\\: After all, I am merely slithering.
-\\: Sure, I was born of the\_year.
-\\: However, you need not fear.
-\\: Ease assured, 't 's all well calculated.
+\noindent{}\hspace*{2.0185pt}: Our cultural differences aren't to blame.
+\\\hspace*{2.0185pt}: Your uncultured interpretation's untame.
+\\\hspace*{2.0185pt}: I am right, and you are wrong.
+\\\hspace*{2.0185pt}: `Twas the case, all of along.
+\\\hspace*{2.0185pt}: Now cease, and desist; you are blithering.
+\\\hspace*{2.0185pt}: After all, I am merely slithering.
+\\\hspace*{2.0185pt}: Sure, I was born of the\_year.
+\\\hspace*{2.0185pt}: However, you need not fear.
+\\\hspace*{2.0185pt}: Ease assured, 't 's all well calculated.
 \\∴ Shyam has your anomaly mitigated.
 
 \subsection{Wubba Lubba Dub-Dub!!! :D}
 
 \noindent{}The last thing I want to do is recursively reference my references!
-\\If anyone wants references; provide a flossed (functional-)logical KBS; or wait until I do it myself!!
+\\If anyone wants references; provide a flossed \fcurve{functional-}logical KBS; or wait until I do it myself!!
 \\Except for \textit{Rape Culture}; since it is not covered by the FOI of any country involved, and I deny everything!!! :D \#Plausible\_Deniability
 \\
 \\Wanted to do this in \LaTeX{}, and dot.
 \\Dot for graph theoretic map of dependencies that lead to \dshyam{} reference points; what I want from Pr∞fWiki, the most useful mathematical wiki on Sir Timothy John Berners-Lee OM KBE FRS FREng FRSA FBCS' WWW.
-\\Dot nodal vertices hyperlinked to \LaTeX{} math mode; challenge accepted. (Not sure if dotted HTML hyperlinks will work in \LaTeX{} PDFs.)
+\\Dot nodal vertices hyperlinked to \LaTeX{} math mode; challenge accepted. \fcurve{Not sure if dotted HTML hyperlinks will work in \LaTeX{} PDFs.}
 
 \end{document}
 
