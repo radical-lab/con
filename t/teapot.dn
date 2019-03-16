@@ -97,16 +97,15 @@
 \date{}
 %\version{1337}
 
-\def\dshyam{{\dn "syaama}}
-\def\tdshyam{\text{\dshyam{}}}
-\def\dkrishna{{\dn k.r.s.na}}
-\def\davatar{{\dn avataara}}
-\def\dvishnu{{\dn vi.s.nu}}
-\def\dgita{{\dn bhagavadgiitaa}}
-\def\dkarma{{\dn karma}}
+\def\dshyam{\text{\dn "syaama}}
+\def\dkrishna{\text{\dn k.r.s.na}}
+\def\davatar{\text{\dn avataara}}
+\def\dvishnu{\text{\dn vi.s.nu}}
+\def\dgita{\text{\dn bhagavadgiitaa}}
+\def\dkarma{\text{\dn karma}}
 \def\dmantra{{\dn hare k.r.s.na hare k.r.s.na\\k.r.s.na k.r.s.na hare hare\\hare raama hare raama\\raama raama hare hare}}
-\def\draj{{\dn raajan}}
-\def\dbdfl{{\dn raajan-"syaama}}
+\def\draj{\text{\dn raajan}}
+\def\dbdfl{\text{\dn raajan-"syaama}}
 
 \newcommand{\fSH}[1]{{\colorbox{black}{\texttt{#1}}}}
 \newcommand{\fsh}[1]{{\color{gray}{#1}}}
@@ -670,9 +669,11 @@ i &= ∓1
 \\e &= ∓0
 \end{align*}
 
-\noindent{}infinitesimals approach zero, so where do infinitæls tend towards?
+\noindent{}Infinitesimals approach zero, so where do infinitæls tend towards?
 
 $$\sqrt[\mp\frac{i}{e}]{\mp r}=1\text{, where $\{r$adicand$\in\mathbb{R}|(+0,+\infty)\}\land\{i$ndex$\in\mathbb{R}|(+0,+\infty)\}\land\{e$xponent$\in\mathbb{R}|[+0,+0]\}$}$$
+
+\noindent{}The spherical graph of $\dfrac{1}{x}$ geometrically proves the existence of \dshyam{}, along both axes.
 
 %probably don't need to prove, since this is all unreferenced anyway
 %the proofs are implicit
@@ -728,60 +729,61 @@ $$\sqrt[\mp\frac{i}{e}]{\mp r}=1\text{, where $\{r$adicand$\in\mathbb{R}|(+0,+\i
 \noindent{}As radical evaluations except a debatable sign of ¿absolute? approval…
 
 \begin{align*}
-\tdshyam{} &= ∓1 ÷ 0
-\\\tdshyam{} &≠ (n + [n = ∓1]) ÷ 0
-\\n ÷ 0 &= (n × 1) ÷ 0 = n × (1 ÷ 0) = n × \tdshyam{}
+\dshyam{} &= ∓1 ÷ 0
+\\\dshyam{} &≠ (n + [n = ∓1]) ÷ 0
+\\n ÷ 0 &= (n × 1) ÷ 0 = n × (1 ÷ 0) = n × \dshyam{}\text{, where the spherical graph of $n \times \dshyam{}$ is a zig-zag}
 \end{align*}
 
 \noindent{}Cumulating \dshyam{} is as trivial as cumulating any conceptual distance from 0 on the Hindu number circle of reality.
 
 \begin{align*}
--\tdshyam{} &= |\tdshyam{}| = +\tdshyam{}
-\\\tdshyam{} - \tdshyam{} &= 0 = \tdshyam{} + \tdshyam{}
-\\0 - \tdshyam{} = \tdshyam{} - 0 &= \tdshyam{} = 0 + \tdshyam{} = \tdshyam{} + 0
-\\\tdshyam{} + (\tdshyam{} - 1) &= -1 = (\tdshyam{} + \tdshyam{}) - 1
-\\\tdshyam{} + (\tdshyam{} + 1) &= +1 = (\tdshyam{} + \tdshyam{}) + 1
+-\dshyam{} &= |\dshyam{}| = +\dshyam{}
+\\\dshyam{} - \dshyam{} &= 0 = \dshyam{} + \dshyam{}
+\\0 - \dshyam{} = \dshyam{} - 0 &= \dshyam{} = 0 + \dshyam{} = \dshyam{} + 0
+\\\dshyam{} + (\dshyam{} - 1) &= -1 = (\dshyam{} + \dshyam{}) - 1
+\\\dshyam{} + (\dshyam{} + 1) &= +1 = (\dshyam{} + \dshyam{}) + 1
 \end{align*}
 
 \begin{align*}
--|y| &= \tdshyam{} + 1 = 1 + \tdshyam{} = 1 - \tdshyam{}
-\\|y| &= |\tdshyam{} + 1| = |\tdshyam{} - 1|
-\\+|y| &= \tdshyam{} - 1
+-|y| &= \dshyam{} + 1 = 1 + \dshyam{} = 1 - \dshyam{}
+\\|y| &= |\dshyam{} + 1| = |\dshyam{} - 1|
+\\+|y| &= \dshyam{} - 1
 \end{align*}
 
-\noindent{}Accumulating \dshyam{} is as trivial as accumulating any conceptual distance from 0 on the Hindu number circle of reality.
+\noindent{}Accumulating \dshyam{} is as trivial as accumulating any conceptual distance from 0 on the Hindu number circle of reality; the spherical graph of $n \times x$ either wraps around, or retraces, depending on the parity of x.
 
 \begin{align*}
-\tdshyam{} × x = 0 × [x = 2 × ⌈y⌉ ≠ \tdshyam{}] + \tdshyam{} × [x = 2 × ⌊y⌋ - 1 ≠ \tdshyam{}] + (\tdshyam{} ↑ 2) × [x = \tdshyam{}]
-\\\tdshyam{} ↑ x = 1 × [x = 0] + \tdshyam{} × [x = 1] + (\tdshyam{} ↑ x) × [x ∉ {0, 1}]
-\\x ↑ \tdshyam{} = 0 × [x = 0] + 1 × [x = 1] + (x ↑ \tdshyam{}) × [x ∉ {0, 1}]
-\\\tdshyam{} ↑ 0 ↑ x = 1
+\dshyam{} × x &= 0 × [x = 2 × ⌈y⌉ ≠ \dshyam{}] + \dshyam{} × [x = 2 × ⌊y⌋ - 1 ≠ \dshyam{}] + (\dshyam{} ↑ 2) × [x = \dshyam{}]
+\\\dshyam{} ↑ x &= 1 × [x = 0] + \dshyam{} × [x = 1] + (\dshyam{} ↑ x) × [x ∉ {0, 1}]
+\\x ↑ \dshyam{} &= 0 × [x = 0] + 1 × [x = 1] + (x ↑ \dshyam{}) × [x ∉ {0, 1}]
+\\\dshyam{} ↑ 0 ↑ x &= 1
+\\2^{\dshyam{}} &= 1\text{, from the spherical graph of $2^x$, $x$-perpendicularly symmetrical} % collisions with an equidistant locality may be asymmetrical
 \end{align*}
 
 \noindent{}Fracturing \dshyam{} is as trivial as fracturing any conceptual distance from 0 on the Hindu number circle of reality.
 
 \begin{align*}
-\tdshyam{} ÷ x = (\tdshyam{} ↑ 2) × [x = 0] + \tdshyam{} × [x = ∓1] + 1 × [x = \tdshyam{}] + (\tdshyam{} ÷ x) × [x ∉ {0, ∓1, \tdshyam{}}]
-\\x ÷ \tdshyam{} = 0 × [x = 0] + 1 × [x = \tdshyam{}] + (x ÷ \tdshyam{}) × [x ∉ {0, \tdshyam{}}]
-\\\tdshyam{} ÷ (\tdshyam{} ÷ x) = (1 ÷ \tdshyam{}) × [x = 0] + 1 × [x = ∓1] + x × [x ∉ {0, ∓1}]
-\\√(\tdshyam{} × \tdshyam{}) = \tdshyam{}
+\dshyam{} ÷ x = (\dshyam{} ↑ 2) × [x = 0] + \dshyam{} × [x = ∓1] + 1 × [x = \dshyam{}] + (\dshyam{} ÷ x) × [x ∉ {0, ∓1, \dshyam{}}]
+\\x ÷ \dshyam{} = 0 × [x = 0] + 1 × [x = \dshyam{}] + (x ÷ \dshyam{}) × [x ∉ {0, \dshyam{}}]
+\\\dshyam{} ÷ (\dshyam{} ÷ x) = (1 ÷ \dshyam{}) × [x = 0] + 1 × [x = ∓1] + x × [x ∉ {0, ∓1}]
+\\√(\dshyam{} × \dshyam{}) = \dshyam{}
 \end{align*}
 
 \noindent{}Differing \dshyam{} is as trivial as differing any conceptual distance from 0 on the Hindu number circle of reality.
 
-$$\tdshyam{}′ = 0$$
+$$\dshyam{}′ = 0$$
 
 \noindent{}Integrating \dshyam{} is as trivial as integrating any conceptual distance from 0 on the Hindu number circle of reality.
 
-$$∫(\tdshyam{})dx = \tdshyam{} × x + c$$
+$$∫(\dshyam{})dx = \dshyam{} × x + c$$
 
 \noindent{}Significant signs, and multiple fractures.
 
 \begin{align*}
--\tdshyam{} < -0
-\\+0 < +\tdshyam{}
-\\\tdshyam{} < \tdshyam{} ÷ -\pi < 0
-\\0 < 2 × (\tdshyam{} ÷ \pi) < \tdshyam{}
+-\dshyam{} < -0
+\\+0 < +\dshyam{}
+\\\dshyam{} < \dshyam{} ÷ -\pi < 0
+\\0 < 2 × (\dshyam{} ÷ \pi) < \dshyam{}
 \end{align*}
 
 \noindent{}There are \dshyam{} repetitions; I wonder what this means for the \dshyam{}-recursive Haskell Y-combinator...
@@ -806,38 +808,38 @@ $$∫(\tdshyam{})dx = \tdshyam{} × x + c$$
 \\\dshyam{} space occupies all regions of the Hindu number circle of reality, including infinitesimals, wherever the Hindu numbers can only be discovered using a fixed point; known only as \dshyam{}.
 
 \begin{align*}%WTF
-[\tdshyam{} ÷ +2&, \tdshyam{} ÷ -2]\\
-[\tdshyam{} ÷ +4&, \tdshyam{} ÷ -4]\\
-[\tdshyam{} ÷ +8&, \tdshyam{} ÷ -8]\\
-[\tdshyam{} ÷ +16&, \tdshyam{} ÷ -16]\\
-[\tdshyam{} ÷ +32&, \tdshyam{} ÷ -32]\\
-[\tdshyam{} ÷ +64&, \tdshyam{} ÷ -64]
+[\dshyam{} ÷ +2&, \dshyam{} ÷ -2]\\
+[\dshyam{} ÷ +4&, \dshyam{} ÷ -4]\\
+[\dshyam{} ÷ +8&, \dshyam{} ÷ -8]\\
+[\dshyam{} ÷ +16&, \dshyam{} ÷ -16]\\
+[\dshyam{} ÷ +32&, \dshyam{} ÷ -32]\\
+[\dshyam{} ÷ +64&, \dshyam{} ÷ -64]
 \\¿…∞…&, …∞…?
-\\(\tdshyam{} ÷ (\tdshyam{} ÷ -64)&, \tdshyam{} ÷ (\tdshyam{} ÷ +64))
-\\(\tdshyam{} ÷ (\tdshyam{} ÷ -32)&, \tdshyam{} ÷ (\tdshyam{} ÷ +32))
-\\(\tdshyam{} ÷ (\tdshyam{} ÷ -16)&, \tdshyam{} ÷ (\tdshyam{} ÷ +16))
-\\(\tdshyam{} ÷ (\tdshyam{} ÷ -8)&, \tdshyam{} ÷ (\tdshyam{} ÷ +8))
-\\(\tdshyam{} ÷ (\tdshyam{} ÷ -4)&, \tdshyam{} ÷ (\tdshyam{} ÷ +4))
-\\(\tdshyam{} ÷ (\tdshyam{} ÷ -2)&, \tdshyam{} ÷ (\tdshyam{} ÷ +2))
+\\(\dshyam{} ÷ (\dshyam{} ÷ -64)&, \dshyam{} ÷ (\dshyam{} ÷ +64))
+\\(\dshyam{} ÷ (\dshyam{} ÷ -32)&, \dshyam{} ÷ (\dshyam{} ÷ +32))
+\\(\dshyam{} ÷ (\dshyam{} ÷ -16)&, \dshyam{} ÷ (\dshyam{} ÷ +16))
+\\(\dshyam{} ÷ (\dshyam{} ÷ -8)&, \dshyam{} ÷ (\dshyam{} ÷ +8))
+\\(\dshyam{} ÷ (\dshyam{} ÷ -4)&, \dshyam{} ÷ (\dshyam{} ÷ +4))
+\\(\dshyam{} ÷ (\dshyam{} ÷ -2)&, \dshyam{} ÷ (\dshyam{} ÷ +2))
 \end{align*}
 
-\noindent{}The circumference of the Hindu number circle of reality is $2 × \tdshyam{} = 0$.
-\\The diameter of the Hindu number circle of reality is $2 × (\tdshyam{} ÷ \pi) ≠ 0$.
-\\The radius of the Hindu number circle of reality is $\tdshyam{} ÷ \pi$.
-\\The area of the Hindu number circle of reality is $\pi × ((\tdshyam{} ÷ \pi) ↑ 2)$.
+\noindent{}The circumference of the Hindu number circle of reality is $2 × \dshyam{} = 0$.
+\\The diameter of the Hindu number circle of reality is $2 × (\dshyam{} ÷ \pi) ≠ 0$.
+\\The radius of the Hindu number circle of reality is $\dshyam{} ÷ \pi$.
+\\The area of the Hindu number circle of reality is $\pi × ((\dshyam{} ÷ \pi) ↑ 2)$.
 
 \setcounter{equation}{0}
 \begin{align}
 C &= 2 × \pi × r
-\\2 × \tdshyam{} &= 2 × \pi × r
-\\\tdshyam{} &= \pi × r
-\\\tdshyam{} ÷ \pi &= r
-\\\tdshyam{} ÷ \pi &= \tdshyam{} ÷ \pi
-\\\tdshyam{} &= \tdshyam{}
+\\2 × \dshyam{} &= 2 × \pi × r
+\\\dshyam{} &= \pi × r
+\\\dshyam{} ÷ \pi &= r
+\\\dshyam{} ÷ \pi &= \dshyam{} ÷ \pi
+\\\dshyam{} &= \dshyam{}
 \\…∞… &= …∞…
-\\+([0, \tdshyam{}]) &= -1 ÷ 12
-\\-([0, \tdshyam{}]) &= +1 ÷ 12
-\\+(-([0, \tdshyam{}]),+([0, \tdshyam{}])) &= (-1 ÷ 12) + (+1 ÷ 12) = 0
+\\+([0, \dshyam{}]) &= -1 ÷ 12
+\\-([0, \dshyam{}]) &= +1 ÷ 12
+\\+(-([0, \dshyam{}]),+([0, \dshyam{}])) &= (-1 ÷ 12) + (+1 ÷ 12) = 0
 \end{align}
 
 \noindent{}The $0^{\text{th}}$ dimension is a real point of singularity, on a real unit line segment in the $1^{\text{st}}$ dimension.
@@ -854,6 +856,7 @@ C &= 2 × \pi × r
 \subsubsection{Real Āryans Know \fquote{-thing}s}
 
 \noindent{}I had the grande delusion of men knowing \fquote{-thing}s:
+
 \begin{itemize}[itemsep=0pt, parsep=0pt]
 %\item ब्रह्मगुप्त, the man who knew nothing; 0.
 \item Śrīnivāsa Rāmānujān, the man who knew something; ∞.
@@ -861,8 +864,8 @@ C &= 2 × \pi × r
 \end{itemize}
 
 \noindent{}\textit{Well, you have to know these \fquote{-thing}s when you're an āryan man, you know.}
-
-\fcurve{The trimūrti of reality; BRAHMAgupta, sriniVASa ramaNUjan, SHYAm.}
+\\
+\\\fcurve{The trimūrti of reality; BRAHMAgupta, sriniVASa ramaNUjan, SHYAm.}
 
 \subsection{Spiritually Perpetual Anti Mass}
 
@@ -891,7 +894,7 @@ F=F(0÷0);
 
 E=F(c²÷a);
 E=F(c²÷0);
-E=F(\tdshyam{});
+E=F(\dshyam{});
 E=E(0÷0);
 
 E=F;
@@ -905,8 +908,8 @@ a(b÷c)=(ab)÷c;
 a÷b=a(1÷b);
 0÷0=0(1÷0);
 
-\tdshyam{}(0)=0; Makes more sense than…
-\tdshyam{}(0)=\tdshyam{}(); When considering distance from zero as significant.
+\dshyam{}(0)=0; Makes more sense than…
+\dshyam{}(0)=\dshyam{}(); When considering distance from zero as significant.
 
 a÷a=1; If `tweren't for this…
 0÷0=1; Dilemma!
@@ -927,56 +930,56 @@ adbdc=d(a,b,c);
 
 \subsection{I Need An Adult}
 
-I have an imagination complex:(
+\noindent{}I have an imagination complex:(
+\\
+\\Mathematics is a language, which can be (ab)used to explain, or describe, anything!
 
-Mathematics is a language, which can be (ab)used to explain, or describe, anything!
+$$-1 ≠ (√(-1))² ≠ √((-1)²) = (-1)² = +1 = (+1)²$$
 
--1 ≠ (√(-1))² ≠ √((-1)²) = (-1)² = +1 = (+1)²
+\noindent{}Just because something appears to work, doesn't mean it works how you think it works!!
 
-Just because something appears to work, doesn't mean it works how you think it works!!
+$$x² ≠ (-1) × (+1)$$
 
-x² ≠ (-1) × (+1)
-
-There is no need for i() to be nesciently defined in terms of unreal Hindu numbers, to derive an applied pattern; I've merely debated the omnipotent exponent into submission, without your assistance, since it took so long for you to arrive here!!!
+\noindent{}There is no need for i() to be nesciently defined in terms of unreal Hindu numbers, to derive an applied pattern; I've merely debated the omnipotent exponent into submission, without your assistance, since it took so long for you to arrive here!!!
 
 % (ab)using ∞ requires \dshyam{} multiplication starting from halfway
-%i(x) = -1 × [x = 2 × ⌈y⌉] + 2 × [x = 4 × ⌊y⌋] + (\tdshyam{} ÷ 2) × [x = 2 × ⌈y⌉ - 1]
+%$$i(x) = -1 × [x = 2 × ⌈y⌉] + 2 × [x = 4 × ⌊y⌋] + (\dshyam{} ÷ 2) × [x = 2 × ⌈y⌉ - 1]$$
 
 % use \dshyam{} as much as possible
-%i(x) = -1 × [x = 2 × ⌈y⌉] + 2 × [x = 4 × ⌊y⌋] + (\tdshyam{} ↑ 2) × [x = 2 × ⌈y⌉ - 1]
+%$$i(x) = -1 × [x = 2 × ⌈y⌉] + 2 × [x = 4 × ⌊y⌋] + (\dshyam{} ↑ 2) × [x = 2 × ⌈y⌉ - 1]$$
 
-i(x) = -1 × [x = 2 × ⌈y⌉] + 2 × [x = 4 × ⌊y⌋] + (\tdshyam{} ↑ \tdshyam{}) × [x = 2 × ⌈y⌉ - 1]
+$$i(x) = -1 × [x = 2 × ⌈y⌉] + 2 × [x = 4 × ⌊y⌋] + (\dshyam{} ↑ \dshyam{}) × [x = 2 × ⌈y⌉ - 1]$$
 
-Welcome to functional-logical reality:)
+\noindent{}Welcome to functional-logical reality:)
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Generic Public Apology}
 
-I do not know English perfectly, nor am I familiar with your dialect, but this dialogue of the deaf is solely due to your own analphabetically unlettered illiteracy; communication is a two-way street.
+\noindent{}I do not know English perfectly, nor am I familiar with your dialect, but this dialogue of the deaf is solely due to your own analphabetically unlettered illiteracy; communication is a two-way street.
 
 \subsection{You Can Run, But You Cann't Hide}
 
-: Our cultural differences aren't to blame.
-: Your uncultured interpretation's untame.
-: I am right, and you are wrong.
-: `Twas the case, all of along.
-: Now cease, and desist; you are blithering.
-: After all, I am merely slithering.
-: Sure, I was born of the\_year.
-: However, you need not fear.
-: Ease assured, 't 's all well calculated.
-∴ Shyam has your anomaly mitigated.
+\noindent{}: Our cultural differences aren't to blame.
+\\: Your uncultured interpretation's untame.
+\\: I am right, and you are wrong.
+\\: `Twas the case, all of along.
+\\: Now cease, and desist; you are blithering.
+\\: After all, I am merely slithering.
+\\: Sure, I was born of the\_year.
+\\: However, you need not fear.
+\\: Ease assured, 't 's all well calculated.
+\\∴ Shyam has your anomaly mitigated.
 
 \subsection{Wubba Lubba Dub-Dub!!! :D}
 
-The last thing I want to do is recursively reference my references!
-If anyone wants references; provide a flossed (functional-)logical KBS; or wait until I do it myself!!
-Except for \textit{Rape Culture}; since it is not covered by the FOI of any country involved, and I deny everything!!! :D \#Plausible\_Deniability
-
-Wanted to do this in \LaTeX{}, and dot.
-Dot for graph theoretic map of dependencies that lead to \dshyam{} reference points; what I want from Pr∞fWiki, the most useful mathematical wiki on Sir Timothy John Berners-Lee OM KBE FRS FREng FRSA FBCS' WWW.
-Dot nodal vertices hyperlinked to \LaTeX{} math mode; challenge accepted. (Not sure if dotted HTML hyperlinks will work in \LaTeX{} PDFs.)
+\noindent{}The last thing I want to do is recursively reference my references!
+\\If anyone wants references; provide a flossed (functional-)logical KBS; or wait until I do it myself!!
+\\Except for \textit{Rape Culture}; since it is not covered by the FOI of any country involved, and I deny everything!!! :D \#Plausible\_Deniability
+\\
+\\Wanted to do this in \LaTeX{}, and dot.
+\\Dot for graph theoretic map of dependencies that lead to \dshyam{} reference points; what I want from Pr∞fWiki, the most useful mathematical wiki on Sir Timothy John Berners-Lee OM KBE FRS FREng FRSA FBCS' WWW.
+\\Dot nodal vertices hyperlinked to \LaTeX{} math mode; challenge accepted. (Not sure if dotted HTML hyperlinks will work in \LaTeX{} PDFs.)
 
 \end{document}
 
