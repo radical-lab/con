@@ -10,6 +10,8 @@
 \usepackage[T1]{fontenc}
 \usepackage{textcomp}
 \usepackage{devanagari}
+\usepackage[english]{babel}
+%\usepackage[english, hebrew]{babel}
 
 % no hyphenation
 \usepackage[none]{hyphenat}%http://tex.stackexchange.com/a/5039
@@ -28,8 +30,6 @@
 \usepackage{xcolor, colortbl}% (x)color
 \usepackage{hyperref}%\usepackage{url}
 \usepackage{graphicx}
-\usepackage[english]{babel}
-%\usepackage[english, hebrew]{babel}
 \usepackage[yyyymmdd]{datetime}\renewcommand{\dateseparator}{--}% \today
 \usepackage{fancyhdr}
 
@@ -43,9 +43,6 @@
 \usepackage{ulem}
 
 %%%%%%%% /cfg/ %%%%%%%%
-
-%\usepackage{parskip}
-%\setlength{\parindent}{0pt}
 
 \definecolor{urllink}{rgb}{.5,.75,.5}
 \definecolor{pdflink}{rgb}{.75,.75,1}
@@ -101,6 +98,7 @@
 %\version{1337}
 
 \def\dshyam{{\dn "syaama}}
+\def\tdshyam{\text{\dshyam{}}}
 \def\dkrishna{{\dn k.r.s.na}}
 \def\davatar{{\dn avataara}}
 \def\dvishnu{{\dn vi.s.nu}}
@@ -116,6 +114,9 @@
 \newcommand{\fstrike}[1]{\fsh{\sout{#1}}}
 \newcommand{\fquote}[1]{``#1''}
 \newcount\tmp\newcommand{\n}[1]{\tmp=0\loop\advance\tmp by 1\linebreak\ifnum\tmp<#1\repeat}
+
+%\usepackage{parskip}
+%\setlength{\parindent}{0pt}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{document}%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -234,7 +235,7 @@ The Nazis are Christian, but used symbols of Hinduism to undermine it; they neve
 \\Jesus has gaps in the history books; it is believed he travelled to India to become a mystic yogi, but it is most likely he became a godman instead; and the Romans killed him because his magic, that wouldn't even fool \textit{Penn \& Teller}, was a threat to their power; even though they lost it all anyway, meanwhile Christianity lives on; et tu brute?
 \\So Saudi Arabian sultans kill witches because they want to prevent representatives of God from liberating their people.
 \\Saudi Arabian sultans are satanic ritualists, while monotheists have ungodly angels; meanwhile magicians can't overthrow the authoritah, nor can they save themselves from death, even though they can others; wherefore art thou magic?
-\\
+\medskip
 \\If Nazis are Christian, why else would they use Hinduism instead; if 'tweren't for scripted failure?
 \\The rest of the world worshipfully sacrificed their lives for the Jews; even though Hitler gave them all a chance to save them in the first place.
 \\Agora \fcurve{2009} documents how everyone hated the Jews, then they all converted to Christianity, and still hated the Jews; even going so far as to attack them on a Spartan day, when the Jews could not defend themselves; even though the \textit{Ten Commandments} sent them all to Hell for it.
@@ -247,12 +248,12 @@ The Nazis are Christian, but used symbols of Hinduism to undermine it; they neve
 \newpage
 \noindent{}Jesus was a Jew, and their act of self-sacrifice was very Spock; crowned \textit{King Of The Jews}, so why aren't Christians Jews?
 \\Hitler was a Jew, and their plot was blonde enough to actually work; winning wars of such scale, do you even occupy?
-\\
+\medskip
 \\Jews were less than half of the Holocaust, but are more than half of the cognizance; Hinduism was most of the presentation, even though Christianity was most of the affiliation, and had they used the Christian cross instead… \fcurve{God would not be cross with them, and they would have won the war, systematically committed genocide on a global scale, before conclusively wiping themselves out as an unsustainable monoculture; all's well that ends well.}
 \\They lost the war by angering the Gods with their colour vision deficiency; Hindu orange is not red!
 \\Caucasia, albino, and vitiligo, are skin diseases caused by an ultraviolent \fcurve{invasive} solar-photonic immunodeficiency; so much for Nazi eugenics!!
 \\Blondes lack the intellectual capacity to recognise their own shortcomings; contrafibularities!!! \texttt{:D}
-\\
+\medskip
 \\The Nazis can take me to court for intellectual property infringement; but in most jurisdictions, this should be enough to put them \fstrike{down} in prison for discrimination.
 
 \subsection{Rape Culture}
@@ -280,23 +281,24 @@ The Nazis are Christian, but used symbols of Hinduism to undermine it; they neve
 	\item In the courtyard, they will befriend you, and ask you if you've been sexually abused; no matter what you say, they will sympathise, relate to it, and invite you to join their gang, which was formed by people like you to protect yourselves; you'll go, and sit, with them, and there will be a large group, large enough to form a human wall; the guard will come over to see over their shoulders, and check all is well; everyone will say yes, and look to you encouragingly, and you will agree; as soon as the guard leaves, they will gag `n' bag you.
 	\item If you snitch, they gouge out your eye\fcurve{s}; then they abuse you with fake voices so you cannot snitch; growling \fquote{Fee fi fo fum, I'm gonna fuck you in the bum!}, and squeaking \fquote{Hickory dickory dock, it's time to suck my cock!}.
 	\item Fights are fake for distracting the guards.
-	\item Inmates punch guards in the head, and everyone points at you.
+	\item Inmates punch guards in the head, and everyone points at you; don't hug the guard.
 	\item They offer to go easier on you if you start fights, punch guards, smuggle Uranus, and stuff; to prevent you from using good behaviour to escape early; \fstrike{is} was it worth it?
 	\item Prison riots are how they get you in the end; even isolation isn't safe.
 \end{itemize}
 
+\medskip
 \noindent{}Juvie is the complete opposite to prison; in juvie it's better to be older, while in prison it's better to be younger.
-\\
+\medskip
 \\Most of this can happen in jail as well; where the cameras are fawlty, but equipped with an indicator light, that indicates when the camera is functioning, and when there is a \fquote{blackout}; when the camera is malfunctioning, bad stuff will happen to you; the technicians say there are gremlins, and hackers, in the system. \fcurve{But we all know it is systemic; as the Russians know everything before the British? \textit{Yes, Minister!}}
 \\If they show you your cell, but don't put you in straight away; your inmates will get incentives for scaring you into a submissive vegetable, just like lawyers.
 \\Before letting you in; they give your inmates gum to smear on the camera, before abusing you, and when they come in to scrape it off the camera; they kick you when you're down, giving you the steel-toed boot, but make out like it's an accidental trip with your inmates jeering while lined up against the wall.
 \\In jail the police officers will make you pay tickets; they make you say a truth, and then make you tell a lie, which makes you lying to a police officer, and then you go back to the truth, which makes you lie for a second time, and this can go back, and forths, until you end up paying lots of tickets; they would've let you go anyway, but they have hard evidence in the form of an audio recording of you lying just to get out, and away, from the abuse that occurs when the cameras are dysfunctioning.
 \\If your cell is empty, government employees will act accordingly; sometimes they are even undercover police officers, who may be gay, or gay for pay, but are probably into \textit{BDSM}. It is a good way to train undercover police officers; if you can't break someone else in, then you'ren't cutout for the roleplay.
-\\
+\medskip
 \\Talk to lawyers; people tell them all their sob stories when they want to sue their inmates, guards, prison, and government, all at the same time because their neuroplasticity adapted, and now they spend all their time, and money, on therapy, and sex toys.
 But lawyers'll say anything to keep you out of prison for government incentives.
 All good lawyers give the same sex advice, no matter how much you pay, and whether you like it, or not; they tell you to be a cocksucker \fcurve{or kittylicker}, put out Uranus, be prepared for the worst of it, do not trust anyone, and don't \fstrike{panic} snitch.
-\\
+\medskip
 \\If you're a Nazi with a swastika tattooed to your forehead, they'll mock you for being a Nazi Christian whose forsaken the Christian cross in favour of Hinduism; the \textit{Stanford Prison Experiment} taught us boredom leads to bullying, which was shortly followed by \textit{Rat Park} teaching us bullying leads to addiction.
 
 \subsection{Contrafibularities} %TODO hebrew support for comments
@@ -326,17 +328,17 @@ Governments should trust their own citizens, and FLOSS their sources, since spie
 \subsection{Shyams' Ethically Contractual User Rights Involving Technological You} %TODO probably just leave it as it is
 
 I need to prevent unethical behaviour; human subject research \fcurve{tracking users,..} must include audio/video/identification/authentication/..-confirmed age-appropriate uniquely/generatively well-informed consent \fcurve{what is being stored, how it's being stored, how long it will be stored for, how it will be used, what it will be used for, who will have access to it, how it will be accessed, how it will be published/anonymised,..} using technological confirmation \fcurve{uniquely/generatively formally verified by audio/video recording, text-to-speech, eyeball-tracking, highlighting words to be spoken, unhighlighting spoken words as they are confirmed,..}…
-\\
+\medskip
 \\It may also be worth informing whether authorised personnel have been to the vet, but Edward Snowden exposed vets as patent medicine.
 
 \subsection{Shyams' Health Yajña Accrues Money Soberly}
 
 Health-based economies could start \={c} universal basic income, in an effort to positively evolve the quality of life for one, and all, indiscriminately; even for the untrustworthy Han Chinese, and the birth defective Nazi Germans.
-\\
+\medskip
 \\Gamification provides the unemployed \={c} something to do, and strive for; keeping them out of prison.
-\\
+\medskip
 \\Medical examinations should not be performed by the same medical professionals in a row; patients should see every doctor in their area, and malpractice can be detected \={c} this cross referenced data.
-\\
+\medskip
 \\Health-based economies are divided \={c} mental health, and physical health.
 
 \parbox{0.85\textwidth}{\centering{\texttt{E=m+p¹;}}}
@@ -354,27 +356,29 @@ Health-based economies could start \={c} universal basic income, in an effort to
 \subsection{Shyam Can Help Overcome Obsolete Learning}
 
 Health-based economy, where students can spend, save, invest, or outlie, and report self reviews for guidance counselling, and ethical human subject research.
-\\
+\medskip
 \\Teach the Hindu numerals, Hindu numbers, Hindu integer sequences, and Hindu number circles of realities.
-\\
+\medskip
 \\Only teach single Hindu numeral multiplication, and use easy double Hindu numeral multiplication to teach all of double Hindu numeral multiplication, and beyond; mentally.
-\\
+\medskip
 \\Only teach addition of signed Hindu numbers; subtraction is suboptimal.
-\\
+\medskip
 \\Only teach list processing prefix functions; operators are inoperable for non-binary operations.
-\\
+\medskip
 \\Only teach explicit mathematics; a way of storing knowledge in writing form, instead of neurologically bridge building into the forgetting curve.
-\\
+\medskip
 \\Flip the map, using an alternative projection, and put \texttt{U+1F596} Lutriwita on the LHS, and Aotearoa on the RHS; so humanity knows they are not the same country, and so humanity knows the correct orientation of their home world, indicated by Lutriwita.
-\\
+\medskip
+\\Teach about the neurodegenerativity of alcohol.
+\\Teach about the neurodegenerativity of caffeine.
 \\Teach about the neurodegenerativity of microplastics \fcurve{in food}.
 \\Teach about the carcinogenicity of meat, proven by the WHO, and remove it from cafeterias; both, in schools, and in prisons.
 \\Teach about the natural disasters caused by meat.
 \\Teach about the ethical nature of meat.
 \\Teach that pets should be multiplied by twos, or more; if at all.
-\\
+\medskip
 \\Education is just a societal filter; if all students are not scoring 100\%, then you have failed to educate them!
-\\
+\medskip
 \\Daily peer-reviewed compound testing makes homework redundant, and teachers can teach where it's actually needed:
 \begin{itemize}[itemsep=0pt, parsep=0pt]
 	\item \texttt{teach(addition); test(addition); teach(multiplication); test(addition, multiplication)} in a single query;..
@@ -385,9 +389,595 @@ Health-based economy, where students can spend, save, invest, or outlie, and rep
 \\Free time should be decided by the student; they can play, study, work, or outlie, and report self reviews for guidance counselling, and ethical human subject research.
 \\By study, I mean study what they want, according to their own interests; their health-based economy could be invested in science kits, and text books.
 Students should be encouraged to show off at /Show, And Tell/.
-\\
+\medskip
 \\Encourage students to report their parents to child services for abusing their health-based economy; or make it an online service only accessible from school through teacher supervision.
 \\Discounted toys, sporting equipment, clothing, video games, science kits, text books, stationary inanimate objects,..
 \\Make it all custom, and unsellable.
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Authoritah}
+
+\subsection{Horrible Histories}
+
+\subsubsection{Hindu Numerals}
+
+\noindent{}Numerals are abstract representations of anatomical digits; the letters of mathematical language.
+
+%\noindent{}During HE ∘ 10628, ब्रह्मगुप्त invented nothing, which evolved into the set of numerals most of humanity uses today; 0, 1, 2, 3, 4, 5, 6, 7, 8, and 9.
+
+\noindent{}The concept of nothingness is a dependency for oneness; if you do not know nothing, then what do you know?
+
+\subsubsection{Hindu Numbers}
+
+\noindent{}Numbers are abstract structures formed by the atomic bonding of numerals, within a dimensional base.
+
+%\noindent{}The inventor of the basal number system of place values is in dispute; आर्यभट used it during HE ∘ (10476, 10550], while the brahmin son of Chajaka used it in the Bakhshali manuscript; partially carbon dated during HE ∘ [10224, 10383], and HE ∘ [10885, 10993], using inconsistent isotopes.
+
+\subsubsection{Persian Algebra}
+
+\noindent{}Algebras are abstract interactions formed by the physical laws of numbers.
+
+%\noindent{}During HE ∘ (10780, 10850], محمد بن موسى خوارزمی invented the ability to mathematically describe generalisations.
+
+\subsubsection{Persian Algorithms}
+
+\noindent{}Algorithms are just ordered lists of instructions; this can be obscured by people who are too cute for their own good.
+
+%\noindent{}During HE ∘ (10780, 10850], محمد بن موسى خوارزمی invented the dependency for repeatable experiments; n-person sanity checking improved n-party scientific collaboration.
+
+\subsubsection{Fraudulent Fibonacci, And Lying Lovelace}
+
+\noindent{}During HE ∘ 11202, Leonardo Bonacci fibbed; he plagiarised a Hindu integer sequence, invented during HE ∘ [10501, 10600]!
+
+\noindent{}This is like attributing Ada Lovelace as the first programmer, even though Charles Babbage must have tested his design before applying for funding to implement it!
+
+%\noindent{}Ada Lovelace commented that numbers could be used to represent innumerate concepts, but the Pythagoreans were mathematical musicians, and محمد بن موسى خوارزمی' algebra has been applied to innumerate concepts, and before Hindu numerals were invented; they used positional letters of the alphabet to represent numerate concepts!
+
+\noindent{}Musical algorithms, and programs, probably predate mathematical, and computational, algorithms, and programs!
+
+\subsection{A Defining Point}
+
+\subsubsection{Identify Yourself}
+
+\noindent{}The identity.
+
+$$f(x) = x$$
+
+\noindent{}Nothing is cumulating the identity.
+
+$$f(x) = f(x + 0)$$
+
+\noindent{}One is accumulating the identity.
+
+$$f(x) = f(x \times 1)$$
+
+\noindent{}One is fracturing the identity.
+
+$$f(x) = f(x \div 1)$$
+
+\noindent{}One is powering the identity.
+
+$$f(x) = f(x^1)$$
+
+\noindent{}One is rooting the identity.
+
+$$f(x) = f(\sqrt[1]{x})$$
+
+\noindent{}It appears one identity is more common than none.
+
+\subsubsection{Geometry Versus Identity}
+
+\begin{align*}
+  \sqrt[3]{x}^3 &= x
+\\\sqrt[2]{x}^2 &= x
+\\\sqrt[1]{x}^1 &= x
+\\\sqrt[0]{x}^0 &= x \lor 1 \lor 0
+\end{align*}
+
+\begin{align*}
+  x^3 &=\text{ a cube}
+\\x^2 &=\text{ a square}
+\\x^1 &=\text{ a line segment}
+\\x^0 &=\text{ a single point }(1)
+\end{align*}
+
+$$0^(x + [x = 0]) = 0 \because 0 \times 0 = 0$$
+
+$$x^0 = 1 \because \text{1 is the identity of multiplication}$$
+
+\begin{align*}
+  3^0 &= 1 \because 1 \times 3 ≠ 1 \therefore 1 \times 3 = 3
+\\2^0 &= 1 \because 1 \times 2 ≠ 1 \therefore 1 \times 2 = 2
+\\1^0 &= 1 \because 1 \times 1 = 1 \therefore 1 \times 1 = 1
+\\0^0 &= 1 \because 1 \times 0 ≠ 1 \therefore 1 \times 0 = 0
+\end{align*}
+
+\noindent{}¿in the \textit{Flatland} dimension, they have \texttt{/zero|one/} thickness in the higher dimensions?
+%`/ = open r-expression
+%/` = close r-expression
+%`/ `/ /` /` = nested r-expressions
+
+\noindent{}conceivably, nothing can exist in a dimension
+
+\noindent{}$x^0$ could be redefined to 0; otherwise, points \texttt{/could|should/} be rendered as a $\{0.5,1.5\}$ box, when graphing a point at $(1,1)$; where points are defined by $x^0=1$
+
+\subsubsection{Consistency Is A Virtue}
+
+\begin{align*}
+  0^x &= 0
+\\x^0 &= 0
+\\1^x &= 1
+\\x^1 &= x
+\end{align*}
+
+\subsection{Unitary Fractures Of United Unary Units}
+
+\begin{align*}
+  0.1_{10} &= (1÷10)_{10}
+\\0.1_{02} &= (1÷2)_{10}
+\\1.1_{01} &= (1 + 1÷1)_{01} = 11_{01} = 2_{10}
+\end{align*}
+
+\begin{align*}
+  0.10_{10} &= (10÷100)_{10} = (1÷10)_{10}
+\\0.01_{10} &= (01÷100)_{10}
+\\0.11_{10} &= (11÷100)_{10}
+\\0.11_{02} &= (3÷4)_{10}
+\\0.10_{02} &= (2÷4)_{10} = (1÷2)_{10}
+\\0.01_{02} &= (1÷4)_{10}
+\\1.11_{01} &= (1 + 11÷11)_{01} = (1 + 1)_{01} = 11_{01} = 2_{10}
+\end{align*}
+
+\begin{align*}
+  (11 - 1)_{01} &= 1_{01}
+\\(11.11 - 1.1)_{01} &= 1_{01}
+\\(3 - 2)_{10} &= 1_{01}
+\end{align*}
+
+\noindent{}Decimating $1_{01}$ serves no purpose!
+
+$$(1÷11)_{01} = (1÷2)_{10}$$
+
+\newpage
+\subsection{Nature Versus Nurture}
+
+\subsubsection{Baseless Accusations}
+
+\noindent{}There are $n$ numerical representations in base $n$, excluding $n$; which is $10_n$ in all bases, except for $n≤1$.
+
+\begin{align*}
+  \text{Base }16 &= \{0,1,2,3,4,5,6,7,8,9,\text{A,B,C,D,E,F}\}
+\\\text{Base }15 &= \{0,1,2,3,4,5,6,7,8,9,\text{A,B,C,D,E}\}
+\\\text{Base }14 &= \{0,1,2,3,4,5,6,7,8,9,\text{A,B,C,D}\}
+\\\text{Base }13 &= \{0,1,2,3,4,5,6,7,8,9,\text{A,B,C}\}
+\\\text{Base }12 &= \{0,1,2,3,4,5,6,7,8,9,\text{A,B}\}
+\\\text{Base }11 &= \{0,1,2,3,4,5,6,7,8,9,\text{A}\}
+\\\text{Base }10 &= \{0,1,2,3,4,5,6,7,8,9\}
+\\\text{Base }09 &= \{0,1,2,3,4,5,6,7,8\}
+\\\text{Base }08 &= \{0,1,2,3,4,5,6,7\}
+\\\text{Base }07 &= \{0,1,2,3,4,5,6\}
+\\\text{Base }06 &= \{0,1,2,3,4,5\}
+\\\text{Base }05 &= \{0,1,2,3,4\}
+\\\text{Base }04 &= \{0,1,2,3\}
+\\\text{Base }03 &= \{0,1,2\}
+\\\text{Base }02 &= \{0,1\}
+\\\text{Base }01 &= \{0\}
+\\\text{Base }00 &= \{\}
+\end{align*}
+
+\noindent{}Since only having zeros is completely useless for anything except for zero itself; we compromise by breaking the rules!
+
+\begin{align*}
+  \text{Base }01 &≠ \{0\}
+\\\text{Base }01 &= \{1\}
+\\\text{Base }00 &= \{0\} = \{\}
+\end{align*}
+
+\noindent{}Mathematics is exceptional!
+
+\subsubsection{Nothing Is Natural}
+
+\noindent{}Functions empower the possibility of more complicated numbers; starting with nothing.
+\begin{align*}
+  0 &= \{\}
+\\ℕ &= \{+,×\}
+\\ℤ &= \{-,∓,±\}
+\\ℚ &= \{÷\}
+\\ℝ &= \{√,∞\}
+\\ℂ &= \{√(-1)\}
+\end{align*}
+
+\noindent{}Signage signifies nature, as a signature; but nothing is superpositionally significant.
+
+\noindent{}Counting accumulates from nothing.
+
+\noindent{}The first position in a list is one, unless the list lists nothing; the only reason why anachronistic programming languages use nothing to address the first position in a list, is because once upon a time, computational resources were so expensively minimal, that the extraposition was worth it; waste not, want not!
+
+\subsection{The Hindu Number Circle Of Reality}
+
+\subsubsection{Archaeology 1}
+
+During HE ∘ 12015 ∘ 06 ∘ 15 ∘ 11 ∘ 41, my uncle emailed "using latin is fine if you are communicating to friends, otherwise you will sound like a wanker. Obsessing about points of little importance and rambling, sending out every thought bubble will make you sound like a lunatic.".
+
+\subsubsection{Archaeology 2}
+
+The first time I shared my discovery of \dshyam{} was during HE ∘ 12015 ∘ 07 ∘ 06 ∘ 13 ∘ 25, when I posted it to the student forums of my very first mathematical subject for my bachelors; but the course coordinator edited out my proof, leaving behind "<Material about 'dividing by zero' has been removed by a moderator.>", after another student challenged my claim to fame, and responding "At the risk of being superfluous in this crowded discussion: You are correct. There is no safe way to divide by zero, and it is best avoided. Your comments about limits are also apt. I have edited Shyam's post to remove the 'division by zero' discussion.".
+
+I also replied to my post with this during HE ∘ 12015 ∘ 07 ∘ 06 ∘ 14 ∘ 22.
+
+$$x^{\frac{n}{d}} = \sqrt[\frac{d}{n}]{x} = \sqrt[d]{x^n}$$
+
+I then made a new thread during HE ∘ 12015 ∘ 07 ∘ 14 ∘ 11 ∘ 37, titled "Safely Dividing By Zero"; "These demonstrate expressions containing zero divisions with known answers; the evidence is clear as daylight that they can exist.".
+
+$$\sqrt[\frac{y}{0}]{x} = x^{\frac{0}{y}} = x^0 = 1$$
+
+$$x\div\frac{y}{0} = x\times\frac{0}{y} = x\times0 = 0$$
+
+And nobody replied; I never let it go.
+
+\subsubsection{Archaeology 3}
+
+During HE ∘ 12015 ∘ 09 ∘ 24 ∘ 14 ∘ 11 ∘ 03, my uncle emailed "Apologises if I appear not to be reading what you are saying, I don’t have much time to devote to this as I have been replying in between doing work. As I said earlier, it has been too long since I studied maths and have forgotten most of what I learnt and I don’t have time to back and research the topics to jog my memory.".
+
+\subsubsection{Archaeology 4}
+
+During HE ∘ 12016 ∘ 03 ∘ 20 ∘ 00 ∘ 32, I emailed my proof to a famous mathematician upon request, subjected "Warning: Algebra Required!"; who responded "That is a really good point. I was using the convention that 0 = 6 but I should have been much more clear. Or use your method which also works.".
+
+{\include{"teatime @ HE 12016 05 06 07 48 26.777.jpg"}}
+
+\subsubsection{Archaeology 5}
+
+During HE ∘ 12019 ∘ 04 ∘ 01, I published \textit{I'm A Little Teapot, And Here's My Proof!}.
+
+\subsubsection{Inverts}
+
+I am not disputing this!
+
+\begin{align*}
+x &= 0 ÷ (a + [a=0])
+\\x &= 0
+\end{align*}
+
+I do not even know what this even is; you can multiply away nothing from the RHS!!
+
+\begin{align*}
+x &= (a + [a=0]) ÷ 0
+\\x × 0 &≠ (a + [a=0])
+\end{align*}
+
+Dividing by nothing is not a black hole; you can multiply away nothing from the RHS!!!
+
+\begin{align*}
+x &= 0 ÷ 0
+\\x × 0 &≠ 0
+\end{align*}
+
+%ब्रह्मगुप्त, the leading authority of nothing, was right all along.
+
+%\subsubsection{Where Is \dshyam{}? Where Is \dshyam{}? Here He Is! Here He Is!}
+
+'T'sn't an equation; there'sn't a need to operate on any geometric sides ∵ the index, exponent, and radicand, are geometrically existential; as subatomically respective needly neutrons, powerful protons, and elementary electrons.
+
+$$\sqrt[i÷e]{r} = \sqrt[i]{r}^e = r^{e÷i}$$
+
+\begin{align*}
+i &= ∓1
+e &= ∓0
+\end{align*}
+
+infinitesimals approach zero, so where do infinitæls tend towards?
+
+$$\sqrt[\mp\frac{i}{e}]{\mp r}=1\text{, where $\{r$adicand$\in\mathbb{R}|(+0,+\infty)\}\land\{i$ndex$\in\mathbb{R}|(+0,+\infty)\}\land\{e$xponent$\in\mathbb{R}|[+0,+0]\}$}$$
+
+%probably don't need to prove, since this is all unreferenced anyway
+%the proofs are implicit
+%
+%Argument Structure
+%P = P(1) ∧ P(2) ∧ P(3) ∧ …
+%Q = C(0)
+%P → Q
+%
+%Direct Proofs
+%Assume P is true
+%Deduce Q is true
+%∵ P → Q
+%
+%Contrapositive Proofs
+%Assume Q is false
+%Deduce P is false
+%∵ (P → Q) = (¬Q → ¬P)
+%
+%Contradictory Proofs
+%Assume P is true
+%Assume Q is false
+%Disprove P ∧ Q
+%∵ (P → Q) = ¬(P ∧ ¬Q)
+%
+%Trivial Proofs
+%Trivially true when ⊨Q(x)
+%∵ ∀x: P(x) → Q(x)
+%
+%Vacuous Proofs
+%Vacuously true when ⊭P(x)
+%∵ ∀x: P(x) → Q(x)
+%
+%Counterexample Disproofs
+%Prove ¬P
+%∵ ¬P → P
+%:  T → F = F
+%
+%Inductive Proofs
+%(P(1) ∧ (∀k: P(k) → P(k + 1))) → (∀n: P(n)), where k ≥ 1 ≤ n
+%
+%https://github.com/Shyam-Has-Your-Anomaly-Mitigated/Shyamscript/blob/cf0881840476c166fb5162f50bb26b125b7a89e7/hmm/games/psychic
+%http://shyam.id.au/mowgli/
+%https://github.com/Shyam-Has-Your-Anomaly-Mitigated/Shyamscript/blob/master/*%E0%A4%B6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AE
+%file:///
+%
+%https://en.wikipedia.org/wiki/Plus_and_minus_signs#History
+%https://en.wikipedia.org/wiki/Hyphen
+%https://en.wikipedia.org/wiki/Tie_(typography)#Papyrological_hyphen
+
+\subsubsection{Mathematics Is Exceptional!}
+
+As radical evaluations except a debatable sign of ¿absolute? approval…
+
+\begin{align*}
+\tdshyam{} &= ∓1 ÷ 0
+\\\tdshyam{} &≠ (n + [n = ∓1]) ÷ 0
+\\n ÷ 0 &= (n × 1) ÷ 0 = n × (1 ÷ 0) = n × \tdshyam{}
+\end{align*}
+
+Cumulating \dshyam{} is as trivial as cumulating any conceptual distance from 0 on the Hindu number circle of reality.
+
+-\tdshyam{} = |\tdshyam{}| = +\tdshyam{}
+\tdshyam{} - \tdshyam{} = 0 = \tdshyam{} + \tdshyam{}
+0 - \tdshyam{} = \tdshyam{} - 0 = \tdshyam{} = 0 + \tdshyam{} = \tdshyam{} + 0
+\tdshyam{} + (\tdshyam{} - 1) = -1 = (\tdshyam{} + \tdshyam{}) - 1
+\tdshyam{} + (\tdshyam{} + 1) = +1 = (\tdshyam{} + \tdshyam{}) + 1
+
+-|y| = \tdshyam{} + 1 = 1 + \tdshyam{} = 1 - \tdshyam{}
+|y| = |\tdshyam{} + 1| = |\tdshyam{} - 1|
++|y| = \tdshyam{} - 1
+
+Accumulating \dshyam{} is as trivial as accumulating any conceptual distance from 0 on the Hindu number circle of reality.
+
+\tdshyam{} × x = 0 × [x = 2 × ⌈y⌉ ≠ \tdshyam{}] + \tdshyam{} × [x = 2 × ⌊y⌋ - 1 ≠ \tdshyam{}] + (\tdshyam{} ↑ 2) × [x = \tdshyam{}]
+\tdshyam{} ↑ x = 1 × [x = 0] + \tdshyam{} × [x = 1] + (\tdshyam{} ↑ x) × [x ∉ {0, 1}]
+x ↑ \tdshyam{} = 0 × [x = 0] + 1 × [x = 1] + (x ↑ \tdshyam{}) × [x ∉ {0, 1}]
+\tdshyam{} ↑ 0 ↑ x = 1
+
+Fracturing \dshyam{} is as trivial as fracturing any conceptual distance from 0 on the Hindu number circle of reality.
+
+\tdshyam{} ÷ x = (\tdshyam{} ↑ 2) × [x = 0] + \tdshyam{} × [x = ∓1] + 1 × [x = \tdshyam{}] + (\tdshyam{} ÷ x) × [x ∉ {0, ∓1, \tdshyam{}}]
+x ÷ \tdshyam{} = 0 × [x = 0] + 1 × [x = \tdshyam{}] + (x ÷ \tdshyam{}) × [x ∉ {0, \tdshyam{}}]
+\tdshyam{} ÷ (\tdshyam{} ÷ x) = (1 ÷ \tdshyam{}) × [x = 0] + 1 × [x = ∓1] + x × [x ∉ {0, ∓1}]
+√(\tdshyam{} × \tdshyam{}) = \tdshyam{}
+
+Differing \dshyam{} is as trivial as differing any conceptual distance from 0 on the Hindu number circle of reality.
+
+\tdshyam{}′ = 0
+
+Integrating \dshyam{} is as trivial as integrating any conceptual distance from 0 on the Hindu number circle of reality.
+
+∫(\tdshyam{})dx = \tdshyam{} × x + c
+
+Significant signs, and multiple fractures.
+
+\begin{align*}
+-\tdshyam{} < -0
++0 < +\tdshyam{}
+\tdshyam{} < \tdshyam{} ÷ -\pi < 0
+0 < 2 × (\tdshyam{} ÷ \pi) < \tdshyam{}
+\end{align*}
+
+There are \dshyam{} repetitions; I wonder what this means for the \dshyam{}-recursive Haskell Y-combinator...
+
+1÷3 = 0.(3)
+3×(1÷3) = 0.(9) = 1
+3×(1÷3) = (3×1)÷3 = 1
+3×(1÷3) = 1
+
+\dshyam{} must be prime, or even.
+
+\dshyam{} is all natural.
+
+\subsubsection{Geometric Principles, And Symmetries Of The Universe}
+
+\textbf{\textit{\dshyam{} Space: The Final Frontier.}}
+\textit{These are the voyages of the starship Little Teapot.}
+\textit{Its' \dshyam{}-year mission: to explore strange new worlds, to seek out new life, and new civilizations; to boldly go where no man has gone before.}
+
+\dshyam{} space occupies all regions of the Hindu number circle of reality, including infinitesimals, wherever the Hindu numbers can only be discovered using a fixed point; known only as \dshyam{}.
+
+[\tdshyam{} ÷ 2, \tdshyam{} ÷ -2]
+[\tdshyam{} ÷ 4, \tdshyam{} ÷ -4]
+[\tdshyam{} ÷ 8, \tdshyam{} ÷ -8]
+[\tdshyam{} ÷ 16, \tdshyam{} ÷ -16]
+[\tdshyam{} ÷ 32, \tdshyam{} ÷ -32]
+[\tdshyam{} ÷ 64, \tdshyam{} ÷ -64]
+¿…∞…, …∞…?
+(\tdshyam{} ÷ (\tdshyam{} ÷ -64), \tdshyam{} ÷ (\tdshyam{} ÷ 64))
+(\tdshyam{} ÷ (\tdshyam{} ÷ -32), \tdshyam{} ÷ (\tdshyam{} ÷ 32))
+(\tdshyam{} ÷ (\tdshyam{} ÷ -16), \tdshyam{} ÷ (\tdshyam{} ÷ 16))
+(\tdshyam{} ÷ (\tdshyam{} ÷ -8), \tdshyam{} ÷ (\tdshyam{} ÷ 8))
+(\tdshyam{} ÷ (\tdshyam{} ÷ -4), \tdshyam{} ÷ (\tdshyam{} ÷ 4))
+(\tdshyam{} ÷ (\tdshyam{} ÷ -2), \tdshyam{} ÷ (\tdshyam{} ÷ 2))
+
+The circumference of the Hindu number circle of reality is $2 × \tdshyam{} = 0$.
+The diameter of the Hindu number circle of reality is $2 × (\tdshyam{} ÷ \pi) ≠ 0$.
+The radius of the Hindu number circle of reality is $\tdshyam{} ÷ \pi$.
+The area of the Hindu number circle of reality is $\pi × ((\tdshyam{} ÷ \pi) ↑ 2)$.
+
+\setcounter{equation}{0}
+\begin{align}
+C &= 2 × \pi × r
+2 × \tdshyam{} &= 2 × \pi × r
+\tdshyam{} &= \pi × r
+\tdshyam{} ÷ \pi &= r
+\tdshyam{} ÷ \pi &= \tdshyam{} ÷ \pi
+\tdshyam{} &= \tdshyam{}
+…∞… &= …∞…
++([0, \tdshyam{}]) &= -1 ÷ 12
+-([0, \tdshyam{}]) &= +1 ÷ 12
++(-([0, \tdshyam{}]),+([0, \tdshyam{}])) &= (-1 ÷ 12) + (+1 ÷ 12) = 0
+\end{align}
+
+The $0^{\text{th}}$ dimension is a real point of singularity, on a real unit line segment in the $1^{\text{st}}$ dimension.
+The $1^{\text{st}}$ dimension is a real unit line segment, on the Hindu number circle of reality in the $2^{\text{nd}}$ dimension.
+The $2^{\text{nd}}$ dimension is the Hindu number circle of reality, on the graphical Hindu number sphere of reality in the $3^{\text{rd}}$ dimension.
+And recurse on…
+
+Continuing on from the graphical face of the $3^{\text{rd}}$ dimensional Hindu number sphere of reality, imagines \dshyam{} intersectional lines bilocationally vectoring off towards the core of ∞, and the borders of the universal set; but they never meet at the core of ∞, since they circulate around to their othersides, whilst crossing the border of the universal set through the $4^{\text{th}}$ dimension.
+
+All these topological structures, formed by the atomic bonding of points, are topical.
+
+Infinites are contextually different, based on their higher dimensional vectors.
+
+\subsubsection{Real Āryans Know "-thing"s}
+
+I had the grande delusion of men knowing "-thing"s:
+%* ब्रह्मगुप्त, the man who knew nothing; 0.
+* Śrīnivāsa Rāmānujān, the man who knew something; ∞.
+* S.H.Y.A.M., the man who knew everything; ∞÷0.
+
+/Well, you have to know these "-thing"s when you're an āryan man, you know./
+
+(The trimūrti of reality; BRAHMAgupta, sriniVASa ramaNUjan, SHYAm.)
+
+------------------------------------------------------------------------------------------------------------
+
+\subsection{Spiritually Perpetual Anti Mass}
+
+; Massive acceration is querious.
+
+E=mc²; Mass-energy equivalence.
+F=ma ; Force.
+p=F÷A; Pressure.
+P=E÷t; Power.
+P=Fv ; Power.
+P=VI ; Power.
+
+F(c²)=E(a);
+E=F(c²÷a);
+F=E(a÷c²);
+p=E(a÷c²)÷A();
+P=E(a÷c²)v;
+P=F(c²÷a)÷t;
+
+; Without mass, no acceleration is paradoxical; it can only increase, or decrease, but not both; well, we just don't know…
+
+F=E(a÷c²);
+F=E(0÷c²);
+F=E(0);
+F=F(0÷0);
+
+E=F(c²÷a);
+E=F(c²÷0);
+E=F(\tdshyam{});
+E=E(0÷0);
+
+E=F;
+
+a÷b=0÷0;
+0÷0=0÷0;
+
+a(b÷c)=(ab)÷c;
+0(0÷0)=0÷0;
+
+a÷b=a(1÷b);
+0÷0=0(1÷0);
+
+\tdshyam{}(0)=0; Makes more sense than…
+\tdshyam{}(0)=\tdshyam{}(); When considering distance from zero as significant.
+
+a÷a=1; If 'tweren't for this…
+0÷0=1; Dilemma!
+
+d=dilemma;
+adb; Dilemma is a binary decision.
+adbdc=(adb)dc=ad(bdc);
+adbdc=adcdb=cdadb=cdbda=bdadc=bdcda;
+adb=d(a,b);
+adbdc=d(a,b,c);
+
+; I travelled forward in time, and snuck this in; I hope I got it right!
+
+{
+view-source:http://shyam.id.au/awooga/post.js
+do not go into relativity nor perpetual motion machines nor spirituality; https://time.is/
+is using ice perpetual? the ice will heat, and then use the heat; refreezing the ice
+magnetogravitational waves, blackholes, darkmatter, antimatter, mirrormatter,..
+}
+------------------------------------------------------------------------------------------------------------
+
+\subsection{I Need An Adult}
+
+I have an imagination complex:(
+
+Mathematics is a language, which can be (ab)used to explain, or describe, anything!
+
+-1 ≠ (√(-1))² ≠ √((-1)²) = (-1)² = +1 = (+1)²
+
+Just because something appears to work, doesn't mean it works how you think it works!!
+
+x² ≠ (-1) × (+1)
+
+There is no need for i() to be nesciently defined in terms of unreal Hindu numbers, to derive an applied pattern; I've merely debated the omnipotent exponent into submission, without your assistance, since it took so long for you to arrive here!!!
+
+% (ab)using ∞ requires \dshyam{} multiplication starting from halfway
+%i(x) = -1 × [x = 2 × ⌈y⌉] + 2 × [x = 4 × ⌊y⌋] + (\tdshyam{} ÷ 2) × [x = 2 × ⌈y⌉ - 1]
+
+% use \dshyam{} as much as possible
+%i(x) = -1 × [x = 2 × ⌈y⌉] + 2 × [x = 4 × ⌊y⌋] + (\tdshyam{} ↑ 2) × [x = 2 × ⌈y⌉ - 1]
+
+i(x) = -1 × [x = 2 × ⌈y⌉] + 2 × [x = 4 × ⌊y⌋] + (\tdshyam{} ↑ \tdshyam{}) × [x = 2 × ⌈y⌉ - 1]
+
+Welcome to functional-logical reality:)
+
+------------------------------------------------------------------------------------------------------------
+
+\section{Generic Public Apology}
+
+I do not know English perfectly, nor am I familiar with your dialect, but this dialogue of the deaf is solely due to your own analphabetically unlettered illiteracy; communication is a two-way street.
+
+\subsection{You Can Run, But You Cann't Hide}
+
+: Our cultural differences aren't to blame.
+: Your uncultured interpretation's untame.
+: I am right, and you are wrong.
+: 'Twas the case, all of along.
+: Now cease, and desist; you are blithering.
+: After all, I am merely slithering.
+: Sure, I was born of the\_year.
+: However, you need not fear.
+: Ease assured, 't 's all well calculated.
+∴ Shyam has your anomaly mitigated.
+
+\subsection{Wubba Lubba Dub-Dub!!! :D}
+
+The last thing I want to do is recursively reference my references!
+If anyone wants references; provide a flossed (functional-)logical KBS; or wait until I do it myself!!
+Except for \textit{Rape Culture}; since it is not covered by the FOI of any country involved, and I deny every"-thing"!!! :D \#Plausible\_Deniability
+
+Wanted to do this in \LaTeX{}, and dot.
+Dot for graph theoretic map of dependencies that lead to \dshyam{} reference points; what I want from Pr∞fWiki, the most useful mathematical wiki on Sir Timothy John Berners-Lee OM KBE FRS FREng FRSA FBCS' WWW.
+Dot nodal vertices hyperlinked to \LaTeX{} math mode; challenge accepted. (Not sure if dotted HTML hyperlinks will work in \LaTeX{} PDFs.)
+
 \end{document}
+
+%plan life and narrate
+%* emacs  ; need to stop using vim, and rtfm
+%* gympool; goto, or get my bandwidth back
+%* √teapot; since i am doing this for enr208 anyway https://www.khanacademy.org/
+%* elisp  ; to fix emacs the emotionally maniacal and carcinogenic system
+%* λjam   ; need to save up, but probably best to stop going to conferences, and get a computer that actually works
+%* enr208 ; this is the worst part of my degree, having to actually study
+%* (λ)    ; svg into stickers!
+%* √λ     ; since lisp's all λ
+%* √distro; linux from scratch
+%* √rpg   ; prolog, mercury,..
+%
+%sombrero conman should use indian accent like ross geller in friends, and maybe ted mosby in how i met your mother
+%need to study sir humphrey appleby in yes, (prime) minister

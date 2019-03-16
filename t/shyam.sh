@@ -9,6 +9,7 @@ butterfly=$1
 
 g() {
 	[ $? -eq 0 ] && pdflatex "$1.tex";
+	#[ $? -eq 0 ] && xelatex "$1.tex";
 }
 f() {
 	"$1" "$2.$3" && g "$2" && g "$2"; # TIC TOC, TEX TOC
