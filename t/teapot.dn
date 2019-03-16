@@ -337,11 +337,11 @@ Health-based economies could start \={c} universal basic income, in an effort to
 \medskip
 \\Health-based economies are divided \={c} mental health, and physical health.
 
-\parbox{0.85\textwidth}{\centering{\texttt{E=m+p¹;}}}
+\parbox{0.85\textwidth}{\centering{\texttt{E=mp¹;}}}
 
 \noindent{}You earn less incrementally, the healthier you are; this way focus is on the unhealthiest terms of the equation \={c}out losing all focus on the healthiest terms of the equation.
 
-\parbox{0.85\textwidth}{\centering{\texttt{E=1÷(1÷(m÷p))+(1÷(p÷m));}}}
+\parbox{0.85\textwidth}{\centering{\texttt{E=1÷((1÷(m÷p))+(1÷(p÷m)));}}}
 
 \noindent{}Passing tiered thresholds should add a base, and subtract the base from the divisibilities; both mental, and physical, must both qualify to raise the base.
 
@@ -452,7 +452,7 @@ $$f(x) = f(x \div 1)$$
 
 \noindent{}One is powering the identity.
 
-$$f(x) = f(x^1)$$
+$$f(x) = f(x ↑ 1)$$
 
 \noindent{}One is rooting the identity.
 
@@ -463,28 +463,28 @@ $$f(x) = f(\sqrt[1]{x})$$
 \subsubsection{Geometry Versus Identity}
 
 \begin{align*}
-  \sqrt[3]{x}^3 &= x
-\\\sqrt[2]{x}^2 &= x
-\\\sqrt[1]{x}^1 &= x
-\\\sqrt[0]{x}^0 &= x \lor 1 \lor 0
+  \sqrt[3]{x} ↑ 3 &= x
+\\\sqrt[2]{x} ↑ 2 &= x
+\\\sqrt[1]{x} ↑ 1 &= x
+\\\sqrt[0]{x} ↑ 0 &= x \lor 1 \lor 0
 \end{align*}
 
 \begin{align*}
-  x^3 &=\text{ a cube}
-\\x^2 &=\text{ a square}
-\\x^1 &=\text{ a line segment}
-\\x^0 &=\text{ a single point }(1)
+  x ↑ 3 &=\text{ a cube}
+\\x ↑ 2 &=\text{ a square}
+\\x ↑ 1 &=\text{ a line segment}
+\\x ↑ 0 &=\text{ a single point }(1)
 \end{align*}
 
-$$0^(x + [x = 0]) = 0 \because 0 \times 0 = 0$$
+$$0 ↑ (x + [x = 0]) = 0 \because 0 \times 0 = 0$$
 
-$$x^0 = 1 \because \text{1 is the identity of multiplication}$$
+$$x ↑ 0 = 1 \because \text{1 is the identity of multiplication}$$
 
 \begin{align*}
-  3^0 &= 1 \because 1 \times 3 ≠ 1 \therefore 1 \times 3 = 3
-\\2^0 &= 1 \because 1 \times 2 ≠ 1 \therefore 1 \times 2 = 2
-\\1^0 &= 1 \because 1 \times 1 = 1 \therefore 1 \times 1 = 1
-\\0^0 &= 1 \because 1 \times 0 ≠ 1 \therefore 1 \times 0 = 0
+  3 ↑ 0 &= 1 \because 1 \times 3 ≠ 1 \therefore 1 \times 3 = 3
+\\2 ↑ 0 &= 1 \because 1 \times 2 ≠ 1 \therefore 1 \times 2 = 2
+\\1 ↑ 0 &= 1 \because 1 \times 1 = 1 \therefore 1 \times 1 = 1
+\\0 ↑ 0 &= 1 \because 1 \times 0 ≠ 1 \therefore 1 \times 0 = 0
 \end{align*}
 
 \noindent{}¿in the \textit{Flatland} dimension, they have \texttt{/zero|one/} thickness in the higher dimensions?
@@ -494,15 +494,15 @@ $$x^0 = 1 \because \text{1 is the identity of multiplication}$$
 \\
 \\conceivably, nothing can exist in a dimension
 \\
-\\$x^0$ could be redefined to 0; otherwise, points \texttt{/could|should/} be rendered as a $\{0.5,1.5\}$ box, when graphing a point at $(1,1)$; where points are defined by $x^0=1$
+\\$x ↑ 0$ could be redefined to 0; otherwise, points \texttt{/could|should/} be rendered as a $\{0.5,1.5\}$ box, when graphing a point at $(1,1)$; where points are defined by $x ↑ 0 = 1$
 
 \subsubsection{Consistency Is A Virtue}
 
 \begin{align*}
-  0^x &= 0
-\\x^0 &= 0
-\\1^x &= 1
-\\x^1 &= x
+  0 ↑ x &= 0
+\\x ↑ 0 &= 0
+\\1 ↑ x &= 1
+\\x ↑ 1 &= x
 \end{align*}
 
 \subsection{Unitary Fractures Of United Unary Units}
@@ -654,7 +654,7 @@ x &= 0 ÷ 0
 
 \noindent{}`T'sn't an equation; there'sn't a need to operate on any geometric sides ∵ the index, exponent, and radicand, are geometrically existential; as subatomically respective needly neutrons, powerful protons, and elementary electrons.
 
-$$\sqrt[i ÷ e]{r} = \sqrt[i]{r}^e = r^{e ÷ i}$$
+$$\sqrt[i ÷ e]{r} = \sqrt[i]{r} ↑ e = r ↑ (e ÷ i)$$
 
 \begin{align*}
 i &= ∓1
@@ -749,7 +749,7 @@ $$\sqrt[\mp i ÷ e]{\mp r}=1\text{, where $\{r$adicand$\in\mathbb{R}|(+0,+\infty
 \\\dshyam{} ↑ x &= 1 × [x = 0] + \dshyam{} × [x = 1] + (\dshyam{} ↑ x) × [x ∉ {0, 1}]
 \\x ↑ \dshyam{} &= 0 × [x = 0] + 1 × [x = 1] + (x ↑ \dshyam{}) × [x ∉ {0, 1}]
 \\\dshyam{} ↑ 0 ↑ x &= 1
-\\2^{\dshyam{}} &= 1\text{, from the spherical graph of $2^x$, $x$-perpendicularly symmetrical} % collisions with an equidistant locality may be asymmetrical
+\\2 ↑ \dshyam{} &= 1\text{, from the spherical graph of $2 ↑ x$, $x$-perpendicularly symmetrical} % collisions with an equidistant locality may be asymmetrical
 \end{align*}
 
 \noindent{}Fracturing \dshyam{} is as trivial as fracturing any conceptual distance from 0 on the Hindu number circle of reality.
