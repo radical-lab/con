@@ -949,7 +949,11 @@ $$x ↑ 2 ≠ (-1) × (+1)$$
 % use \dshyam{} as much as possible
 %$$i(x) = -1 × [x = 2 × ⌈y⌉] + 2 × [x = 4 × ⌊y⌋] + (\dshyam{} ↑ 2) × [x = 2 × ⌈y⌉ - 1]$$
 
-$$i(x) = -1 × [x = 2 × ⌈y⌉] + 2 × [x = 4 × ⌊y⌋] + (\dshyam{} ↑ \dshyam{}) × [x = 2 × ⌈y⌉ - 1]$$
+%$$i(x) = -1 × [x = 2 × ⌈y⌉] + 2 × [x = 4 × ⌊y⌋] + (\dshyam{} ↑ \dshyam{}) × [x = 2 × ⌈y⌉ - 1]$$
+
+%$$i(x) = -1 × [x = 2 × ⌈y⌉] + 2 × [x = 4 × ⌊y⌋] + i() × [x = 2 × ⌈y⌉ - 1]$$
+
+$$i(x) = -1 × [x = 2 × ⌈y⌉] + 2 × [x = 4 × ⌊y⌋] + i(x) × [x = 2 × ⌈y⌉ - 1]$$
 
 \noindent{}Welcome to functional-logical reality:)
 
