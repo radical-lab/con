@@ -349,7 +349,7 @@ Health-based economies could start \={c} universal basic income, in an effort to
 
 \noindent{}Passing tiered thresholds should add a base, and subtract the base from the divisibilities; both mental, and physical, must both qualify to raise the base.
 
-\parbox{0.85\textwidth}{\centering{\texttt{E=[m≤p]×(m+(p÷m))+[p≤m]×(p+(m÷p));}}}
+\parbox{0.85\textwidth}{\centering{\texttt{E=[m$≤$p]×(m+(p÷m))+[p$≤$m]×(p+(m÷p));}}}
 
 \noindent{}Add a bonus for continuously positive results; 52 inclines per year, and 4 inclines per month, or just 12 inclines per year, and 1 incline per month.
 
@@ -748,8 +748,8 @@ $$\sqrt[\mp i ÷ e]{\mp r}=1\text{, where $\{r$adicand$\in\mathbb{R}|(+0,+\infty
 
 \begin{align*}
 \dshyam{} × x &= 0 × [x = 2 × ⌈y⌉ ≠ \dshyam{}] + \dshyam{} × [x = 2 × ⌊y⌋ - 1 ≠ \dshyam{}] + (\dshyam{} ↑ 2) × [x = \dshyam{}]
-\\\dshyam{} ↑ x &= 1 × [x = 0] + \dshyam{} × [x = 1] + (\dshyam{} ↑ x) × [x ∉ {0, 1}]
-\\x ↑ \dshyam{} &= 0 × [x = 0] + 1 × [x = 1] + (x ↑ \dshyam{}) × [x ∉ {0, 1}]
+\\\dshyam{} ↑ x &= 1 × [x = 0] + \dshyam{} × [x = 1] + (\dshyam{} ↑ x) × [x ∉ \{0, 1\}]
+\\x ↑ \dshyam{} &= 0 × [x = 0] + 1 × [x = 1] + (x ↑ \dshyam{}) × [x ∉ \{0, 1\}]
 \\\dshyam{} ↑ 0 ↑ x &= 1
 \\2 ↑ \dshyam{} &= \dshyam{} - 1\text{, retracing from the spherical graph of $2 ↑ x$}%, $x$-perpendicularly symmetrical} % collisions with an equidistant locality may be asymmetrical
 \end{align*}
@@ -757,9 +757,9 @@ $$\sqrt[\mp i ÷ e]{\mp r}=1\text{, where $\{r$adicand$\in\mathbb{R}|(+0,+\infty
 \noindent{}Fracturing \dshyam{} is as trivial as fracturing any conceptual distance from 0 on the Hindu number circle of reality.
 
 \begin{align*}
-\dshyam{} ÷ x = (\dshyam{} ↑ 2) × [x = 0] + \dshyam{} × [x = ∓1] + 1 × [x = \dshyam{}] + (\dshyam{} ÷ x) × [x ∉ {0, ∓1, \dshyam{}}]
-\\x ÷ \dshyam{} = 0 × [x = 0] + \dshyam{} × [x = 1] + 1 × [x = \dshyam{}] + (x ÷ \dshyam{}) × [x ∉ {0, 1, \dshyam{}}]
-\\\dshyam{} ÷ (\dshyam{} ÷ x) = (1 ÷ \dshyam{}) × [x = 0] + 1 × [x = ∓1] + x × [x ∉ {0, ∓1}]
+\dshyam{} ÷ x = (\dshyam{} ↑ 2) × [x = 0] + \dshyam{} × [x = ∓1] + 1 × [x = \dshyam{}] + (\dshyam{} ÷ x) × [x ∉ \{0, ∓1, \dshyam{}\}]
+\\x ÷ \dshyam{} = 0 × [x = 0] + 1 × [x = \dshyam{}] + (x ÷ \dshyam{}) × [x ∉ \{0, \dshyam{}\}]
+\\\dshyam{} ÷ (\dshyam{} ÷ x) = (1 ÷ \dshyam{}) × [x = 0] + 1 × [x = ∓1] + x × [x ∉ \{0, ∓1\}]
 \\\sqrt{\dshyam{} × \dshyam{}} = \dshyam{}
 \end{align*}
 
