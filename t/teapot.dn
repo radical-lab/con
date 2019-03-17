@@ -7,7 +7,7 @@
 % encoding scheme
 \usepackage[utf8x]{inputenc}
 %\usepackage[utf8]{inputenc}
-\usepackage[T1]{fontenc}
+%\usepackage[T1]{fontenc}
 \usepackage{textcomp}
 \usepackage{devanagari}
 \usepackage[english]{babel}
@@ -22,6 +22,7 @@
 \usepackage{amssymb}
 \usepackage{mathtools}
 \usepackage{pgfplots}
+\usepackage{unicode-math}
 
 % other
 \usepackage[left=1cm, right=1cm, top=1in, bottom=1in]{geometry}
@@ -42,6 +43,9 @@
 % strikeout with \sout{...}
 \usepackage{ulem}
 
+%\usepackage{xepersian}
+%\settextfont{XB Niloofar}%https://fontlibrary.org/en/font/xb-niloofar
+
 %%%%%%%% /cfg/ %%%%%%%%
 
 \definecolor{urllink}{rgb}{.5,.75,.5}
@@ -59,14 +63,7 @@
 \rfoot{\hyperlink{contents}{TOC}}
 \cfoot{\thepage}
 \renewcommand{\footrulewidth}{1pt}
-
-% Shyam
-\def\Shyam{$[$\texttt{\href{mailto:shyam@shyam.id.au?Subject=We need to talk.}{shyam@shyam.id.au}}$]$}
-% SHYAM
-\def\SHYAM{\textbf{S}\textit{hyam} \textbf{H}\textit{as} \textbf{Y}\textit{\kern-.2em{}our} \textbf{A}\textit{nomaly} \textbf{M}\textit{itigated}}
-\def\SHYAM{\textbf{$\mathbb{S}$}\textit{hyam} \textbf{$\mathbb{H}$}\textit{as} \textbf{$\mathbb{Y}$}\textit{\kern-.2em{}our} \textbf{$\mathbb{A}$}\textit{nomaly} \textbf{$\mathbb{M}$}\textit{itigated}}
-% ShYaM
-\def\ShYaM{\rm S\kern-.13em\lower-.47em\hbox{\fontsize{.5em}{0em}\selectfont H}\kern-.0555em{}Y\kern-.442em\lower.227em\hbox{A}\kern-.25em{}M}
+\setlength{\headheight}{15pt}
 
 % \maketitle
 \title{
@@ -77,9 +74,9 @@
 	\\\bigskip{\small published by}\\\bigskip
 	{\LARGE $\vcenter{\hbox{$\sqrt{}$}}$ Research And Development In Computation And Linguistics}
 	\\\bigskip{\small on}\\\bigskip
-	{\Large Bhūmi ∘ Sūrya ∘ Kṣīra-Sāgaraḥ}
+	{\Large Bhūmi \shyamof{} Sūrya \shyamof{} Kṣīra-Sāgaraḥ}
 	\\\bigskip{\small during}\\\bigskip
-	{\large HE ∘ 12019 ∘ 04 ∘ 01}
+	{\large HE \shyamof{} 12019 \shyamof{} 04 \shyamof{} 01}
 	\\\bigskip\bigskip\bigskip
 	$\vcenter{\hbox{\includegraphics[keepaspectratio,scale=0.666]{swastika.png}}}$
 	\\\bigskip\bigskip\bigskip
@@ -97,6 +94,15 @@
 \date{}
 %\version{1337}
 
+% Shyam
+\def\Shyam{$[$\texttt{\href{mailto:shyam@shyam.id.au?Subject=We need to talk.}{shyam@shyam.id.au}}$]$}
+% SHYAM
+\def\SHYAM{\textbf{S}\textit{hyam} \textbf{H}\textit{as} \textbf{Y}\textit{\kern-.2em{}our} \textbf{A}\textit{nomaly} \textbf{M}\textit{itigated}}
+\def\SHYAM{\textbf{$\mathbb{S}$}\textit{hyam} \textbf{$\mathbb{H}$}\textit{as} \textbf{$\mathbb{Y}$}\textit{\kern-.2em{}our} \textbf{$\mathbb{A}$}\textit{nomaly} \textbf{$\mathbb{M}$}\textit{itigated}}
+% ShYaM
+\def\ShYaM{\rm S\kern-.13em\lower-.47em\hbox{\fontsize{.5em}{0em}\selectfont H}\kern-.0555em{}Y\kern-.442em\lower.227em\hbox{A}\kern-.25em{}M}
+
+\def\shyamof{$\circ$}%∘
 \def\dshyam{\text{\dn "syaama}}
 \def\dkrishna{\text{\dn k.r.s.na}}
 \def\davatar{\text{\dn avataara}}
@@ -146,11 +152,9 @@
 \medskip
 \\Śyāma is how you pronounce Shyam, and \dshyam{} is how you spell Śyāma; \dshyam{} is one of the 108 names of \dkrishna{}, an \davatar{} of \dvishnu{}, hunted to death by an archer, after singing the \dgita{}; a conversation, where he peer pressures a friend into killing their relatives, and friends, to score \dkarma{} points!!! \texttt{:D}
 \medskip
-\\My favourite real integers are; \dshyam{}, -1, 0, 1, 2, 3, 6, 10, 11, 16, 32, 42, 64, 69, 72, 73, 83, 89, 101, 108, 728, 1337, 1727, 1989, 2072, 2073, 2414, 2419, 2914, 2919, 8730, 11989, 12072, 12073, and \dshyam{}.
+\\My favourite real integers are; \dshyam{}, -1, 0, 1, 2, 3, 6, 10, 11, 16, 32, 42, 64, 69, 72, 73, 83, 89, 101, 108, 728, 1337, 1727, 1989, 2072, 2073, 2414, 2419, 2914, 2919, 8730, 11989, 12072, 12073, and \dshyam{}.\medskip\\I whisper sweet nothings to my machine, and it just listens to me \fcurve{like noone else will}; I am \textit{The Computer Whisperer}, but I whisper with my finger tips…
 \medskip
-\\I whisper sweet nothings to my machine, and it just listens to me \fcurve{like noone else will}; I am \textit{The Computer Whisperer}, but I whisper with my finger tips…
-\medskip
-\\I am unemployed, and I do not sign non-disclosure agreements, so email me for my personal documentation; I am also a Robot.
+\\I am an unemployed undergraduate, and I do not sign non-disclosure agreements, so email me for my personal documentation; I am also a Robot.
 \begin{itemize}[itemsep=0pt, parsep=0pt, labelsep=0pt]
 	\item[\texttt{R}]\texttt{ MIT}
 	\item[\texttt{O}]\texttt{ UA}
@@ -226,7 +230,7 @@ The Nazis are Christian, but used symbols of Hinduism to undermine it; they neve
 \\European religions are predominantly polytheistic; pagan apparently means polytheist, so I am a pagan, but I've always thought of paganism as a religion; Greek Olympians Zeus, Hades, Hera, Hercules, and Xena; Norse Vikings Thor, and Loki.
 \\Abrahamic religions are monotheistic; Jews, Christians, Muslims, and Ras-tafaris.
 \\The Saudi Arabians continue to behead witches; their sultans, or whatever, are afraid a witch will steal their power like in \textit{Beauty And The Beast}; they do not understand that movies, and television shows, and books, are all fiction; I suspect their language probably does not support the concept, as Klingon does not support begging \fquote{please}s, and sycophantising \fquote{thank you}s.
-\\The Saudi Arabian sultans have a special task force of witch hunters, who rummage through decapitated witches possessions looking for magic lamps.
+\\The Saudi Arabian sultans have a special task force of witch hunters, who go rummaging through each decapitated witches' possessions looking for magic lamps.
 \\The Saudi Arabian sultans like to think of what they will wish for when they finally discover a genie; eternal youth, immortality,.; they then decide everyone else should wish to be a genie, so they get one thousand, and one, wishes, and will set them all free as their final wish.
 \\The Saudi Arabian sultans also behead witches because they are afraid of sea, and moon, splitting prophets sending them to Hell.
 \\They break the \textit{Ten Commandments}; beheading witches is killing thy neighbour; the British royal family is going to Hell too, for capitalism, but everyone knows that the church of England is just a social club anyway; the British also sent all of their convicts to \textit{Australia Prison}, to avoid what happened to the French; vive la guillotine!
@@ -268,7 +272,7 @@ The Nazis are Christian, but used symbols of Hinduism to undermine it; they neve
 	\item \fquote{Clitical nipple cripple}; they nipple cripple your clit to make you icecream.
 	\item They poke out your third eye \fcurve{brown eye}, and they also poke you in your fourth eye \fcurve{whispering eye}.
 	\item They make you pull a goatse, and then close it, and then goatse again, and then...while encouraging you to do it faster, and faster, and faster, and wider, and wider, and wider; then they start punching their fist in each time when it is wide enough, and then they start fisting you to their elbow.
-	\item They shove their shitty fist in your pussy, passed your cervix, and into your womb; then they open, and close, their hand, while informing you that you will never have babies. \fcurve{Medical professionals do not back these claims; some people are just born infertile, defective, or incompatible, and think prison caused it; it takes two to tango.}
+	\item They shove their shitty fist in your pussy, passed your cervix, and into your womb; then they open, and close, their hand, while informing you that you will never have babies. \fcurve{Medical professionals do not support these claims; some people are just born infertile, defective, or incompatible, and think prison caused it; it takes two to tango.}
 	\item You also get knuckle sandwiches; false teeth, and glass eyes.
 \end{itemize}
 
@@ -303,13 +307,13 @@ All good lawyers give the same sex advice, no matter how much you pay, and wheth
 
 \subsubsection{Fool Me Once, Fool Me Twice}
 
-%Blonde jokes ridicule a second attempt at world domi-nation; \R{נקמת היהודים}.
+Blonde jokes ridicule a second attempt at world domi-nation; נקמת היהודים.
 \fcurve{Deutschland was blonde enough to proceed; lacking the intellectual capacity to succeed.}
 
 \subsubsection{All Jokes Aside}
 
 The original blonde joke was probably about black Hitler leading the blondes against non-blondes.
-%\fcurve{Black Hitler was like black \R{יֵשׁוּעַ}; they were both \R{יהודי}, but their followers wære not.}
+\fcurve{Black Hitler was like black יֵשׁוּעַ; they were both יהודי, but their followers wære not.}
 
 \subsubsection{Educated Applebys, And Amish Oranges}
 
@@ -365,9 +369,7 @@ Health-based economy, where students can spend, save, invest, or outlie, and rep
 \medskip
 \\Flip the map, using an alternative projection, and put \texttt{U+1F596} Lutriwita on the LHS, and Aotearoa on the RHS; so humanity knows they are not the same country, and so humanity knows the correct orientation of their home world, indicated by Lutriwita.
 \medskip
-\\Teach about the neurodegenerativity of alcohol.
-\\Teach about the neurodegenerativity of caffeine.
-\\Teach about the neurodegenerativity of microplastics \fcurve{in food}.
+\\Teach about the neurodegenerativity of alcohol, caffeine, and microplastics \fcurve{in food}.
 \\Teach about the carcinogenicity of meat, proven by the WHO, and remove it from cafeterias; both, in schools, and in prisons.
 \\Teach about the natural disasters caused by meat.
 \\Teach about the ethical nature of meat.
@@ -377,14 +379,14 @@ Health-based economy, where students can spend, save, invest, or outlie, and rep
 \medskip
 \\Daily peer-reviewed compound testing makes homework redundant, and teachers can teach where it's actually needed:
 \begin{itemize}[itemsep=0pt, parsep=0pt]
-	\item \texttt{teach(addition); test(addition); teach(multiplication); test(addition, multiplication)} in a single query;..
-	\item \texttt{teach(vowels, consonants); test(letters); teach(verbs, nouns,..); test(words);}..
+	\item \texttt{teach(addition);} \texttt{test(addition);} \texttt{teach(multiplication);} compounded into a single query \texttt{test(addition, multiplication);}
+	\item \texttt{teach(vowels, consonants); test(letters); teach(verbs, nouns,..); test(words);}
 \end{itemize}
 
 \noindent{}Employees do not get paid for homework!
 \\Free time should be decided by the student; they can play, study, work, or outlie, and report self reviews for guidance counselling, and ethical human subject research.
 \\By study, I mean study what they want, according to their own interests; their health-based economy could be invested in science kits, and text books.
-Students should be encouraged to show off at /Show, And Tell/.
+Students should be encouraged to show off at \textit{Show, And Tell}.
 \medskip
 \\Encourage students to report their parents to child services for abusing their health-based economy; or make it an online service only accessible from school through teacher supervision.
 \\Discounted toys, sporting equipment, clothing, video games, science kits, text books, stationary inanimate objects,..
@@ -397,37 +399,37 @@ Students should be encouraged to show off at /Show, And Tell/.
 \subsubsection{Hindu Numerals}
 
 \noindent{}Numerals are abstract representations of anatomical digits; the letters of mathematical language.
-\\
-\\During HE ∘ 10628, \dbrahmagupta{} invented nothing, which evolved into the set of numerals most of humanity uses today; 0, 1, 2, 3, 4, 5, 6, 7, 8, and 9.
-\\
+\medskip
+\\During HE \shyamof{} 10628, \dbrahmagupta{} invented nothing, which evolved into the set of numerals most of humanity uses today; 0, 1, 2, 3, 4, 5, 6, 7, 8, and 9.
+\medskip
 \\The concept of nothingness is a dependency for oneness; if you do not know nothing, then what do you know?
 
 \subsubsection{Hindu Numbers}
 
 \noindent{}Numbers are abstract structures formed by the atomic bonding of numerals, within a dimensional base.
-\\
-\\The inventor of the basal number system of place values is in dispute; \daryabhata{} used it during HE ∘ (10476, 10550], while the brahmin son of Chajaka used it in the Bakhshali manuscript; partially carbon dated during HE ∘ [10224, 10383], and HE ∘ [10885, 10993], using inconsistent isotopes.
+\medskip
+\\The inventor of the basal number system of place values is in dispute; \daryabhata{} used it during HE \shyamof{} (10476, 10550], while the brahmin son of Chajaka used it in the Bakhshali manuscript; partially carbon dated during HE \shyamof{} [10224, 10383], and HE \shyamof{} [10885, 10993], using inconsistent isotopes.
 
 \subsubsection{Persian Algebra}
 
 \noindent{}Algebras are abstract interactions formed by the physical laws of numbers.
-%\\
-%\\During HE ∘ (10780, 10850], محمد بن موسى خوارزمی invented the ability to mathematically describe generalisations.
+\\
+\\During HE \shyamof{} (10780, 10850], محمد بن موسى خوارزمی invented the ability to mathematically describe generalisations.
 
 \subsubsection{Persian Algorithms}
 
 \noindent{}Algorithms are just ordered lists of instructions; this can be obscured by people who are too cute for their own good.
-%\\
-%\\During HE ∘ (10780, 10850], محمد بن موسى خوارزمی invented the dependency for repeatable experiments; n-person sanity checking improved n-party scientific collaboration.
+\\
+\\During HE \shyamof{} (10780, 10850], محمد بن موسى خوارزمی invented the dependency for repeatable experiments; n-person sanity checking improved n-party scientific collaboration.
 
 \subsubsection{Fraudulent Fibonacci, And Lying Lovelace}
 
-\noindent{}During HE ∘ 11202, Leonardo Bonacci fibbed; he plagiarised a Hindu integer sequence, invented during HE ∘ [10501, 10600]!
-\\
+\noindent{}During HE \shyamof{} 11202, Leonardo Bonacci fibbed; he plagiarised a Hindu integer sequence, invented during HE \shyamof{} [10501, 10600]!
+\medskip
 \\This is like attributing Ada Lovelace as the first programmer, even though Charles Babbage must have tested his design before applying for funding to implement it!
-\\
-%\\Ada Lovelace commented that numbers could be used to represent innumerate concepts, but the Pythagoreans were mathematical musicians, and محمد بن موسى خوارزمی' algebra has been applied to innumerate concepts, and before Hindu numerals were invented; they used positional letters of the alphabet to represent numerate concepts!
-\\
+\medskip
+\\Ada Lovelace commented that numbers could be used to represent innumerate concepts, but the Pythagoreans were mathematical musicians, and محمد بن موسى خوارزمی' algebra has been applied to innumerate concepts, and before Hindu numerals were invented; they used positional letters of the alphabet to represent numerate concepts!
+\medskip
 \\Musical algorithms, and programs, probably predate mathematical, and computational, algorithms, and programs!
 
 \subsection{A Defining Point}
@@ -491,9 +493,9 @@ $$x ↑ 0 = 1 ∵ \text{1 is the identity of multiplication}$$
 %`/ = open r-expression
 %/` = close r-expression
 %`/ `/ /` /` = nested r-expressions
-\\
+\medskip
 \\conceivably, nothing can exist in a dimension
-\\
+\medskip
 \\$x ↑ 0$ could be redefined to 0; otherwise, points \texttt{/could|should/} be rendered as a $\{0.5,1.5\}$ box, when graphing a point at $(1,1)$; where points are defined by $x ↑ 0 = 1$
 
 \subsubsection{Consistency Is A Virtue}
@@ -579,31 +581,31 @@ $$(1÷11)_{01} = (1÷2)_{10}$$
 \\ℕ &= \{+,×\}
 \\ℤ &= \{-,∓,±\}
 \\ℚ &= \{÷\}
-\\ℝ &= \{√,∞\}
-\\ℂ &= \{√(-1)\}
+\\ℝ &= \{\sqrt{},∞\}
+\\ℂ &= \{\sqrt{-1}\}
 \end{align*}
 
 \noindent{}Signage signifies nature, as a signature; but nothing is superpositionally significant.
-\\
+\medskip
 \\Counting accumulates from nothing.
-\\
+\medskip
 \\The first position in a list is one, unless the list lists nothing; the only reason why anachronistic programming languages use nothing to address the first position in a list, is because once upon a time, computational resources were so expensively minimal, that the extraposition was worth it; waste not, want not!
 
 \subsection{The Hindu Number Circle Of Reality}
 
 \subsubsection{Archaeology 1}
 
-\noindent{}During HE ∘ 12015 ∘ 06 ∘ 15 ∘ 11 ∘ 41, my Uncle emailed \fquote{using latin is fine if you are communicating to friends, otherwise you will sound like a wanker. Obsessing about points of little importance and rambling, sending out every thought bubble will make you sound like a lunatic.}.
+\noindent{}During HE \shyamof{} 12015 \shyamof{} 06 \shyamof{} 15 \shyamof{} 11 \shyamof{} 41, my Uncle emailed \fquote{using latin is fine if you are communicating to friends, otherwise you will sound like a wanker. Obsessing about points of little importance and rambling, sending out every thought bubble will make you sound like a lunatic.}.
 
 \subsubsection{Archaeology 2}
 
-\noindent{}The first time I shared my discovery of \dshyam{} was during HE ∘ 12015 ∘ 07 ∘ 06 ∘ 13 ∘ 25, when I posted it to the student forums of my very first mathematical subject for my bachelors; but the course coordinator edited out my proof, leaving behind \fquote{<Material about `dividing by zero' has been removed by a moderator.>}, after another student challenged my claim to fame, and responding \fquote{At the risk of being superfluous in this crowded discussion: You are correct. There is no safe way to divide by zero, and it is best avoided. Your comments about limits are also apt. I have edited Shyam's post to remove the `division by zero' discussion.}.
-\\
-\\I also replied to my post with this during HE ∘ 12015 ∘ 07 ∘ 06 ∘ 14 ∘ 22.
+\noindent{}The first time I shared my discovery of \dshyam{} was during HE \shyamof{} 12015 \shyamof{} 07 \shyamof{} 06 \shyamof{} 13 \shyamof{} 25, when I posted it to the student forums of my very first mathematical subject for my bachelors; but the course coordinator edited out my proof, leaving behind \fquote{<Material about `dividing by zero' has been removed by a moderator.>}, after another student challenged my claim to fame, and responding \fquote{At the risk of being superfluous in this crowded discussion: You are correct. There is no safe way to divide by zero, and it is best avoided. Your comments about limits are also apt. I have edited Shyam's post to remove the `division by zero' discussion.}.
+\medskip
+\\I also replied to my post with this during HE \shyamof{} 12015 \shyamof{} 07 \shyamof{} 06 \shyamof{} 14 \shyamof{} 22.
 
 $$x^{\frac{n}{d}} = \sqrt[\frac{d}{n}]{x} = \sqrt[d]{x^n}$$
 
-\noindent{}I then made a new thread during HE ∘ 12015 ∘ 07 ∘ 14 ∘ 11 ∘ 37, titled \fquote{Safely Dividing By Zero}; \fquote{These demonstrate expressions containing zero divisions with known answers; the evidence is clear as daylight that they can exist.}.
+\noindent{}I then made a new thread during HE \shyamof{} 12015 \shyamof{} 07 \shyamof{} 14 \shyamof{} 11 \shyamof{} 37, titled \fquote{Safely Dividing By Zero}; \fquote{These demonstrate expressions containing zero divisions with known answers; the evidence is clear as daylight that they can exist.}.
 
 $$\sqrt[\frac{y}{0}]{x} = x^{\frac{0}{y}} = x^0 = 1$$
 
@@ -613,17 +615,17 @@ $$x\div\frac{y}{0} = x\times\frac{0}{y} = x\times0 = 0$$
 
 \subsubsection{Archaeology 3}
 
-\noindent{}During HE ∘ 12015 ∘ 09 ∘ 24 ∘ 14 ∘ 11 ∘ 03, my Uncle emailed \fquote{Apologises if I appear not to be reading what you are saying, I don’t have much time to devote to this as I have been replying in between doing work. As I said earlier, it has been too long since I studied maths and have forgotten most of what I learnt and I don’t have time to back and research the topics to jog my memory.}.
+\noindent{}During HE \shyamof{} 12015 \shyamof{} 09 \shyamof{} 24 \shyamof{} 14 \shyamof{} 11 \shyamof{} 03, my Uncle emailed \fquote{Apologises if I appear not to be reading what you are saying, I don’t have much time to devote to this as I have been replying in between doing work. As I said earlier, it has been too long since I studied maths and have forgotten most of what I learnt and I don’t have time to back and research the topics to jog my memory.}.
 
 \subsubsection{Archaeology 4}
 
-\noindent{}During HE ∘ 12016 ∘ 03 ∘ 20 ∘ 00 ∘ 32, I emailed my proof to a famous mathematician upon request, subjected \fquote{Warning: Algebra Required!}; who responded \fquote{That is a really good point. I was using the convention that 0 = 6 but I should have been much more clear. Or use your method which also works.}.
+\noindent{}During HE \shyamof{} 12016 \shyamof{} 03 \shyamof{} 20 \shyamof{} 00 \shyamof{} 32, I emailed my proof to a famous mathematician upon request, subjected \fquote{Warning: Algebra Required!}; who responded \fquote{That is a really good point. I was using the convention that 0 = 6 but I should have been much more clear. Or use your method which also works.}.
 
 \includepdf[pages=-]{teatime_@_HE_12016_05_06_07_48_26_777.jpg}
 
 \subsubsection{Archaeology 5}
 
-\noindent{}During HE ∘ 12019 ∘ 04 ∘ 01, I published \textit{I'm A Little Teapot, And Here's My Proof!}.
+\noindent{}During HE \shyamof{} 12019 \shyamof{} 04 \shyamof{} 01, I published \textit{I'm A Little Teapot, And Here's My Proof!}.
 
 \subsubsection{Inverts}
 
@@ -652,7 +654,7 @@ x &= 0 ÷ 0
 
 %\subsubsection{Where Is \dshyam{}? Where Is \dshyam{}? Here He Is! Here He Is!}
 
-\noindent{}`T'sn't an equation; there'sn't a need to operate on any geometric sides ∵ the index, exponent, and radicand, are geometrically existential; as subatomically respective needly neutrons, powerful protons, and elementary electrons.
+\noindent{}`T'sn't an equation; there'sn't a need to operate on any geometric sides $∵$ the index, exponent, and radicand, are geometrically existential; as subatomically respective needly neutrons, powerful protons, and elementary electrons.
 
 $$\sqrt[i ÷ e]{r} = \sqrt[i]{r} ↑ e = r ↑ (e ÷ i)$$
 
@@ -756,9 +758,9 @@ $$\sqrt[\mp i ÷ e]{\mp r}=1\text{, where $\{r$adicand$\in\mathbb{R}|(+0,+\infty
 
 \begin{align*}
 \dshyam{} ÷ x = (\dshyam{} ↑ 2) × [x = 0] + \dshyam{} × [x = ∓1] + 1 × [x = \dshyam{}] + (\dshyam{} ÷ x) × [x ∉ {0, ∓1, \dshyam{}}]
-\\x ÷ \dshyam{} = 0 × [x = 0] + 1 × [x = \dshyam{}] + (x ÷ \dshyam{}) × [x ∉ {0, \dshyam{}}]
+\\x ÷ \dshyam{} = 0 × [x = 0] + \dshyam{} × [x = 1] + 1 × [x = \dshyam{}] + (x ÷ \dshyam{}) × [x ∉ {0, 1, \dshyam{}}]
 \\\dshyam{} ÷ (\dshyam{} ÷ x) = (1 ÷ \dshyam{}) × [x = 0] + 1 × [x = ∓1] + x × [x ∉ {0, ∓1}]
-\\√(\dshyam{} × \dshyam{}) = \dshyam{}
+\\\sqrt{\dshyam{} × \dshyam{}} = \dshyam{}
 \end{align*}
 
 \noindent{}Differing \dshyam{} is as trivial as differing any conceptual distance from 0 on the Hindu number circle of reality.
@@ -787,8 +789,8 @@ $$∫(\dshyam{})dx = \dshyam{} × x + c$$
 \\3×(1÷3) &= 1
 \end{align*}
 
-\noindent{}\dshyam{} must be prime ∵ the spherical graph of $2 ↑ x$ retraces, since it cannot be odd ∴ \dshyam{} is odd, and computers must support $4 × x + 2$ memory for \dshyam{}-completeness \fcurve{\fquote{Who needs Hindu numbers of more than 2914 Hindu numerals? You can always stretch them across your Hindu memory! Using memory as Hindu metanumerals with place value, and a Hindu memory counter with a leading Hindu numeral.}}.%ghci -e 'map(\x->4*x+2)[0..728]'
-\\
+\noindent{}\dshyam{} must be prime $∵$ the spherical graph of $2 ↑ x$ retraces, since it cannot be odd $∴$ \dshyam{} is odd, and computers must support $4 × x + 2$ memory for \dshyam{}-completeness \fcurve{\fquote{Who needs Hindu numbers of more than 2914 Hindu numerals? You can always stretch them across your Hindu memory! Using memory as Hindu metanumerals with place value, and a Hindu memory counter with a leading Hindu numeral.}}.%ghci -e 'map(\x->4*x+2)[0..728]'
+\medskip
 \\\dshyam{} is all natural.
 
 \subsubsection{Geometric Principles, And Symmetries Of The Universe}
@@ -796,7 +798,7 @@ $$∫(\dshyam{})dx = \dshyam{} × x + c$$
 \noindent{}\textbf{\textit{\dshyam{} Space: The Final Frontier.}}
 \\\textit{These are the voyages of the starship Little Teapot.}
 \\\textit{Its' \dshyam{}-year mission: to explore strange new worlds, to seek out new life, and new civilizations; to boldly go where no man has gone before.}
-\\
+\medskip
 \\\dshyam{} space occupies all regions of the Hindu number circle of reality, including infinitesimals, wherever the Hindu numbers can only be discovered using a fixed point; known only as \dshyam{}.
 
 \begin{align*}%WTF
@@ -838,11 +840,11 @@ C &= 2 × \pi × r
 \\The $1^{\text{st}}$ dimension is a real unit line segment, on the Hindu number circle of reality in the $2^{\text{nd}}$ dimension.
 \\The $2^{\text{nd}}$ dimension is the Hindu number circle of reality, on the graphical Hindu number sphere of reality in the $3^{\text{rd}}$ dimension.
 \\And recurse on…
-\\
+\medskip
 \\Continuing on from the graphical face of the $3^{\text{rd}}$ dimensional Hindu number sphere of reality, imagines \dshyam{} intersectional lines bilocationally vectoring off towards the core of ∞, and the borders of the universal set; but they never meet at the core of ∞, since they circulate around to their othersides, whilst crossing the border of the universal set through the $4^{\text{th}}$ dimension.
-\\
+\medskip
 \\All these topological structures, formed by the atomic bonding of points, are topical.
-\\
+\medskip
 \\Infinites are contextually different, based on their higher dimensional vectors.
 
 \subsubsection{Real Āryans Know \fquote{-thing}s}
@@ -856,7 +858,7 @@ C &= 2 × \pi × r
 \end{itemize}
 
 \noindent{}\textit{Well, you have to know these \fquote{-thing}s when you're an āryan man, you know.}
-\\
+\medskip
 \\\fcurve{The trimūrti of reality; BRAHMAgupta, sriniVASa ramaNUjan, SHYAm.}
 
 \newpage
@@ -878,7 +880,9 @@ C &= 2 × \pi × r
 \\P=E(a÷c²)v;
 \\P=F(c²÷a)÷t;
 \medskip
-\\; Without mass, no acceleration is paradoxical; it can only increase, or decrease, but not both; well, we just don't know…
+\\; Without mass, no acceleration is paradoxical
+\\; it can only increase, or decrease, but not both
+\\; well, we just don't know…
 \medskip
 \\F=E(a÷c²);
 \\F=E(0÷c²);
@@ -914,7 +918,8 @@ C &= 2 × \pi × r
 \\adb=d(a,b);
 \\adbdc=d(a,b,c);
 \medskip
-\\; I travelled forward in time, and snuck this in; I hope I got it right!
+\\; I travelled forward in time, and snuck this in
+\\; I hope I got it right!
 }
 
 %view-source:http://shyam.id.au/awooga/post.js
@@ -926,14 +931,14 @@ C &= 2 × \pi × r
 \subsection{I Need An Adult}
 
 \noindent{}I have an imagination complex:(
-\\
+\medskip
 \\Mathematics is a language, which can be \fcurve{ab}used to explain, or describe, anything!
 
-$$-1 ≠ (√(-1))² ≠ √((-1)²) = (-1)² = +1 = (+1)²$$
+$$-1 ≠ \sqrt{-1} ↑ 2 ≠ \sqrt{(-1) ↑ 2} = (-1) ↑ 2 = +1 = (+1) ↑ 2$$
 
 \noindent{}Just because something appears to work, doesn't mean it works how you think it works!!
 
-$$x² ≠ (-1) × (+1)$$
+$$x ↑ 2 ≠ (-1) × (+1)$$
 
 \noindent{}There is no need for $i()$ to be nesciently defined in terms of unreal Hindu numbers, to derive an applied pattern; I've merely debated the omnipotent exponent into submission, without your assistance, since it took so long for you to arrive here!!!
 
@@ -953,23 +958,23 @@ $$i(x) = -1 × [x = 2 × ⌈y⌉] + 2 × [x = 4 × ⌊y⌋] + (\dshyam{} ↑ \ds
 
 \subsection{You Can Run, But You Cann't Hide}
 
-\noindent{}\hspace*{2.0185pt}: Our cultural differences aren't to blame.
-\\\hspace*{2.0185pt}: Your uncultured interpretation's untame.
-\\\hspace*{2.0185pt}: I am right, and you are wrong.
-\\\hspace*{2.0185pt}: `Twas the case, all of along.
-\\\hspace*{2.0185pt}: Now cease, and desist; you are blithering.
-\\\hspace*{2.0185pt}: After all, I am merely slithering.
-\\\hspace*{2.0185pt}: Sure, I was born of the\_year.
-\\\hspace*{2.0185pt}: However, you need not fear.
-\\\hspace*{2.0185pt}: Ease assured, 't 's all well calculated.
-\\∴ Shyam has your anomaly mitigated.
+\noindent{}\hspace*{2pt}: Our cultural differences aren't to blame.
+\\\hspace*{2pt}: Your uncultured interpretation's untame.
+\\\hspace*{2pt}: I am right, and you are wrong.
+\\\hspace*{2pt}: `Twas the case, all of along.
+\\\hspace*{2pt}: Now cease, and desist; you are blithering.
+\\\hspace*{2pt}: After all, I am merely slithering.
+\\\hspace*{2pt}: Sure, I was born of the\_year.
+\\\hspace*{2pt}: However, you need not fear.
+\\\hspace*{2pt}: Ease assured, 't 's all well calculated.
+\\$∴$ Shyam has your anomaly mitigated.
 
 \subsection{Wubba Lubba Dub-Dub!!! :D}
 
 \noindent{}The last thing I want to do is recursively reference my references!
 \\If anyone wants references; provide a flossed \fcurve{functional-}logical KBS; or wait until I do it myself!!
 \\Except for \textit{Rape Culture}; since it is not covered by the FOI of any country involved, and I deny everything!!! :D \#Plausible\_Deniability
-\\
+\medskip
 \\Wanted to do this in \LaTeX{}, and dot.
 \\Dot for graph theoretic map of dependencies that lead to \dshyam{} reference points; what I want from Pr∞fWiki, the most useful mathematical wiki on Sir Timothy John Berners-Lee OM KBE FRS FREng FRSA FBCS' WWW.
 \\Dot nodal vertices hyperlinked to \LaTeX{} math mode; challenge accepted. \fcurve{Not sure if dotted HTML hyperlinks will work in \LaTeX{} PDFs.}
