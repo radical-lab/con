@@ -85,12 +85,7 @@
 	$\vcenter{\hbox{\includegraphics[keepaspectratio,scale=0.1825]{adurag.png}}}$
 	\vspace*{\fill}
 }
-%\underline{\underline{\underline{\Huge\phantom{\SHYAM}}}}\smallskip\\\underline{\underline{\underline{\Huge\SHYAM}}}
-%\includegraphics[keepaspectratio,height=\fontcharht\font`\U]{file.png}
-%\includegraphics[keepaspectratio,height=\fontcharht\font`\R]{file.png}
-%\includepdf[pages=-]{ref.pdf}
-%
-%\author{\Huge\ShYaM\smallskip\\\small\Shyam\smallskip}
+\author{}
 \date{}
 %\version{1337}
 
@@ -136,9 +131,9 @@
 \vspace*{\fill}
 \abstract{}
 \vspace*{\fill}
+\clearpage
 \hypertarget{contents}{}
 \tableofcontents
-\vspace*{\fill}
 \clearpage
 %\raggedright
 
@@ -413,13 +408,13 @@ Students should be encouraged to show off at \textit{Show, And Tell}.
 \subsubsection{Persian Algebra}
 
 \noindent{}Algebras are abstract interactions formed by the physical laws of numbers.
-\\
+\medskip
 \\During HE \shyamof{} (10780, 10850], محمد بن موسى خوارزمی invented the ability to mathematically describe generalisations.
 
 \subsubsection{Persian Algorithms}
 
 \noindent{}Algorithms are just ordered lists of instructions; this can be obscured by people who are too cute for their own good.
-\\
+\medskip
 \\During HE \shyamof{} (10780, 10850], محمد بن موسى خوارزمی invented the dependency for repeatable experiments; n-person sanity checking improved n-party scientific collaboration.
 
 \subsubsection{Fraudulent Fibonacci, And Lying Lovelace}
