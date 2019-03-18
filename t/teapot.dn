@@ -98,17 +98,32 @@
 \def\ShYaM{\rm S\kern-.13em\lower-.47em\hbox{\fontsize{.5em}{0em}\selectfont H}\kern-.0555em{}Y\kern-.442em\lower.227em\hbox{A}\kern-.25em{}M}
 
 \def\shyamof{$\circ$}%∘
+%\def\dshyam{\text{श्याम}}
 \def\dshyam{\text{\dn "syaama}}
+%\def\dkrishna{\text{कृष्ण}}
 \def\dkrishna{\text{\dn k.r.s.na}}
+%\def\davatar{\text{अवतार}}
 \def\davatar{\text{\dn avataara}}
+%\def\dvishnu{\text{विष्णु}}
 \def\dvishnu{\text{\dn vi.s.nu}}
+%\def\dgita{\text{भगवद्गीता}}
 \def\dgita{\text{\dn bhagavadgiitaa}}
+%\def\dkarma{\text{कर्म}}
 \def\dkarma{\text{\dn karma}}
+%\def\dmantra{{हरे कृष्ण हरे कृष्ण\\कृष्ण कृष्ण हरे हरे\\हरे राम हरे राम\\राम राम हरे हरे}}
 \def\dmantra{{\dn hare k.r.s.na hare k.r.s.na\\k.r.s.na k.r.s.na hare hare\\hare raama hare raama\\raama raama hare hare}}
-\def\draj{\text{\dn raajan}}
-\def\dbdfl{\text{\dn raajan-"syaama}}
+%\def\draj{\text{राजन्}}
+\def\draj{\text{\dn mahaaraaja}}
+%\def\dbdfl{\text{महाराज}}
+\def\dbdfl{\text{\dn "srii "syaama mahaaraaja}}
+%\def\dbrahmagupta{\text{ब्रह्मगुप्त}}
 \def\dbrahmagupta{\text{\dn b.rrahmagup.th}}
+%\def\daryabhata{\text{आर्यभट}}
 \def\daryabhata{\text{\dn aaryabha.ta}}
+\def\pal{\text{محمد بن موسى خوارزمی}}
+\def\hjews{\text{יהודי}}
+\def\hjesus{\text{יֵשׁוּעַ}}
+\def\hrevenge{\text{נקמת היהודים}}
 
 \newcommand{\fSH}[1]{{\colorbox{black}{\texttt{#1}}}}
 \newcommand{\fsh}[1]{{\color{gray}{#1}}}
@@ -302,13 +317,12 @@ All good lawyers give the same sex advice, no matter how much you pay, and wheth
 
 \subsubsection{Fool Me Once, Fool Me Twice}
 
-Blonde jokes ridicule a second attempt at world domi-nation; נקמת היהודים.
-\fcurve{Deutschland was blonde enough to proceed; lacking the intellectual capacity to succeed.}
+Blonde jokes ridicule a second attempt at world domi-nation; \hrevenge{}.
+\\\fcurve{Deutschland was blonde enough to proceed; lacking the intellectual capacity to succeed.}
 
 \subsubsection{All Jokes Aside}
-
 The original blonde joke was probably about black Hitler leading the blondes against non-blondes.
-\fcurve{Black Hitler was like black יֵשׁוּעַ; they were both יהודי, but their followers wære not.}
+\\\fcurve{Black Hitler was like black \hjesus{}; they were both \hjews{}, but their followers wære not.}
 
 \subsubsection{Educated Applebys, And Amish Oranges}
 
@@ -409,13 +423,13 @@ Students should be encouraged to show off at \textit{Show, And Tell}.
 
 \noindent{}Algebras are abstract interactions formed by the physical laws of numbers.
 \medskip
-\\During HE \shyamof{} (10780, 10850], محمد بن موسى خوارزمی invented the ability to mathematically describe generalisations.
+\\During HE \shyamof{} (10780, 10850], \pal{} invented the ability to mathematically describe generalisations.
 
 \subsubsection{Persian Algorithms}
 
 \noindent{}Algorithms are just ordered lists of instructions; this can be obscured by people who are too cute for their own good.
 \medskip
-\\During HE \shyamof{} (10780, 10850], محمد بن موسى خوارزمی invented the dependency for repeatable experiments; n-person sanity checking improved n-party scientific collaboration.
+\\During HE \shyamof{} (10780, 10850], \pal{} invented the dependency for repeatable experiments; n-person sanity checking improved n-party scientific collaboration.
 
 \subsubsection{Fraudulent Fibonacci, And Lying Lovelace}
 
@@ -423,7 +437,7 @@ Students should be encouraged to show off at \textit{Show, And Tell}.
 \medskip
 \\This is like attributing Ada Lovelace as the first programmer, even though Charles Babbage must have tested his design before applying for funding to implement it!
 \medskip
-\\Ada Lovelace commented that numbers could be used to represent innumerate concepts, but the Pythagoreans were mathematical musicians, and محمد بن موسى خوارزمی' algebra has been applied to innumerate concepts, and before Hindu numerals were invented; they used positional letters of the alphabet to represent numerate concepts!
+\\Ada Lovelace commented that numbers could be used to represent innumerate concepts, but the Pythagoreans were mathematical musicians, and \pal{}' algebra has been applied to innumerate concepts, and before Hindu numerals were invented; they used positional letters of the alphabet to represent numerate concepts!
 \medskip
 \\Musical algorithms, and programs, probably predate mathematical, and computational, algorithms, and programs!
 
@@ -463,14 +477,14 @@ $$f(x) = f(\sqrt[1]{x})$$
   \sqrt[3]{x} ↑ 3 &= x
 \\\sqrt[2]{x} ↑ 2 &= x
 \\\sqrt[1]{x} ↑ 1 &= x
-\\\sqrt[0]{x} ↑ 0 &= x \lor 1 \lor 0
+\\\sqrt[0]{x} ↑ 0 &= x \veebar 1 \oplus 0
 \end{align*}
 
 \begin{align*}
   x ↑ 3 &=\text{ a cube}
 \\x ↑ 2 &=\text{ a square}
 \\x ↑ 1 &=\text{ a line segment}
-\\x ↑ 0 &=\text{ a single point }(1)
+\\x ↑ 0 &=\text{ 1 single point }
 \end{align*}
 
 $$0 ↑ (x + [x = 0]) = 0 ∵ 0 × 0 = 0$$
@@ -620,7 +634,7 @@ $$x\div\frac{y}{0} = x\times\frac{0}{y} = x\times0 = 0$$
 
 \subsubsection{Archaeology 5}
 
-\noindent{}During HE \shyamof{} 12019 \shyamof{} 04 \shyamof{} 01, I published \textit{I'm A Little Teapot, And Here's My Proof!}.
+\noindent{}During HE \shyamof{} 12019 \shyamof{} 04 \shyamof{} 01, I published \textit{I'm A Little Teapot, And Here's My Proof!}
 
 \subsubsection{Inverts}
 
@@ -661,7 +675,7 @@ i &= ∓1
 
 \noindent{}Infinitesimals approach zero, so where do infinites tend towards? It's the same point!
 
-$$\sqrt[∓i ÷ e]{∓r}=1\text{, where $\{r$adicand$\in\mathbb{R}|(+0,+\infty)\}\land\{i$ndex$\in\mathbb{R}|[+1,+1]\}\land\{e$xponent$\in\mathbb{R}|[+0,+0]\}$}$$
+$$\sqrt[∓i ÷ e]{∓r} = +1\text{, where $\{r$adicand$\in\mathbb{R}|(+0,+\infty)\}\land\{i$ndex$\in\mathbb{R}|[+1,+1]\}\land\{e$xponent$\in\mathbb{R}|[+0,+0]\}$}$$
 
 \noindent{}The continuous spherical graphs of $∓1 ÷ x$ geometrically proves the existence of \dshyam{}, along both axes.
 
@@ -726,13 +740,13 @@ $$\sqrt[∓i ÷ e]{∓r}=1\text{, where $\{r$adicand$\in\mathbb{R}|(+0,+\infty)\
 
 \noindent{}Cumulating \dshyam{} is as trivial as cumulating any conceptual distance from 0 on the Hindu number circle of reality.
 
-\begin{align*}
--\dshyam{} &= |\dshyam{}| = +\dshyam{}
-\\\dshyam{} - \dshyam{} &= 0 = \dshyam{} + \dshyam{}
-\\0 - \dshyam{} = \dshyam{} - 0 &= \dshyam{} = 0 + \dshyam{} = \dshyam{} + 0
-\\\dshyam{} + (\dshyam{} - 1) &= -1 = (\dshyam{} + \dshyam{}) - 1
-\\\dshyam{} + (\dshyam{} + 1) &= +1 = (\dshyam{} + \dshyam{}) + 1
-\end{align*}
+\begin{gather*}
+-\dshyam{} = |\dshyam{}| = +\dshyam{}
+\\\dshyam{} - \dshyam{} = 0 = \dshyam{} + \dshyam{}
+\\0 - \dshyam{} = \dshyam{} - 0 = \dshyam{} = 0 + \dshyam{} = \dshyam{} + 0
+\\\dshyam{} + (\dshyam{} - 1) = -1 = (\dshyam{} + \dshyam{}) - 1
+\\\dshyam{} + (\dshyam{} + 1) = +1 = (\dshyam{} + \dshyam{}) + 1
+\end{gather*}
 
 \begin{align*}
 -|y| &= \dshyam{} + 1 = 1 + \dshyam{} = 1 - \dshyam{}
@@ -751,12 +765,12 @@ $$\sqrt[∓i ÷ e]{∓r}=1\text{, where $\{r$adicand$\in\mathbb{R}|(+0,+\infty)\
 
 \noindent{}Fracturing \dshyam{} is as trivial as fracturing any conceptual distance from 0 on the Hindu number circle of reality.
 
-\begin{align*}
+\begin{gather*}
 \dshyam{} ÷ x = \dshyam{} × [x ∈ \{0, ∓1\}] + 1 × [x = \dshyam{}] + (\dshyam{} ÷ x) × [x ∉ \{0, ∓1, \dshyam{}\}]
 \\x ÷ \dshyam{} = 0 × [x = 0] + 1 × [x = \dshyam{}] + (x ÷ \dshyam{}) × [x ∉ \{0, \dshyam{}\}]
 \\\dshyam{} ÷ (\dshyam{} ÷ x) = (1 ÷ \dshyam{}) × [x = 0] + 1 × [x = ∓1] + x × [x ∉ \{0, ∓1\}]
 \\\sqrt{\dshyam{} × \dshyam{}} = \dshyam{}
-\end{align*}
+\end{gather*}
 
 \noindent{}Differing \dshyam{} is as trivial as differing any conceptual distance from 0 on the Hindu number circle of reality.
 
@@ -768,20 +782,21 @@ $$∫(\dshyam{})dx = \dshyam{} × x + c$$
 
 \noindent{}Significant signs, and multiple fractures.
 
-\begin{align*}
+\begin{gather*}
 -\dshyam{} < -0
 \\+0 < +\dshyam{}
 \\\dshyam{} < \dshyam{} ÷ -\pi < 0
 \\0 < 2 × (\dshyam{} ÷ \pi) < \dshyam{}
-\end{align*}
+\end{gather*}
 
-\noindent{}There are \dshyam{} repetitions; I wonder what this means for the \dshyam{}-recursive Haskell Y-combinator...
+\noindent{}There are \dshyam{} repetitions; I wonder what this means for the fractally \dshyam{}-recursive Curry Y-combinator...
 
 \begin{align*}
 1÷3 &= 0.(3)
 \\3×(1÷3) &= 0.(9) = 1
 \\3×(1÷3) &= (3×1)÷3 = 1
 \\3×(1÷3) &= 1
+\\1-(1÷\dshyam) &= 0.(9)
 \end{align*}
 
 \noindent{}The spherical graph of $x × \dshyam{}$ is a zig-zag; assume \dshyam{} is odd, and the graph fails at $x = \dshyam{} ÷ 2$ $∴$ \dshyam{} is even, and computers must support even memory for \dshyam{}-completeness \fcurve{\fquote{Who needs Hindu numbers of more than 1 Hindu numeral? You can always stretch them across your Hindu memory! Using memory as Hindu metanumerals with place value, and a Hindu memory counter with a leading Hindu numeral.}}.
@@ -978,7 +993,7 @@ $$i(x) = -1 × [x = 2 × ⌈y⌉] + 2 × [x = 4 × ⌊y⌋] + i(x) × [x = 2 × 
 \\Dot for graph theoretic map of dependencies that lead to \dshyam{} reference points; what I want from Pr∞fWiki, the most useful mathematical wiki on Sir Timothy John Berners-Lee OM KBE FRS FREng FRSA FBCS' WWW.
 \\Dot nodal vertices hyperlinked to \LaTeX{} math mode; challenge accepted. \fcurve{Not sure if dotted HTML hyperlinks will work in \LaTeX{} PDFs.}
 
-\end{document}
+\end{document}\phantom{of the opera}\phantom{menace}
 
 %plan life and narrate
 %* emacs  ; need to stop using vim, and rtfm
