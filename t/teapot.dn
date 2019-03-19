@@ -469,37 +469,37 @@ Students should be encouraged to show off at \textit{Show, And Tell}.
 
 \subsubsection{Hindu Numerals}
 
-\noindent{}Hindu numerals are abstract representations of anatomical digits; the letters of mathematical language.\medskip
+\noindent{}Hindu numerals are abstract representations of anatomical digits; the letters of mathematical language.\bigskip
 \\During HE \shyamof{} 10628, \dbrahmagupta{} invented nothing, which evolved into the set of Hindu numerals most of humanity uses today; 0, 1, 2, 3, 4, 5, 6, 7, 8, and 9.
-\medskip
+\bigskip
 \\The concept of nothingness is a dependency for oneness; if you do not know nothing, then what do you know?
 
 \subsubsection{Hindu Numbers}
 
 \noindent{}Hindu numbers are abstract structures formed by the atomic bonding of Hindu numerals, within a dimensional base.
-\medskip
+\bigskip
 \\The inventor of the basal Hindu number system of place values is in dispute; \daryabhata{} used it during HE \shyamof{} (10476, 10550], while the brahmin son of Chajaka used it in the Bakhshali manuscript; partially carbon dated during HE \shyamof{} [10224, 10383], and HE \shyamof{} [10885, 10993], using inconsistent isotopes.
 
 \subsubsection{Persian Algebra}
 
 \noindent{}Persian algebras are abstract interactions formed by the physical laws of Hindu numbers.
-\medskip
+\bigskip
 \\During HE \shyamof{} (10780, 10850], \pal{} invented the ability to mathematically describe generalisations.
 
 \subsubsection{Persian Algorithms}
 
 \noindent{}Persian algorithms are just ordered lists of instructions; this can be obscured by people who are too cute for their own good.
-\medskip
+\bigskip
 \\During HE \shyamof{} (10780, 10850], \pal{} invented the dependency for repeatable experiments; n-person sanity checking improved n-party scientific collaboration.
 
 \subsubsection{Fraudulent Fibonacci, And Lying Lovelace}
 
 \noindent{}During HE \shyamof{} 11202, Leonardo Bonacci fibbed; he plagiarised a Hindu integer sequence, invented during HE \shyamof{} [10501, 10600]!
-\medskip
+\bigskip
 \\This is like attributing Ada Lovelace as the first programmer, even though Charles Babbage must have tested his design before applying for funding to implement it!
-\medskip
+\bigskip
 \\Ada Lovelace commented that Hindu numbers could be used to represent innumerate concepts, but the Pythagoreans were mathematical musicians, and \pal{}' Persian algebra has been applied to innumerate concepts, and before Hindu numerals were invented; they used positional letters of the alphabet to represent Hindu numerate concepts!
-\medskip
+\bigskip
 \\Musical algorithms, and programs, probably predate mathematical, and computational, algorithms, and programs!
 
 \subsection{A Defining Point}
@@ -507,27 +507,21 @@ Students should be encouraged to show off at \textit{Show, And Tell}.
 \subsubsection{Identify Yourself}
 
 \noindent{}The identity.
-
 $$f(x) = x$$
 
 \noindent{}Nothing is cumulating the identity.
-
 $$f(x) = f(x + 0)$$
 
 \noindent{}One is accumulating the identity.
-
 $$f(x) = f(x × 1)$$
 
 \noindent{}One is fracturing the identity.
-
 $$f(x) = f(x ÷ 1)$$
 
 \noindent{}One is powering the identity.
-
 $$f(x) = f(x ↑ 1)$$
 
 \noindent{}One is rooting the identity.
-
 $$f(x) = f(\sqrt[1]{x})$$
 
 \noindent{}It appears one identity is more common than none.
@@ -540,25 +534,20 @@ $$f(x) = f(\sqrt[1]{x})$$
 \\\sqrt[1]{x} ↑ 1 &= x
 \\\sqrt[0]{x} ↑ 0 &= x \veebar 1 \oplus 0
 \end{align*}
-
 \begin{align*}
   \sqrt[3]{x} &=\text{ an edge of a cube}
 \\\sqrt[2]{x} &=\text{ a side of a square}
 \\\sqrt[1]{x} &=\text{ a line segment}
 \\\sqrt[0]{x} &=\text{ 1 single point }
 \end{align*}
-
 \begin{align*}
   x ↑ 3 &=\text{ a cube}
 \\x ↑ 2 &=\text{ a square}
 \\x ↑ 1 &=\text{ a line segment}
 \\x ↑ 0 &=\text{ 1 single point }
 \end{align*}
-
 $$0 ↑ (x + [x = 0]) = 0 ∵ 0 × 0 = 0$$
-
 $$x ↑ 0 = 1 ∵ \text{1 is the identity of multiplication}$$
-
 \begin{align*}
   3 ↑ 0 &= 1 ∵ 1 × 3 ≠ 1 ∴ 1 × 3 = 3
 \\2 ↑ 0 &= 1 ∵ 1 × 2 ≠ 1 ∴ 1 × 2 = 2
@@ -566,22 +555,36 @@ $$x ↑ 0 = 1 ∵ \text{1 is the identity of multiplication}$$
 \\0 ↑ 0 &= 1 ∵ 1 × 0 ≠ 1 ∴ 1 × 0 = 0
 \end{align*}
 
-\noindent{}¿in the \textit{Flatland} dimension, they have \texttt{/zero|one/} thickness in the higher dimensions?
+\noindent{}¿In the \textit{Flatland} dimension, they have \texttt{/zero|one/} thickness in the higher dimensions?
 %`/ = open r-expression
 %/` = close r-expression
 %`/ `/ /` /` = nested r-expressions
 \medskip
-\\conceivably, nothing can exist in a dimension
+\\Conceivably, nothing can exist in a dimension!
 \medskip
-\\$x ↑ 0$ could be redefined to 0; otherwise, points \texttt{/could|should/} be rendered as a $\{0.5,1.5\}$ box, when graphing a point at $(1,1)$; where points are defined by $x ↑ 0 = 1$
+\\$x ↑ 0$ could be redefined to 0; otherwise, points defined by $x ↑ 0 = 1$ \texttt{/could|should/} be rendered as a $\{0.5,1.5\}$ box, when graphing $(1,1)$.
 
 \subsubsection{Consistency Is A Virtue}
 
 \begin{align*}
   0 ↑ x &= 0
 \\x ↑ 0 &= 0
+\\1 ↑ x &= 1\text{, where }x ≠ 0
+\\x ↑ 1 &= x
+\\\sqrt[x]{0} &= 0
+\\\sqrt[0]{x} &= 0
+\\|\sqrt[x]{1}| &= 1\text{, where }x ≠ 0
+\\\sqrt[1]{x} &= x
+\end{align*}
+\begin{align*}
+  0 ↑ x &= 0\text{, where }x ≠ 0
+\\x ↑ 0 &= 1\fsh{\text{, where }x ≠ 0}
 \\1 ↑ x &= 1
 \\x ↑ 1 &= x
+\\\sqrt[x]{0} &= 0\text{, where }x ≠ 0
+\\\sqrt[0]{x} &= 1\fsh{\text{, where }x ≠ 0}
+\\|\sqrt[x]{1}| &= 1
+\\\sqrt[1]{x} &= x
 \end{align*}
 
 \subsection{Unitary Fractures Of United Unary Units}
