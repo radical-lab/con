@@ -1,126 +1,49 @@
 \documentclass[12pt,a4paper,oneside]{article}
 
-%%%%%%%% /lib/ %%%%%%%%
-
-\usepackage{svg}
-
-% encoding scheme
 \usepackage[utf8x]{inputenc}
-%\usepackage[utf8]{inputenc}
-%\usepackage[T1]{fontenc}
+\usepackage[T1]{fontenc}
 \usepackage{textcomp}
 \usepackage{devanagari}
-%\usepackage[english]{babel}
-%\usepackage[english, hebrew]{babel}
-\usepackage{fontspec}
+\usepackage{xltxtra}\let\XeTeX\relax\let\XeLaTeX\relax
 \RequirePackage{etoolbox}
 \AtEndPreamble{
 	\usepackage{polyglossia}
 	\setdefaultlanguage{english}
 	\setotherlanguage{hebrew}
-	%\newfontfamily\hebrewfont[Script=Hebrew]{FreeSerif}
-	%\newfontfamily\hebrewfont[Script=Hebrew]{FreeSans}
-	%\newfontfamily\hebrewfont[Script=Hebrew]{Noto Serif Hebrew}
-	%\newfontfamily\hebrewfont[Script=Hebrew]{Noto Sans Hebrew}
-	%\newfontfamily\hebrewfont[Script=Hebrew]{Hadasim CLM}
-	%\newfontfamily\hebrewfont[Script=Hebrew]{David CLM}
-	%\newfontfamily\hebrewfont[Script=Hebrew]{Stam Ashkenaz CLM}
-	%\newfontfamily\hebrewfont[Script=Hebrew]{Simple CLM}
-	%\newfontfamily\hebrewfont[Script=Hebrew]{Miriam Mono CLM}
-	%\newfontfamily\hebrewfont[Script=Hebrew]{Stam Sefarad CLM}
-	%\newfontfamily\hebrewfont[Script=Hebrew]{Nachlieli CLM}
-	%\newfontfamily\hebrewfont[Script=Hebrew]{Miriam CLM}
 	\newfontfamily\hebrewfont[Script=Hebrew]{Frank Ruehl CLM}
-	%\newfontfamily\hebrewfont[Script=Hebrew]{Shofar}
-	%\newfontfamily\hebrewfont[Script=Hebrew]{Keter YG}
-	%\newfontfamily\hebrewfont[Script=Hebrew]{Abyssinica SIL}
-	%\newfontfamily\hebrewfont[Script=Hebrew]{Ezra SIL SR}
-	%\newfontfamily\hebrewfont[Script=Hebrew]{Ezra SIL}
 	\setotherlanguage{farsi}
-	%\newfontfamily\arabicfont[Script=Arabic]{Noto Sans Old Persian}
-	%\newfontfamily\arabicfont[Script=Arabic]{KacstFarsi}
-	\newfontfamily\arabicfont[Script=Arabic]{Titr}%good
-	%\newfontfamily\arabicfont[Script=Arabic]{FreeFarsi}%good, but spacing/margin
-	%\newfontfamily\arabicfont[Script=Arabic]{Nazli}%good, but spacing/margin
-	%\newfontfamily\arabicfont[Script=Arabic]{FreeFarsi Monospace}%good, but spacing/margin
-	%\newfontfamily\arabicfont[Script=Arabic]{Homa}
-	%\newfontfamily\arabicfont[Script=Arabic]{FreeSerif}%good
-	%\newfontfamily\arabicfont[Script=Arabic]{FreeSans}
-	%\newfontfamily\arabicfont[Script=Arabic]{Noto Sans Arabic UI}
-	%\newfontfamily\arabicfont[Script=Arabic]{Noto Naskh Arabic}
-	%\newfontfamily\arabicfont[Script=Arabic]{Noto Kufi Arabic}
-	%\newfontfamily\arabicfont[Script=Arabic]{Noto Naskh Arabic UI}
-	%\newfontfamily\arabicfont[Script=Arabic]{Noto Sans Arabic}
+	\newfontfamily\arabicfont[Script=Arabic]{Titr}
 	\setotherlanguage{sanskrit}
-	%\usepackage[Latin,Devanagari]{ucharclasses}
-	%\newfontfamily{\devanagarifont}{FreeSerif}
-	%\newfontfamily{\devanagarifont}{FreeSans}
-	%\newfontfamily{\devanagarifont}{Sahadeva}%good flow
-	%\newfontfamily{\devanagarifont}{Lohit Devanagari}
-	%\newfontfamily{\devanagarifont}{Nakula}%good
-	%\newfontfamily{\devanagarifont}{Noto Sans Devanagari}
-	%\newfontfamily{\devanagarifont}{Noto Sans Devanagari UI}
-	%\newfontfamily{\devanagarifont}{Noto Serif Devanagari}
-	%\newfontfamily{\devanagarifont}{Kalimati}%good
-	%\newfontfamily{\devanagarifont}{Chandas}
-	%\newfontfamily{\devanagarifont}{Samanata}%good flow
-	\newfontfamily{\devanagarifont}{Samyak Devanagari}%good
+	\newfontfamily\devanagarifont[Script=Devanagari]{Samyak Devanagari}
 }
 
-% no hyphenation
-\usepackage[none]{hyphenat}%http://tex.stackexchange.com/a/5039
+\usepackage[none]{hyphenat}
+\usepackage{ulem}
 
-% maths
 \usepackage{amsfonts}
 \usepackage{amsmath}
 \usepackage{amssymb}
 \usepackage{mathtools}
-\usepackage{pgfplots}
 \usepackage{unicode-math}
-
-% other
-\usepackage[left=1cm, right=1cm, top=1in, bottom=1in]{geometry}
-\usepackage{enumitem}
-\usepackage{tabularx}
-\usepackage{xcolor, colortbl}% (x)color
-\usepackage{hyperref}%\usepackage{url}
-\usepackage{graphicx}
-\usepackage[yyyymmdd]{datetime}\renewcommand{\dateseparator}{--}% \today
-\usepackage{fancyhdr}
-
-%\usepackage[obeyspaces]{url}
-\usepackage{menukeys}
-
-\usepackage{multicol}
+\usepackage{svg}
 \usepackage{pdfpages}
+\usepackage[left=1cm, right=1cm, top=1in, bottom=1in]{geometry}
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+\usepackage{enumitem}
 
-% strikeout with \sout{...}
-\usepackage{ulem}
-
-%\usepackage{xepersian}
-%\settextfont{XB Niloofar}%https://fontlibrary.org/en/font/xb-niloofar
-%\usepackage{xltxtra}
-
-%%%%%%%% /cfg/ %%%%%%%%
-
-\definecolor{urllink}{rgb}{.5,.75,.5}
-\definecolor{pdflink}{rgb}{.75,.75,1}
-\hypersetup{
-    colorlinks = false
-    , urlbordercolor  = {urllink}
-    , citebordercolor = {pdflink}
-    , linkbordercolor = {pdflink}
-}
+\definecolor{urllink}{rgb}{.5, .75, .5}
+\definecolor{pdflink}{rgb}{.75, .75, 1}
+\hypersetup{colorlinks=false, urlbordercolor=urllink, citebordercolor=pdflink, linkbordercolor=pdflink}
 
 \pagestyle{fancy}
 \fancyhf{}
-\chead{All content used for academic purposes.}% academic/employment
+\chead{All content used for academic purposes.}
 \rfoot{\hyperlink{contents}{TOC}}
 \cfoot{\thepage}
 \renewcommand{\footrulewidth}{1pt}
 \setlength{\headheight}{15pt}
 
-% \maketitle
 \title{
 	\vspace*{\fill}
 	{\Huge I'm A Little Teapot, And Here's My Proof!}
@@ -133,58 +56,40 @@
 	\\\bigskip{\small during}\\\bigskip
 	{\large HE \shyamof{} 12019 \shyamof{} 04 \shyamof{} 01}
 	\\\bigskip\bigskip\bigskip
-	$\vcenter{\hbox{\includegraphics[keepaspectratio,scale=0.666]{swastika.png}}}$
+	$\vcenter{\hbox{\includesvg[scale=0.666]{swastika}}}$
 	\\\bigskip\bigskip\bigskip
-	$\vcenter{\hbox{\includegraphics[keepaspectratio,scale=0.1825]{garuda.png}}}$
+	$\vcenter{\hbox{\includesvg[scale=0.1825]{garuda}}}$
 	\parbox{0.3\textwidth}{\centering{\dmantra}}
-	$\vcenter{\hbox{\includegraphics[keepaspectratio,scale=0.1825]{adurag.png}}}$
+	$\vcenter{\hbox{\includesvg[scale=0.1825]{adurag}}}$
 	\vspace*{\fill}
 }
 \author{}
 \date{}
-%\version{1337}
 
-% Shyam
-\def\Shyam{$[$\texttt{\href{mailto:shyam@shyam.id.au?Subject=We need to talk.}{shyam@shyam.id.au}}$]$}
-% SHYAM
-\def\SHYAM{\textbf{S}\textit{hyam} \textbf{H}\textit{as} \textbf{Y}\textit{\kern-.2em{}our} \textbf{A}\textit{nomaly} \textbf{M}\textit{itigated}}
-\def\SHYAM{\textbf{$\mathbb{S}$}\textit{hyam} \textbf{$\mathbb{H}$}\textit{as} \textbf{$\mathbb{Y}$}\textit{\kern-.2em{}our} \textbf{$\mathbb{A}$}\textit{nomaly} \textbf{$\mathbb{M}$}\textit{itigated}}
-% ShYaM
 \def\ShYaM{\rm S\kern-.13em\lower-.47em\hbox{\fontsize{.5em}{0em}\selectfont H}\kern-.0555em{}Y\kern-.442em\lower.227em\hbox{A}\kern-.25em{}M}
 
-\def\shyamof{$\circ$}%∘
-%\def\dshyam{\text{\foreignlanguage{sanskrit}{श्याम}}}
+\def\shyamof{$\circ$}
+
 \def\ddshyam{\text{\foreignlanguage{sanskrit}{श्याम}}}
 \def\dshyam{\text{\dn "syaama}}
-%\def\dkrishna{\text{\foreignlanguage{sanskrit}{कृष्ण}}}
 \def\dkrishna{\text{\dn k.r.s.na}}
-%\def\davatar{\text{\foreignlanguage{sanskrit}{अवतार}}}
 \def\davatar{\text{\dn avataara}}
-%\def\dvishnu{\text{\foreignlanguage{sanskrit}{विष्णु}}}
 \def\dvishnu{\text{\dn vi.s.nu}}
-%\def\dgita{\text{\foreignlanguage{sanskrit}{भगवद्गीता}}}
 \def\dgita{\text{\dn bhagavadgiitaa}}
-%\def\dkarma{\text{\foreignlanguage{sanskrit}{कर्म}}}
 \def\dkarma{\text{\dn karma}}
-%\def\dmantra{\foreignlanguage{sanskrit}{हरे कृष्ण हरे कृष्ण\\कृष्ण कृष्ण हरे हरे\\हरे राम हरे राम\\राम राम हरे हरे}}
 \def\dmantra{{\dn hare k.r.s.na hare k.r.s.na\\k.r.s.na k.r.s.na hare hare\\hare raama hare raama\\raama raama hare hare}}
-\def\draj{\text{\foreignlanguage{sanskrit}{राजन्}}}
-%\def\draj{\text{\dn mahaaraaja}}
-\def\dbdfl{\text{\foreignlanguage{sanskrit}{महाराज}}}
-%\def\dbdfl{\text{\dn "srii "syaama mahaaraaja}}
-%\def\dbrahmagupta{\text{\foreignlanguage{sanskrit}{ब्रह्मगुप्त}}}
-%\def\dbrahmagupta{\text{\dn b.rrahmagup.th}}
+\def\draj{\text{\dn mahaaraaja}}
+\def\dbdfl{\text{\dn "srii "syaama mahaaraaja}}
 \def\dbrahmagupta{\text{\dn braahmagupta}}
-%\def\daryabhata{\text{\foreignlanguage{sanskrit}{आर्यभट}}}
 \def\daryabhata{\text{\dn aaryabha.ta}}
-%\def\pal{\text{\foreignlanguage{farsi}{محمد بن موسى خوارزمی}}}
+\def\dbrahmin{\text{\dn braahma.na}}
+\def\dchajaka{\text{\dn chajaka}}
+\def\dbakhshali{\text{\dn bakhshaalii}}
+
 \def\pal{\text{\foreignlanguage{farsi}{خوارزمی موسى بن محمد}}}
-%\def\pal{\text{\foreignlanguage{farsi}{یمزراوخ ىسوم نب دمحم}}}
-%\def\pal{\text{\foreignlanguage{farsi}{دمحم نب ىسوم یمزراوخ}}}
+
 \def\hjews{\text{\foreignlanguage{hebrew}{יהודי}}}
-%\def\hjesus{\text{\foreignlanguage{hebrew}{יֵשׁוּעַ}}}
 \def\hjesus{\text{\foreignlanguage{hebrew}{ישוע}}}
-%\def\hrevenge{\text{\foreignlanguage{hebrew}{נקמת היהודים}}}
 \def\hrevenge{\text{\foreignlanguage{hebrew}{היהודים נקמת}}}
 
 \newcommand{\fSH}[1]{{\colorbox{black}{\texttt{#1}}}}
@@ -193,9 +98,6 @@
 \newcommand{\fstrike}[1]{\fsh{\sout{#1}}}
 \newcommand{\fquote}[1]{``#1''}
 \newcount\tmp\newcommand{\n}[1]{\tmp=0\loop\advance\tmp by 1\linebreak\ifnum\tmp<#1\repeat}
-
-%\usepackage{parskip}
-%\setlength{\parindent}{0pt}
 
 \begin{document}
 
@@ -212,7 +114,6 @@
 \hypertarget{contents}{}
 \tableofcontents
 \clearpage
-%\raggedright
 
 \section{First Impressions}
 
@@ -275,13 +176,13 @@ This is my thesis statement; that $(∓1) ÷ 0$ is my Hindu numerical point!
 \noindent{}The red, black, and white, swastika is my flag!
 
 \begin{center}
-	$\vcenter{\hbox{\includegraphics[keepaspectratio,scale=0.333]{swastika.png}}}$
+	$\vcenter{\hbox{\includesvg[scale=0.333]{swastika}}}$
 \end{center}
 
 \noindent{}Garuḍa is my emblematic coat of arms!
 
 \begin{center}
-	$\vcenter{\hbox{\includegraphics[keepaspectratio,scale=0.1825]{garuda.png}}}$
+	$\vcenter{\hbox{\includesvg[scale=0.1825]{garuda}}}$
 \end{center}
 
 \noindent{}The mahā-mantra is my mantra!
@@ -307,7 +208,7 @@ The Nazis are Christian, but used symbols of Hinduism to undermine it; they neve
 \\The Saudi Arabian sultans like to think of what they will wish for when they finally discover a genie; eternal youth, immortality,.; they then decide everyone else should wish to be a genie, so they get one thousand, and one, wishes, and will set them all free as their final wish.
 \\The Saudi Arabian sultans also behead witches because they are afraid of sea, and moon, splitting prophets sending them to Hell.
 \\They break the \textit{Ten Commandments}; beheading witches is killing thy neighbour; the British royal family is going to Hell too, for capitalism, but everyone knows that the church of England is just a social club anyway; the British also sent all of their convicts to \textit{Australia Prison}, to avoid what happened to the French; vive la guillotine!
-\\Jesus has gaps in the history books; it is believed he travelled to India to become a mystic yogi, but it is most likely he became a godman instead; and the Romans killed him because his magic, that wouldn't even fool \textit{Penn \& Teller}, was a threat to their power; even though they lost it all anyway, meanwhile Christianity lives on; et tu brute?
+\\\hjesus{} has gaps in the history books; it is believed he travelled to India to become a mystic yogi, but it is most likely he became a godman instead; and the Romans killed him because his magic, that wouldn't even fool \textit{Penn \& Teller}, was a threat to their power; even though they lost it all anyway, meanwhile Christianity lives on; et tu brute?
 \\So Saudi Arabian sultans kill witches because they want to prevent representatives of God from liberating their people.
 \\Saudi Arabian sultans are satanic ritualists, while monotheists have ungodly angels; meanwhile magicians can't overthrow the authoritah, nor can they save themselves from death, even though they can others; wherefore art thou magic?
 \medskip
@@ -321,7 +222,7 @@ The Nazis are Christian, but used symbols of Hinduism to undermine it; they neve
 \\I do not consider closed source suppressive cults, like the Vatican, and Scientology, to be valid religions.
 
 \newpage
-\noindent{}Jesus was a Jew, and their act of self-sacrifice was very Spock; crowned \textit{King Of The Jews}, so why aren't Christians Jews?
+\noindent{}\hjesus{} was a Jew, and their act of self-sacrifice was very Spock; crowned \textit{King Of The Jews}, so why aren't Christians Jews?
 \\Hitler was a Jew, and their plot was blonde enough to actually work; winning wars of such scale, do you even occupy?
 \medskip
 \\Jews were less than half of the Holocaust, but are more than half of the cognizance; Hinduism was most of the presentation, even though Christianity was most of the affiliation, and had they used the Christian cross instead… \fcurve{God would not be cross with them, and they would have won the war, systematically committed genocide on a global scale, before conclusively wiping themselves out as an unstable monoculture; all's well that ends well.}
@@ -336,7 +237,7 @@ The Nazis are Christian, but used symbols of Hinduism to undermine it; they neve
 \textbf{What's't like in prison for males?}
 \begin{itemize}[itemsep=0pt, parsep=0pt]
 	\item \fquote{Got crushed nuts?}; they crush your nuts while raping Uranus to Titan the gas chamber, and make you sing like a little girl; after they laugh about how funny it was, with your eyes popping out of your red head; high pitched \fquote{ergh}, LOL, \fquote{ergh}, LOL; while rocking their head back each time, making a double-chinned funny face, and widening their eyes while rolling them back; they do it until you start laughing about it too, then tell you how fucked up you are, how fucked up your life is, how you are a total fuck up, and that you are going to get fucked again, and again, and a…like a merry-go-round.
-	\item \fquote{Suck shit!}; they will tell you to be a cocksucker, and if you hesitate for an infinitesimal interval of time, they will feed you a knuckle sandwich that will break your front teeth so your back teeth prevent you from closing your gums, and then they will rape Uranus, before raping your pie hole; everyone who has false front teeth is a jailbird; literally everyone; there are no exceptions$\curvearrowright$.%$\searrow$.%↘.%↷.
+	\item \fquote{Suck shit!}; they will tell you to be a cocksucker, and if you hesitate for an infinitesimal interval of time, they will feed you a knuckle sandwich that will break your front teeth so your back teeth prevent you from closing your gums, and then they will rape Uranus, before raping your pie hole; everyone who has false front teeth is a jailbird; literally everyone; there are no exceptions$\curvearrowright$.
 	\item They let you wear a wig, and makeup; so the guards know you are not getting raped when you're screaming for crushed nuts.
 \end{itemize}
 
@@ -344,7 +245,7 @@ The Nazis are Christian, but used symbols of Hinduism to undermine it; they neve
 \begin{itemize}[itemsep=0pt, parsep=0pt]
 	\item \fquote{Clitical nipple cripple}; they nipple cripple your clit to make you icecream.
 	\item They poke out your third eye \fcurve{brown eye}, and they also poke you in your fourth eye \fcurve{whispering eye}.
-	\item They make you pull a goatse, and then close it, and then goatse again, and then...while encouraging you to do it faster, and faster, and faster, and wider, and wider, and wider; then they start punching their fist in each time when it is wide enough, and then they start fisting you to their elbow.
+	\item They make you pull a goatse, and then close it, and then goatse again, and then…while encouraging you to do it faster, and faster, and faster, and wider, and wider, and wider; then they start punching their fist in each time when it is wide enough, and then they start fisting you to their elbow.
 	\item They shove their shitty fist in your pussy, passed your cervix, and into your womb; then they open, and close, their hand, while informing you that you will never have babies. \fcurve{Medical professionals do not support these claims; some people are just born infertile, defective, or incompatible, and think prison caused it; it takes two to tango.}
 	\item You also get knuckle sandwiches; false teeth, and glass eyes.
 \end{itemize}
@@ -376,7 +277,7 @@ All good lawyers give the same sex advice, no matter how much you pay, and wheth
 \medskip
 \\If you're a Nazi with a swastika tattooed to your forehead, they'll mock you for being a Nazi Christian whose forsaken the Christian cross in favour of Hinduism; the \textit{Stanford Prison Experiment} taught us boredom leads to bullying, which was shortly followed by \textit{Rat Park} teaching us bullying leads to addiction.
 
-\subsection{Contrafibularities} %TODO hebrew support for comments
+\subsection{Contrafibularities}
 
 \subsubsection{Fool Me Once, Fool Me Twice}
 
@@ -397,7 +298,7 @@ Thanks to the little apple song, I now understand the Nazis with their golden an
 
 Governments should trust their own citizens, and floss their sources, since spies already have it; vets miss the long game, fake identities, and stolen identities.
 
-\subsection{Shyams' Ethically Contractual User Rights Involving Technological You} %TODO probably just leave it as it is
+\subsection{Shyams' Ethically Contractual User Rights Involving Technological You}
 
 I need to prevent unethical behaviour; human subject research \fcurve{tracking users,..} must include audio/video/identification/authentication/..-confirmed age-appropriate uniquely/generatively well-informed consent \fcurve{what is being stored, how it's being stored, how long it will be stored for, how it will be used, what it will be used for, who will have access to it, how it will be accessed, how it will be published/anonymised,..} using technological confirmation \fcurve{uniquely/generatively formally verified by audio/video recording, text-to-speech, eyeball-tracking, highlighting words to be spoken, unhighlighting spoken words as they are confirmed,..}…
 \medskip
@@ -472,13 +373,15 @@ Students should be encouraged to show off at \textit{Show, And Tell}.
 \noindent{}Hindu numerals are abstract representations of anatomical digits; the letters of mathematical language.\bigskip
 \\During HE \shyamof{} 10628, \dbrahmagupta{} invented nothing, which evolved into the set of Hindu numerals most of humanity uses today; 0, 1, 2, 3, 4, 5, 6, 7, 8, and 9.
 \bigskip
+\\The \dbrahmin{} son of \dchajaka{} used a black dot, as the abstract representation of nothing, in the \dbakhshali{} manuscript; the earliest known usage of nothing.
+\bigskip
 \\The concept of nothingness is a dependency for oneness; if you do not know nothing, then what do you know?
 
 \subsubsection{Hindu Numbers}
 
 \noindent{}Hindu numbers are abstract structures formed by the atomic bonding of Hindu numerals, within a dimensional base.
 \bigskip
-\\The inventor of the basal Hindu number system of place values is in dispute; \daryabhata{} used it during HE \shyamof{} (10476, 10550], while the brahmin son of Chajaka used it in the Bakhshali manuscript; partially carbon dated during HE \shyamof{} [10224, 10383], and HE \shyamof{} [10885, 10993], using inconsistent isotopes.
+\\The inventor of the basal Hindu number system of place values is in dispute; \daryabhata{} used it during HE \shyamof{} (10476, 10550], while the \dbrahmin{} son of \dchajaka{} used it in the \dbakhshali{} manuscript; partially carbon dated during HE \shyamof{} [10224, 10383], and HE \shyamof{} [10885, 10993], using inconsistent isotopes.
 
 \subsubsection{Persian Algebra}
 
@@ -576,6 +479,7 @@ $$x ↑ 0 = 1 ∵ \text{1 is the identity of multiplication}$$
 \\|\sqrt[x]{1}| &= 1\text{, where }x ≠ 0
 \\\sqrt[1]{x} &= x
 \end{align*}
+
 \begin{align*}
   0 ↑ x &= 0\text{, where }x ≠ 0
 \\x ↑ 0 &= 1\fsh{\text{, where }x ≠ 0}
@@ -621,7 +525,6 @@ $$(1÷11)_{01} = (1÷2)_{10}$$
 \subsubsection{Baseless Accusations}
 
 \noindent{}There are $n$ Hindu numerical representations in base $n$, excluding $n$; which is $10_n$ in all bases, except for $n≤1$.
-
 \begin{align*}
   \text{Base }16 &= \{0,1,2,3,4,5,6,7,8,9,\text{A,B,C,D,E,F}\}
 \\\text{Base }15 &= \{0,1,2,3,4,5,6,7,8,9,\text{A,B,C,D,E}\}
@@ -643,7 +546,6 @@ $$(1÷11)_{01} = (1÷2)_{10}$$
 \end{align*}
 
 \noindent{}Since only having zeros is completely useless for anything except for zero itself; we compromise by breaking the rules!
-
 \begin{align*}
   \text{Base }01 &≠ \{0\}
 \\\text{Base }01 &= \{1\}
@@ -655,7 +557,6 @@ $$(1÷11)_{01} = (1÷2)_{10}$$
 \subsubsection{Nothing Is Natural}
 
 \noindent{}Functions empower the possibility of more complicated Hindu numbers; starting with nothing.
-
 \begin{align*}
   0 &= \{\}
 \\ℕ &= \{+,×\}
@@ -668,8 +569,8 @@ $$(1÷11)_{01} = (1÷2)_{10}$$
 \noindent{}Signage signifies nature, as a signature; but nothing is superpositionally significant.
 \medskip
 \\Counting accumulates from nothing.
-\medskip
-\\The first position in a list is one, unless the list lists nothing; the only reason why anachronistic programming languages use nothing to address the first position in a list, is because once upon a time, computational resources were so expensively minimal, that the extraposition was worth it; waste not, want not!
+\newpage
+\noindent{}The first position in a list is one, unless the list lists nothing; the only reason why anachronistic programming languages use nothing to address the first position in a list, is because once upon a time, computational resources were so expensively minimal, that the extraposition was worth it; waste not, want not!
 
 \subsection{The Hindu Number Circle Of Reality}
 
@@ -680,7 +581,7 @@ $$(1÷11)_{01} = (1÷2)_{10}$$
 \subsubsection{Archaeology 2}
 
 \noindent{}The first time I shared my discovery of \dshyam{} was during HE \shyamof{} 12015 \shyamof{} 07 \shyamof{} 06 \shyamof{} 13 \shyamof{} 25, when I posted it to the student forums of my very first mathematical subject for my bachelors; but the course coordinator edited out my proof, leaving behind \fquote{<Material about `dividing by zero' has been removed by a moderator.>}, after another student challenged my claim to fame, and responding \fquote{At the risk of being superfluous in this crowded discussion: You are correct. There is no safe way to divide by zero, and it is best avoided. Your comments about limits are also apt. I have edited Shyam's post to remove the `division by zero' discussion.}.
-\medskip
+\bigskip
 \\I also replied to my post with this during HE \shyamof{} 12015 \shyamof{} 07 \shyamof{} 06 \shyamof{} 14 \shyamof{} 22.
 
 $$x^{\frac{n}{d}} = \sqrt[\frac{d}{n}]{x} = \sqrt[d]{x^n}$$
@@ -711,29 +612,31 @@ $$x\div\frac{y}{0} = x\times\frac{0}{y} = x\times0 = 0$$
 
 \noindent{}I am not disputing this!
 
-\begin{align*}
+\setcounter{equation}{0}
+\begin{align}
 x &= 0 ÷ (a + [a=0])
 \\x &= 0
-\end{align*}
+\end{align}
 
 \noindent{}I do not even know what this even is; you can multiply away nothing from the RHS!!
 
-\begin{align*}
+\setcounter{equation}{0}
+\begin{align}
 x &= (a + [a=0]) ÷ 0
 \\x × 0 &≠ (a + [a=0])
-\end{align*}
+\end{align}
 
 \noindent{}Dividing by nothing is not a black hole; you can multiply away nothing from the RHS!!!
 
-\begin{align*}
+\setcounter{equation}{0}
+\begin{align}
 x &= 0 ÷ 0
 \\x × 0 &≠ 0
-\end{align*}
+\end{align}
 
 \noindent{}\dbrahmagupta{}, the leading authority of nothing, was right all along.
 
 \subsubsection{Where Is \ddshyam{}? Where Is \ddshyam{}? Here He Is! Here He Is!}
-%\subsubsection{Where Is \textbackslash{}dshyam\{\}? Where Is \textbackslash{}dshyam\{\}? Here He Is! Here He Is!}
 
 \noindent{}`T'sn't an equation; there'sn't a need to operate on any geometric sides $∵$ the index, exponent, and radicand, are geometrically existential; as subatomically respective needly neutrons, powerful protons, and elementary electrons.
 
@@ -747,6 +650,10 @@ i &= ∓1
 \noindent{}Infinitesimals approach zero, so where do infinites tend towards? It's the same point!
 
 $$\sqrt[∓i ÷ e]{∓r} = +1\text{, where $\{r$adicand$\in\mathbb{R}|(+0,+\infty)\}\land\{i$ndex$\in\mathbb{R}|[+1,+1]\}\land\{e$xponent$\in\mathbb{R}|[+0,+0]\}$}$$
+
+\noindent{}The Hindu number of sides of a circle geometrically proves the existence of \dshyam{}.
+
+\noindent{}The Hindu number of edges of a sphere geometrically proves the existence of \dshyam{}.
 
 \noindent{}The continuous spherical graphs of $∓1 ÷ x$ geometrically proves the existence of \dshyam{}, along both axes.
 
@@ -860,7 +767,7 @@ $$∫(\dshyam{})dx = \dshyam{} × x + c$$
 \\0 < 2 × (\dshyam{} ÷ \pi) < \dshyam{}
 \end{gather*}
 
-\noindent{}There are \dshyam{} repetitions; I wonder what this means for the fractally \dshyam{}-recursive Curry Y-combinator...%CurrY-combinator...
+\noindent{}There are \dshyam{} repetitions; I wonder what this means for the fractally \dshyam{}-recursive Curry Y-combinator…%CurrY-combinator…
 
 \begin{align*}
 1÷3 &= 0.(3)
@@ -1033,6 +940,7 @@ $$x ↑ 2 ≠ (-1) × (+1)$$
 
 %$$i(x) = -1 × [x = 2 × ⌈y⌉] + 2 × [x = 4 × ⌊y⌋] + i() × [x = 2 × ⌈y⌉ - 1]$$
 
+% it is still \dshyam{} recursive!
 $$i(x) = -1 × [x = 2 × ⌈y⌉] + 2 × [x = 4 × ⌊y⌋] + i(x) × [x = 2 × ⌈y⌉ - 1]$$
 
 \noindent{}Welcome to functional-logical reality:)
