@@ -10,8 +10,62 @@
 %\usepackage[T1]{fontenc}
 \usepackage{textcomp}
 \usepackage{devanagari}
-\usepackage[english]{babel}
+%\usepackage[english]{babel}
 %\usepackage[english, hebrew]{babel}
+\usepackage{fontspec}
+\RequirePackage{etoolbox}
+\AtEndPreamble{
+	\usepackage{polyglossia}
+	\setdefaultlanguage{english}
+	\setotherlanguage{hebrew}
+	%\newfontfamily\hebrewfont[Script=Hebrew]{FreeSerif}
+	%\newfontfamily\hebrewfont[Script=Hebrew]{FreeSans}
+	%\newfontfamily\hebrewfont[Script=Hebrew]{Noto Serif Hebrew}
+	%\newfontfamily\hebrewfont[Script=Hebrew]{Noto Sans Hebrew}
+	%\newfontfamily\hebrewfont[Script=Hebrew]{Hadasim CLM}
+	%\newfontfamily\hebrewfont[Script=Hebrew]{David CLM}
+	%\newfontfamily\hebrewfont[Script=Hebrew]{Stam Ashkenaz CLM}
+	%\newfontfamily\hebrewfont[Script=Hebrew]{Simple CLM}
+	%\newfontfamily\hebrewfont[Script=Hebrew]{Miriam Mono CLM}
+	%\newfontfamily\hebrewfont[Script=Hebrew]{Stam Sefarad CLM}
+	%\newfontfamily\hebrewfont[Script=Hebrew]{Nachlieli CLM}
+	%\newfontfamily\hebrewfont[Script=Hebrew]{Miriam CLM}
+	\newfontfamily\hebrewfont[Script=Hebrew]{Frank Ruehl CLM}
+	%\newfontfamily\hebrewfont[Script=Hebrew]{Shofar}
+	%\newfontfamily\hebrewfont[Script=Hebrew]{Keter YG}
+	%\newfontfamily\hebrewfont[Script=Hebrew]{Abyssinica SIL}
+	%\newfontfamily\hebrewfont[Script=Hebrew]{Ezra SIL SR}
+	%\newfontfamily\hebrewfont[Script=Hebrew]{Ezra SIL}
+	\setotherlanguage{farsi}
+	%\newfontfamily\arabicfont[Script=Arabic]{Noto Sans Old Persian}
+	%\newfontfamily\arabicfont[Script=Arabic]{KacstFarsi}
+	\newfontfamily\arabicfont[Script=Arabic]{Titr}%good
+	%\newfontfamily\arabicfont[Script=Arabic]{FreeFarsi}%good, but spacing/margin
+	%\newfontfamily\arabicfont[Script=Arabic]{Nazli}%good, but spacing/margin
+	%\newfontfamily\arabicfont[Script=Arabic]{FreeFarsi Monospace}%good, but spacing/margin
+	%\newfontfamily\arabicfont[Script=Arabic]{Homa}
+	%\newfontfamily\arabicfont[Script=Arabic]{FreeSerif}%good
+	%\newfontfamily\arabicfont[Script=Arabic]{FreeSans}
+	%\newfontfamily\arabicfont[Script=Arabic]{Noto Sans Arabic UI}
+	%\newfontfamily\arabicfont[Script=Arabic]{Noto Naskh Arabic}
+	%\newfontfamily\arabicfont[Script=Arabic]{Noto Kufi Arabic}
+	%\newfontfamily\arabicfont[Script=Arabic]{Noto Naskh Arabic UI}
+	%\newfontfamily\arabicfont[Script=Arabic]{Noto Sans Arabic}
+	\setotherlanguage{sanskrit}
+	%\usepackage[Latin,Devanagari]{ucharclasses}
+	%\newfontfamily{\devanagarifont}{FreeSerif}
+	%\newfontfamily{\devanagarifont}{FreeSans}
+	%\newfontfamily{\devanagarifont}{Sahadeva}%good flow
+	%\newfontfamily{\devanagarifont}{Lohit Devanagari}
+	%\newfontfamily{\devanagarifont}{Nakula}%good
+	%\newfontfamily{\devanagarifont}{Noto Sans Devanagari}
+	%\newfontfamily{\devanagarifont}{Noto Sans Devanagari UI}
+	%\newfontfamily{\devanagarifont}{Noto Serif Devanagari}
+	%\newfontfamily{\devanagarifont}{Kalimati}%good
+	%\newfontfamily{\devanagarifont}{Chandas}
+	%\newfontfamily{\devanagarifont}{Samanata}%good flow
+	\newfontfamily{\devanagarifont}{Samyak Devanagari}%good
+}
 
 % no hyphenation
 \usepackage[none]{hyphenat}%http://tex.stackexchange.com/a/5039
@@ -98,32 +152,39 @@
 \def\ShYaM{\rm S\kern-.13em\lower-.47em\hbox{\fontsize{.5em}{0em}\selectfont H}\kern-.0555em{}Y\kern-.442em\lower.227em\hbox{A}\kern-.25em{}M}
 
 \def\shyamof{$\circ$}%∘
-%\def\dshyam{\text{श्याम}}
+%\def\dshyam{\text{\foreignlanguage{sanskrit}{श्याम}}}
+\def\ddshyam{\text{\foreignlanguage{sanskrit}{श्याम}}}
 \def\dshyam{\text{\dn "syaama}}
-%\def\dkrishna{\text{कृष्ण}}
+%\def\dkrishna{\text{\foreignlanguage{sanskrit}{कृष्ण}}}
 \def\dkrishna{\text{\dn k.r.s.na}}
-%\def\davatar{\text{अवतार}}
+%\def\davatar{\text{\foreignlanguage{sanskrit}{अवतार}}}
 \def\davatar{\text{\dn avataara}}
-%\def\dvishnu{\text{विष्णु}}
+%\def\dvishnu{\text{\foreignlanguage{sanskrit}{विष्णु}}}
 \def\dvishnu{\text{\dn vi.s.nu}}
-%\def\dgita{\text{भगवद्गीता}}
+%\def\dgita{\text{\foreignlanguage{sanskrit}{भगवद्गीता}}}
 \def\dgita{\text{\dn bhagavadgiitaa}}
-%\def\dkarma{\text{कर्म}}
+%\def\dkarma{\text{\foreignlanguage{sanskrit}{कर्म}}}
 \def\dkarma{\text{\dn karma}}
-%\def\dmantra{{हरे कृष्ण हरे कृष्ण\\कृष्ण कृष्ण हरे हरे\\हरे राम हरे राम\\राम राम हरे हरे}}
+%\def\dmantra{\foreignlanguage{sanskrit}{हरे कृष्ण हरे कृष्ण\\कृष्ण कृष्ण हरे हरे\\हरे राम हरे राम\\राम राम हरे हरे}}
 \def\dmantra{{\dn hare k.r.s.na hare k.r.s.na\\k.r.s.na k.r.s.na hare hare\\hare raama hare raama\\raama raama hare hare}}
-%\def\draj{\text{राजन्}}
-\def\draj{\text{\dn mahaaraaja}}
-%\def\dbdfl{\text{महाराज}}
-\def\dbdfl{\text{\dn "srii "syaama mahaaraaja}}
-%\def\dbrahmagupta{\text{ब्रह्मगुप्त}}
-\def\dbrahmagupta{\text{\dn b.rrahmagup.th}}
-%\def\daryabhata{\text{आर्यभट}}
+\def\draj{\text{\foreignlanguage{sanskrit}{राजन्}}}
+%\def\draj{\text{\dn mahaaraaja}}
+\def\dbdfl{\text{\foreignlanguage{sanskrit}{महाराज}}}
+%\def\dbdfl{\text{\dn "srii "syaama mahaaraaja}}
+%\def\dbrahmagupta{\text{\foreignlanguage{sanskrit}{ब्रह्मगुप्त}}}
+%\def\dbrahmagupta{\text{\dn b.rrahmagup.th}}
+\def\dbrahmagupta{\text{\dn braahmagupta}}
+%\def\daryabhata{\text{\foreignlanguage{sanskrit}{आर्यभट}}}
 \def\daryabhata{\text{\dn aaryabha.ta}}
-\def\pal{\text{محمد بن موسى خوارزمی}}
-\def\hjews{\text{יהודי}}
-\def\hjesus{\text{יֵשׁוּעַ}}
-\def\hrevenge{\text{נקמת היהודים}}
+%\def\pal{\text{\foreignlanguage{farsi}{محمد بن موسى خوارزمی}}}
+\def\pal{\text{\foreignlanguage{farsi}{خوارزمی موسى بن محمد}}}
+%\def\pal{\text{\foreignlanguage{farsi}{یمزراوخ ىسوم نب دمحم}}}
+%\def\pal{\text{\foreignlanguage{farsi}{دمحم نب ىسوم یمزراوخ}}}
+\def\hjews{\text{\foreignlanguage{hebrew}{יהודי}}}
+%\def\hjesus{\text{\foreignlanguage{hebrew}{יֵשׁוּעַ}}}
+\def\hjesus{\text{\foreignlanguage{hebrew}{ישוע}}}
+%\def\hrevenge{\text{\foreignlanguage{hebrew}{נקמת היהודים}}}
+\def\hrevenge{\text{\foreignlanguage{hebrew}{היהודים נקמת}}}
 
 \newcommand{\fSH}[1]{{\colorbox{black}{\texttt{#1}}}}
 \newcommand{\fsh}[1]{{\color{gray}{#1}}}
@@ -661,8 +722,8 @@ x &= 0 ÷ 0
 
 \noindent{}\dbrahmagupta{}, the leading authority of nothing, was right all along.
 
-%\subsubsection{Where Is \dshyam{}? Where Is \dshyam{}? Here He Is! Here He Is!}
-\subsubsection{Where Is \textbackslash{}dshyam\{\}? Where Is \textbackslash{}dshyam\{\}? Here He Is! Here He Is!}
+\subsubsection{Where Is \ddshyam{}? Where Is \ddshyam{}? Here He Is! Here He Is!}
+%\subsubsection{Where Is \textbackslash{}dshyam\{\}? Where Is \textbackslash{}dshyam\{\}? Here He Is! Here He Is!}
 
 \noindent{}`T'sn't an equation; there'sn't a need to operate on any geometric sides $∵$ the index, exponent, and radicand, are geometrically existential; as subatomically respective needly neutrons, powerful protons, and elementary electrons.
 
@@ -789,7 +850,7 @@ $$∫(\dshyam{})dx = \dshyam{} × x + c$$
 \\0 < 2 × (\dshyam{} ÷ \pi) < \dshyam{}
 \end{gather*}
 
-\noindent{}There are \dshyam{} repetitions; I wonder what this means for the fractally \dshyam{}-recursive Curry Y-combinator...
+\noindent{}There are \dshyam{} repetitions; I wonder what this means for the fractally \dshyam{}-recursive Curry Y-combinator...%CurrY-combinator...
 
 \begin{align*}
 1÷3 &= 0.(3)
