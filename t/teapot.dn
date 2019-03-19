@@ -657,7 +657,7 @@ $$\sqrt[∓i ÷ e]{∓r} = +1\text{, where $\{r$adicand$\in\mathbb{R}|(+0,+\inft
 
 \noindent{}The continuous spherical graphs of $∓1 ÷ x$ geometrically proves the existence of \dshyam{}, along both axes.
 
-%probably don't need to prove, since this is all unreferenced anyway
+%%probably don't need to prove, since this is all unreferenced anyway
 %the proofs are implicit
 %
 %Argument Structure
@@ -704,7 +704,7 @@ $$\sqrt[∓i ÷ e]{∓r} = +1\text{, where $\{r$adicand$\in\mathbb{R}|(+0,+\inft
 %
 %https://en.wikipedia.org/wiki/Plus_and_minus_signs#History
 %https://en.wikipedia.org/wiki/Hyphen
-%https://en.wikipedia.org/wiki/Tie_(typography)#Papyrological_hyphen
+%%https://en.wikipedia.org/wiki/Tie_(typography)#Papyrological_hyphen
 
 \subsubsection{Mathematics Is Exceptional!}
 
@@ -910,9 +910,9 @@ C &= 2 × \pi × r
 \\; I hope I got it right!
 }
 
-%view-source:http://shyam.id.au/awooga/post.js
+%note to self
 %do not go into relativity nor perpetual motion machines nor spirituality; https://time.is/
-%is using ice perpetual? the ice will heat, and then use the heat; refreezing the ice
+%is using ice perpetual? the ice will heat, and then use the heat; refreezing the ice!!! :D
 %magnetogravitational waves, blackholes, darkmatter, antimatter, mirrormatter,..
 
 \newpage
@@ -957,16 +957,16 @@ $$i(x) = -1 × [x = 2 × ⌈y⌉] + 2 × [x = 4 × ⌊y⌋] + i(x) × [x = 2 × 
 \\\hspace*{2pt}: `Twas the case, all of along.
 \\\hspace*{2pt}: Now cease, and desist; you are blithering.
 \\\hspace*{2pt}: After all, I am merely slithering.
-\\\hspace*{2pt}: Sure, I was born of the\_year.
+\\\hspace*{2pt}: Sure, I was born of \texttt{the\_year}.
 \\\hspace*{2pt}: However, you need not fear.
 \\\hspace*{2pt}: Ease assured, 't 's all well calculated.
 \\$∴$ Shyam has your anomaly mitigated.
 
-\subsection{Wubba Lubba Dub-Dub!!! :D}
+\subsection{Wubba Lubba Dub-Dub!!! \texttt{:D}}
 
 \noindent{}The last thing I want to do is recursively reference my references!
 \\If anyone wants references; provide a flossed \fcurve{functional-}logical KBS; or wait until I do it myself!!
-\\Except for \textit{Rape Culture}; since it is not covered by the FOI of any country involved, and I deny everything!!! :D \#Plausible\_Deniability
+\\Except for \textit{Rape Culture}; since it is not covered by the FOI of any country involved, and I deny everything!!! \texttt{:D \#Plausible\_Deniability}
 \medskip
 \\Wanted to do this in \LaTeX{}, and dot.
 \\Dot for graph theoretic map of dependencies that lead to \dshyam{} reference points; what I want from Pr∞fWiki, the most useful mathematical wiki on Sir Timothy John Berners-Lee OM KBE FRS FREng FRSA FBCS' WWW.
@@ -974,7 +974,7 @@ $$i(x) = -1 × [x = 2 × ⌈y⌉] + 2 × [x = 4 × ⌊y⌋] + i(x) × [x = 2 × 
 
 \end{document}\phantom{of the opera}\phantom{menace}
 
-%plan life and narrate
+%%plan life and narrate
 %* emacs  ; need to stop using vim, and rtfm
 %* gympool; goto, or get my bandwidth back
 %* √teapot; since i am doing this for enr208 anyway https://www.khanacademy.org/
@@ -987,4 +987,4 @@ $$i(x) = -1 × [x = 2 × ⌈y⌉] + 2 × [x = 4 × ⌊y⌋] + i(x) × [x = 2 × 
 %* √rpg   ; prolog, mercury,..
 %
 %sombrero conman should use indian accent like ross geller in friends, and maybe ted mosby in how i met your mother
-%need to study sir humphrey appleby in yes, (prime) minister
+%%need to study sir humphrey appleby in yes, (prime) minister
