@@ -99,6 +99,7 @@
 
 %\usepackage{xepersian}
 %\settextfont{XB Niloofar}%https://fontlibrary.org/en/font/xb-niloofar
+%\usepackage{xltxtra}
 
 %%%%%%%% /cfg/ %%%%%%%%
 
@@ -223,7 +224,8 @@
 \medskip
 \\Śyāma is how you pronounce Shyam, and \dshyam{} is how you spell Śyāma; \dshyam{} is one of the 108 names of \dkrishna{}, an \davatar{} of \dvishnu{}, hunted to death by an archer, after singing the \dgita{}; a conversation, where he peer pressures a friend into killing their relatives, and friends, to score \dkarma{} points!!! \texttt{:D}
 \medskip
-\\My favourite real integers are; \dshyam{}, -1, 0, 1, 2, 3, 6, 10, 11, 16, 32, 42, 64, 69, 72, 73, 83, 89, 101, 108, 1337, 1727, 1989, 2072, 2073, 2414, 2419, 2914, 2919, 8730, 11989, 12072, 12073, and \dshyam{}.\medskip\\I whisper sweet nothings to my machine, and it just listens to me \fcurve{like noone else will}; I am \textit{The Computer Whisperer}, but I whisper with my finger tips…
+\\My favourite real integers are; \dshyam{}, -1, 0, 1, 2, 3, 6, 10, 11, 16, 32, 42, 64, 69, 72, 73, 83, 89, 101, 108, 1337, 1727, 1989, 2072, 2073, 2414, 2419, 2914, 2919, 8730, 11989, 12072, 12073, and \dshyam{}.\medskip
+\\I whisper sweet nothings to my machine, and it just listens to me \fcurve{like noone else will}; I am \textit{The Computer Whisperer}, but I whisper with my finger tips…
 \medskip
 \\I am an unemployed undergraduate, and I do not sign non-disclosure agreements, so email me for my personal documentation; I am also a Robot.
 \begin{itemize}[itemsep=0pt, parsep=0pt, labelsep=0pt]
@@ -245,9 +247,9 @@
 \\PS: My email is $[$\texttt{\href{mailto:shyam@shyam.id.au?Subject=Handbook of Robotics, 56th Edition, 12058 H.E.}{shyam@shyam.id.au}}$]$; my wizard shall let it pass if the subject is \texttt{/\^{}Handbook of Robotics, 56th Edition, 12058 H.E.\$/}.
 \medskip
 % If Bill Nye the Science Guy did it; they'd use \fquote{The End Is Nye}.
-\\PSS: I expect the news headlines to be \fquote{The Man Who Knows Everything Divides By Zero}, and \fquote{The Man Who Knows Everything Divided By Zero Equals \dshyam{}}, and \fquote{Shyam Has Your Anomaly Mitigated, And Existentially Isn't Odd; Understandably}, and \fquote{We Discovered An Undefined Flying Teapot, But We Don't Understand What The Pioneer Plaque Means}, and \fquote{We Found Porn, In Space}, and \fquote{Space Porn}, and \fquote{We Scavenged Scrap Space Junk, And Melted It Down For An Early Retirement}, and \fquote{Autoships Discovered Space Junk Missed During The Cleansing Of The Ancients; Luckily We Disabled Autoprocessing, Otherwise We'd've Missed This Bountiful Declaration Of War}, and \fquote{We Got It All Wrong} \fcurve{Hindu numerals, Hindu numbers, Hindu integer sequences, and Hindu number circles of realities}, and \fquote{Mathematics Is Exceptional}, and \fquote{Nothing Is Natural}, and \fquote{Real Āryans Know \texttt{\textbackslash{}}\fquote{-thing\texttt{\textbackslash{}}}s}, and \fquote{Massive Acceration Is Querious}, and \fquote{Without Mass, No Acceleration Is Paradoxical}, and \fquote{Well, We Just Don't Know…}, and \fquote{You Can Run, But You Cann't Hide}, and \fquote{Nothing Is Significant}, and \fquote{The Leading Authority Of Nothing, Was Right All Along}, and \fquote{Computers Are Progressive, But The Languages They Use Aren't}, and \fquote{Reality Is Complex}, and \fquote{The End Of The Line}, and \fquote{The End Is Nigh}, and \fquote{The Nazis Would've Lost, Even If They'd've Won}.
+\\PSS: I expect the news headlines to be \fquote{The Man Who Knows Everything Divides By Zero}, and \fquote{The Man Who Knows Everything Divided By Zero Equals \dshyam{}}, and \fquote{Shyam Has Your Anomaly Mitigated, And Even Isn't Odd; Understandably}, and \fquote{We Discovered An Undefined Flying Teapot, But We Don't Understand What The Pioneer Plaque Means}, and \fquote{We Found Porn, In Space}, and \fquote{Space Porn}, and \fquote{We Scavenged Scrap Space Junk, And Melted It Down For An Early Retirement}, and \fquote{Autoships Discovered Space Junk Missed During The Cleansing Of The Ancients; Luckily We Disabled Autoprocessing, Otherwise We'd've Missed This Bountiful Declaration Of War}, and \fquote{We Got It All Wrong} \fcurve{Hindu numerals, Hindu numbers, Hindu integer sequences, and Hindu number circles of realities}, and \fquote{Mathematics Is Exceptional}, and \fquote{Nothing Is Natural}, and \fquote{Real Āryans Know \texttt{\textbackslash{}}\fquote{-thing\texttt{\textbackslash{}}}s}, and \fquote{Massive Acceration Is Querious}, and \fquote{Without Mass, No Acceleration Is Paradoxical}, and \fquote{Well, We Just Don't Know…}, and \fquote{You Can Run, But You Cann't Hide}, and \fquote{Nothing Is Significant}, and \fquote{The Leading Authority Of Nothing, Was Right All Along}, and \fquote{Computers Are Progressive, But The Languages They Use Aren't}, and \fquote{Reality Is Complex}, and \fquote{The End Of The Line}, and \fquote{The End Is Nigh}, and \fquote{The Nazis Would've Lost, Even If They'd've Won}.
 \medskip
-\\PSSS: I also expect this will mean a half-dozen papers, a thesis or two, and a paragraph in every textbook on number theory; because Cueball stroked it for queuing theory, but mine's longer, and size matters.
+\\PSSS: I also expect this will mean a half-dozen papers, a thesis or two, and a paragraph in every textbook on Hindu number theory; because Cueball stroked it for queuing theory, but mine's longer, and size matters.
 
 \includepdf[pages=-]{tealeaf.jpg}
 \includepdf[pages=-]{tealeaves.jpg}
@@ -260,7 +262,7 @@ I hold the world record for the shortest possible abstract; the empty set.
 
 \subsection{Just Cause}
 
-This is my thesis statement; that $(∓1) ÷ 0$ is my numerical point!
+This is my thesis statement; that $(∓1) ÷ 0$ is my Hindu numerical point!
 
 \begin{center}
 	\dshyam
@@ -322,7 +324,7 @@ The Nazis are Christian, but used symbols of Hinduism to undermine it; they neve
 \noindent{}Jesus was a Jew, and their act of self-sacrifice was very Spock; crowned \textit{King Of The Jews}, so why aren't Christians Jews?
 \\Hitler was a Jew, and their plot was blonde enough to actually work; winning wars of such scale, do you even occupy?
 \medskip
-\\Jews were less than half of the Holocaust, but are more than half of the cognizance; Hinduism was most of the presentation, even though Christianity was most of the affiliation, and had they used the Christian cross instead… \fcurve{God would not be cross with them, and they would have won the war, systematically committed genocide on a global scale, before conclusively wiping themselves out as an unsustainable monoculture; all's well that ends well.}
+\\Jews were less than half of the Holocaust, but are more than half of the cognizance; Hinduism was most of the presentation, even though Christianity was most of the affiliation, and had they used the Christian cross instead… \fcurve{God would not be cross with them, and they would have won the war, systematically committed genocide on a global scale, before conclusively wiping themselves out as an unstable monoculture; all's well that ends well.}
 \\They lost the war by angering the Gods with their colour vision deficiency; Hindu orange is not red!
 \\Caucasia, albino, and vitiligo, are skin diseases caused by an ultraviolent \fcurve{invasive} solar-photonic immunodeficiency; so much for Nazi eugenics!!
 \\Blondes lack the intellectual capacity to recognise their own shortcomings; contrafibularities!!! \texttt{:D}
@@ -405,8 +407,7 @@ I need to prevent unethical behaviour; human subject research \fcurve{tracking u
 
 Health-based economies could start \={c} universal basic income, in an effort to positively evolve the quality of life for one, and all, indiscriminately; even for the untrustworthy Han Chinese, and the birth defective Nazi Germans.
 \medskip
-\\Gamification provides the unemployed \={c} something to do, and strive for; keeping them out of prison.
-\medskip
+\\Gamification provides the unemployed \={c} something to do, and strive for; keeping them out of prison.\medskip
 \\Medical examinations should not be performed by the same medical professionals in a row; patients should see every doctor in their area, and malpractice can be detected \={c} this cross referenced data.
 \medskip
 \\Health-based economies are divided \={c} mental health, and physical health.
@@ -468,27 +469,26 @@ Students should be encouraged to show off at \textit{Show, And Tell}.
 
 \subsubsection{Hindu Numerals}
 
-\noindent{}Numerals are abstract representations of anatomical digits; the letters of mathematical language.
-\medskip
-\\During HE \shyamof{} 10628, \dbrahmagupta{} invented nothing, which evolved into the set of numerals most of humanity uses today; 0, 1, 2, 3, 4, 5, 6, 7, 8, and 9.
+\noindent{}Hindu numerals are abstract representations of anatomical digits; the letters of mathematical language.\medskip
+\\During HE \shyamof{} 10628, \dbrahmagupta{} invented nothing, which evolved into the set of Hindu numerals most of humanity uses today; 0, 1, 2, 3, 4, 5, 6, 7, 8, and 9.
 \medskip
 \\The concept of nothingness is a dependency for oneness; if you do not know nothing, then what do you know?
 
 \subsubsection{Hindu Numbers}
 
-\noindent{}Numbers are abstract structures formed by the atomic bonding of numerals, within a dimensional base.
+\noindent{}Hindu numbers are abstract structures formed by the atomic bonding of Hindu numerals, within a dimensional base.
 \medskip
-\\The inventor of the basal number system of place values is in dispute; \daryabhata{} used it during HE \shyamof{} (10476, 10550], while the brahmin son of Chajaka used it in the Bakhshali manuscript; partially carbon dated during HE \shyamof{} [10224, 10383], and HE \shyamof{} [10885, 10993], using inconsistent isotopes.
+\\The inventor of the basal Hindu number system of place values is in dispute; \daryabhata{} used it during HE \shyamof{} (10476, 10550], while the brahmin son of Chajaka used it in the Bakhshali manuscript; partially carbon dated during HE \shyamof{} [10224, 10383], and HE \shyamof{} [10885, 10993], using inconsistent isotopes.
 
 \subsubsection{Persian Algebra}
 
-\noindent{}Algebras are abstract interactions formed by the physical laws of numbers.
+\noindent{}Persian algebras are abstract interactions formed by the physical laws of Hindu numbers.
 \medskip
 \\During HE \shyamof{} (10780, 10850], \pal{} invented the ability to mathematically describe generalisations.
 
 \subsubsection{Persian Algorithms}
 
-\noindent{}Algorithms are just ordered lists of instructions; this can be obscured by people who are too cute for their own good.
+\noindent{}Persian algorithms are just ordered lists of instructions; this can be obscured by people who are too cute for their own good.
 \medskip
 \\During HE \shyamof{} (10780, 10850], \pal{} invented the dependency for repeatable experiments; n-person sanity checking improved n-party scientific collaboration.
 
@@ -498,7 +498,7 @@ Students should be encouraged to show off at \textit{Show, And Tell}.
 \medskip
 \\This is like attributing Ada Lovelace as the first programmer, even though Charles Babbage must have tested his design before applying for funding to implement it!
 \medskip
-\\Ada Lovelace commented that numbers could be used to represent innumerate concepts, but the Pythagoreans were mathematical musicians, and \pal{}' algebra has been applied to innumerate concepts, and before Hindu numerals were invented; they used positional letters of the alphabet to represent numerate concepts!
+\\Ada Lovelace commented that Hindu numbers could be used to represent innumerate concepts, but the Pythagoreans were mathematical musicians, and \pal{}' Persian algebra has been applied to innumerate concepts, and before Hindu numerals were invented; they used positional letters of the alphabet to represent Hindu numerate concepts!
 \medskip
 \\Musical algorithms, and programs, probably predate mathematical, and computational, algorithms, and programs!
 
@@ -539,6 +539,13 @@ $$f(x) = f(\sqrt[1]{x})$$
 \\\sqrt[2]{x} ↑ 2 &= x
 \\\sqrt[1]{x} ↑ 1 &= x
 \\\sqrt[0]{x} ↑ 0 &= x \veebar 1 \oplus 0
+\end{align*}
+
+\begin{align*}
+  \sqrt[3]{x} &=\text{ an edge of a cube}
+\\\sqrt[2]{x} &=\text{ a side of a square}
+\\\sqrt[1]{x} &=\text{ a line segment}
+\\\sqrt[0]{x} &=\text{ 1 single point }
 \end{align*}
 
 \begin{align*}
@@ -610,7 +617,7 @@ $$(1÷11)_{01} = (1÷2)_{10}$$
 
 \subsubsection{Baseless Accusations}
 
-\noindent{}There are $n$ numerical representations in base $n$, excluding $n$; which is $10_n$ in all bases, except for $n≤1$.
+\noindent{}There are $n$ Hindu numerical representations in base $n$, excluding $n$; which is $10_n$ in all bases, except for $n≤1$.
 
 \begin{align*}
   \text{Base }16 &= \{0,1,2,3,4,5,6,7,8,9,\text{A,B,C,D,E,F}\}
@@ -644,7 +651,7 @@ $$(1÷11)_{01} = (1÷2)_{10}$$
 
 \subsubsection{Nothing Is Natural}
 
-\noindent{}Functions empower the possibility of more complicated numbers; starting with nothing.
+\noindent{}Functions empower the possibility of more complicated Hindu numbers; starting with nothing.
 
 \begin{align*}
   0 &= \{\}
