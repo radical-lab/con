@@ -803,8 +803,7 @@ $$∫(\dshyam{})dx = \dshyam{} × x + c$$
 		\end{tikzpicture}
 	}
 \end{center}
-\noindent{}$f(\dshyam{})=1$
-%$$f(x) = (\dshyam{} ÷ 2) × [x = \dshyam{}] + (f(x) ÷ 2) × [x ≠ \dshyam{}]$$
+\noindent{}$f(\dshyam{})=1$, which means recursively halving \dshyam{} will return an even number, until $x = 2$; as proven by the recursive application of the graph-theoretic odd assumption, and what is known about geometric principles, and symmetries of the universe.
 $$f(x) = f(x ÷ 2) × [x = 2 × ⌈y⌉] + x × [x = 2 × ⌊y⌋ - 1]$$
 \noindent{}\dshyam{} is au naturel.
 
