@@ -16,21 +16,20 @@
 	\setotherlanguage{sanskrit}
 	\newfontfamily\devanagarifont[Script=Devanagari]{Samyak Devanagari}
 }
-
 \usepackage[none]{hyphenat}
-\usepackage{ulem}
-
 \usepackage{amsfonts}
 \usepackage{amsmath}
 \usepackage{amssymb}
 \usepackage{mathtools}
 \usepackage{unicode-math}
+\usepackage{pgfplots}
 \usepackage{svg}
 \usepackage{pdfpages}
 \usepackage[left=1cm, right=1cm, top=1in, bottom=1in]{geometry}
 \usepackage{fancyhdr}
 \usepackage{hyperref}
 \usepackage{enumitem}
+\usepackage{ulem}
 
 \definecolor{urllink}{rgb}{.5, .75, .5}
 \definecolor{pdflink}{rgb}{.75, .75, 1}
@@ -179,7 +178,7 @@ This is my thesis statement; that $(∓1) ÷ 0$ is my Hindu numerical point!
 	$\vcenter{\hbox{\includesvg[scale=0.333]{swastika}}}$
 \end{center}
 
-\noindent{}Garuḍa is my emblematic coat of arms!
+\noindent{}Garuḍa is my coat of arms!
 
 \begin{center}
 	$\vcenter{\hbox{\includesvg[scale=0.1825]{garuda}}}$
@@ -234,7 +233,7 @@ The Nazis are Christian, but used symbols of Hinduism to undermine it; they neve
 
 \subsection{Rape Culture}
 
-\noindent{}\textit{Prison is like an RPG, where you always lose; if you don't play, then you lose badly; and even if you do play, what goes around comes around; but they give you gifts that keeps on giving, as a consolation.}
+\noindent{}\textit{Prison is like an RPG, where you always lose; if you don't play, then you lose badly; and even if you do play, what goes around comes around; but they give you gifts that keep on giving, as a consolation.}
 \\\textbf{What's't like in prison for males?}
 \begin{itemize}[itemsep=0pt, parsep=0pt]
 	\item \fquote{Got crushed nuts?}; they crush your nuts while toking Uranus to Titan the gas chamber, and make you sing like a little girl; afterwards, they contagiously laugh about how funny it was, with your eyes popping out of your red head; high pitched \fquote{ergh}, LOL, \fquote{ergh}, LOL; while rocking their head back each time, making a double-chinned funny face, and widening their eyes while rolling them back; they do it until you start laughing about it too, then tell you how stoned up you are, how stoned up your life is, how you are a total stone up, and that you are going to get stoned again, and again, and a…like a merry-go-round.
@@ -436,10 +435,10 @@ $$f(x) = f(\sqrt[1]{x})$$
 \subsubsection{Geometry Versus Identity}
 
 \begin{align*}
-  \sqrt[3]{x} ↑ 3 &= x
-\\\sqrt[2]{x} ↑ 2 &= x
-\\\sqrt[1]{x} ↑ 1 &= x
-\\\sqrt[0]{x} ↑ 0 &= x \veebar 1 \oplus 0
+  \sqrt[3]{x} ↑ 3 = \sqrt[3]{x ↑ 3} &= x
+\\\sqrt[2]{x} ↑ 2 = \sqrt[3]{x ↑ 2} &= x
+\\\sqrt[1]{x} ↑ 1 = \sqrt[3]{x ↑ 1} &= x
+\\\sqrt[0]{x} ↑ 0 = \sqrt[3]{x ↑ 0} &= x \veebar 1 \oplus 0
 \end{align*}
 \begin{align*}
   \sqrt[3]{x} &=\text{ an edge of a cube}
@@ -710,7 +709,7 @@ $$\sqrt[∓i ÷ e]{∓r} = +1\text{, where $\{r$adicand$\in\mathbb{R}|(+0,+\inft
 \begin{align*}
 \dshyam{} &= ∓1 ÷ 0
 \\\dshyam{} &≠ (x + [x = ∓1]) ÷ 0
-\\x ÷ 0 &= (x × 1) ÷ 0 = x × (1 ÷ 0) = x × \dshyam{}
+\\x ÷ 0 &= (x × 1) ÷ 0 = x × (1 ÷ 0) = x × \dshyam{} = \dshyam × x
 \end{align*}
 
 \noindent{}Cumulating \dshyam{} is as trivial as cumulating any conceptual distance from 0 on the Hindu number circle of reality.
@@ -718,7 +717,7 @@ $$\sqrt[∓i ÷ e]{∓r} = +1\text{, where $\{r$adicand$\in\mathbb{R}|(+0,+\inft
 \begin{gather*}
 -\dshyam{} = |\dshyam{}| = +\dshyam{}
 \\\dshyam{} - \dshyam{} = 0 = \dshyam{} + \dshyam{}
-\\0 - \dshyam{} = \dshyam{} - 0 = \dshyam{} = 0 + \dshyam{} = \dshyam{} + 0
+\\0 - \dshyam{} = 0 + \dshyam{} = \dshyam{} = \dshyam{} - 0 = \dshyam{} + 0
 \\\dshyam{} + (\dshyam{} - 1) = -1 = (\dshyam{} + \dshyam{}) - 1
 \\\dshyam{} + (\dshyam{} + 1) = +1 = (\dshyam{} + \dshyam{}) + 1
 \end{gather*}
@@ -729,7 +728,7 @@ $$\sqrt[∓i ÷ e]{∓r} = +1\text{, where $\{r$adicand$\in\mathbb{R}|(+0,+\inft
 \\+|y| &= \dshyam{} - 1
 \end{align*}
 
-\noindent{}Accumulating \dshyam{} is as trivial as accumulating any conceptual distance from 0 on the Hindu number circle of reality; the spherical graph of $x × n$ either wraps around, or retraces, depending on the parity of x.
+\noindent{}Accumulating \dshyam{} is as trivial as accumulating any conceptual distance from 0 on the Hindu number circle of reality; the Hindu spherical graph of $n × x$ either wraps around, or retraces, depending on the parity of n.
 
 \begin{align*}
 \dshyam{} × x &= 0 × [x = 2 × ⌈y⌉] + \dshyam{} × [x = 2 × ⌊y⌋ - 1]
@@ -774,9 +773,37 @@ $$∫(\dshyam{})dx = \dshyam{} × x + c$$
 \\1-(1÷\dshyam) &= 0.(9)
 \end{align*}
 
-\noindent{}The spherical graph of $x × \dshyam{}$ is a zig-zag; assume \dshyam{} is odd, and the graph fails at $x = \dshyam{} ÷ 2$ $∴$ \dshyam{} is even, and computers must support even memory for \dshyam{}-completeness \fcurve{\fquote{Who needs Hindu numbers of more than 1 Hindu numeral? You can always stretch them across your Hindu memory! Using memory as Hindu metanumerals with place value, and a Hindu memory counter with a leading Hindu numeral.}}.
-\medskip
-\\\dshyam{} is all natural.
+\noindent{}The Hindu spherical graph of $\dshyam{} × x$ is a zig-zag; assume \dshyam{} is odd, and the Hindu spherical graph fails at $x = \dshyam{} ÷ 2$ $∴$ \dshyam{} is even, and computers must support even memory for \dshyam{}-completeness \fcurve{\fquote{Who needs Hindu numbers of more than a Hindu numeral? You can always stretch them across your Hindu memory! Using memory as Hindu metanumerals with place value, and a Hindu memory counter with a leading Hindu numeral.}}.
+\begin{center}
+	\makebox[0cm]{
+		\begin{tikzpicture}
+			\begin{axis}
+				[
+					,axis background/.style={fill=yellow}
+					,width=\textwidth
+					,height=5cm
+					,title={$\dshyam{}×x$ proves \dshyam{} cannot be odd!}
+					,title style={brown}
+					,xlabel={$x$}
+					,ylabel={$y$}
+					,xlabel style={green!80!black}
+					,ylabel style={green!80!black,rotate=-90}
+					,xmin=0
+					,xmax=6
+					,ymin=0
+					,ymax=2
+					,ytick={0,1,2}
+					,xtick={0,1,2,2.5,3,4,5,6}
+					,xticklabels={$2[y]$,$2[y]-1$,$2[y]$,$\dfrac{\dshyam{}}{2}$,$2[y]-1$,$2[y]$,$2[y]-1$,$2[y]$}
+					,yticklabels={0,$\dfrac{\dshyam{}}{2}$,\dshyam{}}
+				]
+				\addplot coordinates{(0,0) (1,2) (2,0) (3,2) (4,0) (5,2) (6,0)};
+				\addplot coordinates{(2.5,0) (2.5,2)};
+			\end{axis}
+		\end{tikzpicture}
+	}
+\end{center}
+\noindent{}\dshyam{} is au naturel.
 
 \subsubsection{Geometric Principles, And Symmetries Of The Universe}
 
@@ -802,7 +829,7 @@ $$∫(\dshyam{})dx = \dshyam{} × x + c$$
 \\(\dshyam{} ÷ (\dshyam{} ÷ -2)&, \dshyam{} ÷ (\dshyam{} ÷ +2))
 \end{align*}
 
-\noindent{}The circumference of the Hindu number circle of reality is $2 × \dshyam{} = 0$.
+\noindent{}The circumference of the Hindu number circle of reality is $\dshyam{} × 2 = 0$.
 \\The diameter of the Hindu number circle of reality is $2 × (\dshyam{} ÷ \pi) ≠ 0$.
 \\The radius of the Hindu number circle of reality is $\dshyam{} ÷ \pi$.
 \\The area of the Hindu number circle of reality is $\pi × ((\dshyam{} ÷ \pi) ↑ 2)$.
@@ -810,7 +837,7 @@ $$∫(\dshyam{})dx = \dshyam{} × x + c$$
 \setcounter{equation}{0}
 \begin{align}
 C &= 2 × \pi × r
-\\2 × \dshyam{} &= 2 × \pi × r
+\\\dshyam{} × 2 &= 2 × \pi × r
 \\\dshyam{} &= \pi × r
 \\\dshyam{} ÷ \pi &= r
 \\\dshyam{} ÷ \pi &= \dshyam{} ÷ \pi
@@ -956,7 +983,7 @@ $$i(x) = -1 × [x = 2 × ⌈y⌉] + 2 × [x = 4 × ⌊y⌋] + i(x) × [x = 2 × 
 \\\hspace*{1.7pt}: After all, I am merely slithering.
 \\\hspace*{1.7pt}: Sure, I was born of \texttt{the\_year}.
 \\\hspace*{1.7pt}: However, you need not fear.
-\\\hspace*{1.7pt}: Ease assured, 't 's all well calculated.
+\\\hspace*{1.7pt}: Ease assured, `t `s all well calculated.
 \\$∴$ Shyam has your anomaly mitigated.
 
 \subsection{Wubba Lubba Dub-Dub!!! \texttt{:D}}
