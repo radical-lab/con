@@ -10,12 +10,10 @@ tex=$2
 ############################################################################################################
 
 g() {
-	[ $? -eq 0 ] && "$tex" --shell-escape "$1.tex";
+	[ $? -eq 0 ] && "$tex" --shell-escape --output-directory svg-inkscape "svg-inkscape/$1.tex";
 }
 f() {
-	"$1" "$2.$3" && g "$2" && g "$2"; # TIC TOC, TEX TOC
-	[ $? -eq 0 ] && [ $3 != tex ] && rm *.tex;
-	rm -f *.aux *.aux\  *.log *.out *.toc;
+	"$1" "$2.$3" "svg-inkscape/$2.tex" && g "$2" #&& g "$2"; # TIC TOC, TEX TOC
 }
 
 printf \\ec;

@@ -280,18 +280,16 @@ All good lawyers give the same love advice, no matter how much you pay, and whet
 
 \subsection{Contrafibularities}
 
-\subsubsection{Fool Me Once, Fool Me Twice}
-
-Blonde jokes ridicule a second attempt at world domi-nation; \hrevenge{}.
+\noindent{}\textbf{Fool Me Once, Fool Me Twice!}
+\\Blonde jokes ridicule a second attempt at world domi-nation; \hrevenge{}.
 \\\fcurve{Deutschland was blonde enough to proceed; lacking the intellectual capacity to succeed.}
-
-\subsubsection{All Jokes Aside}
-The original blonde joke was probably about black Hitler leading the blondes against non-blondes.
+\medskip
+\\\textbf{All Jokes Aside!}
+\\The original blonde joke was probably about black Hitler leading the blondes against non-blondes.
 \\\fcurve{Black Hitler was like black \hjesus{}; they were both \hjews{}, but their followers wære not.}
-
-\subsubsection{Educated Applebys, And Amish Oranges}
-
-Thanks to the little apple song, I now understand the Nazis with their golden angels, and reddish devils; they were led by a blackish badasssnake.
+\medskip
+\\\textbf{Educated Applebys, And Amish Oranges!}
+\\Thanks to the little apple song, I now understand the Nazis with their golden angels, and reddish devils; they were led by a blackish badasssnake.
 
 \section{The Moral Of The Story}
 
@@ -301,8 +299,7 @@ Governments should trust their own citizens, and floss their sources, since spie
 
 \subsection{Shyams' Ethically Contractual User Rights Involving Technological You}%%TODO
 
-I need to prevent unethical behaviour; human subject research \fcurve{tracking users,..} must include audio/video/identification/authentication/..-confirmed age-appropriate uniquely/generatively well-informed consent \fcurve{what is being stored, how it's being stored, how long it will be stored for, how it will be used, what it will be used for, who will have access to it, how it will be accessed, how it will be published/anonymised,..} using technological confirmation \fcurve{uniquely/generatively formally verified by audio/video recording, text-to-speech, eyeball-tracking, highlighting words to be spoken, unhighlighting spoken words as they are confirmed,..}…
-\medskip
+I need to prevent unethical behaviour; all human subject research \fcurve{tracking users,..} must include audio/video/identification/authentication/..-confirmed age-appropriate uniquely/generatively well-informed consent \fcurve{what is being stored, how it's being stored, how long it will be stored for, how it will be used, what it will be used for, who will have access to it, how it will be accessed, how it will be published/anonymised,..} using technological confirmation \fcurve{uniquely/generatively formally verified by audio/video recording, text-to-speech, eyeball-tracking, highlighting words to be spoken, unhighlighting spoken words as they are confirmed,..}…
 \\It may also be worth informing whether authorised personnel have been to the vet, but Edward Snowden exposed vets as patent medicine.
 
 \subsection{Shyams' Health Yajña Accrues Money Soberly}
@@ -367,6 +364,7 @@ Students should be encouraged to show off at \textit{Show, And Tell}.
 \\Discounted toys, sporting equipment, clothing, video games, science kits, text books, stationary inanimate objects,..
 \\Make it all custom, and unsellable.
 
+\newpage
 \section{Authoritah}
 
 \subsection{Horrible Histories}
@@ -773,7 +771,11 @@ $$∫(\dshyam{})dx = \dshyam{} × x + c$$
 \\1-(1÷\dshyam) &= 0.(9)
 \end{align*}
 
-\noindent{}The Hindu spherical graph of $\dshyam{} × x$ is a zig-zag; assume \dshyam{} is odd, and the Hindu spherical graph fails at $x = \dshyam{} ÷ 2$ $∴$ \dshyam{} is even, and computers must support even memory for \dshyam{}-completeness \fcurve{\fquote{Who needs Hindu numbers of more than a Hindu numeral? You can always stretch them across your Hindu memory! Using memory as Hindu metanumerals with place value, and a Hindu memory counter with a leading Hindu numeral.}}.
+\noindent{}\dshyam{} is au naturel.
+
+\subsubsection{Reverse The Parity Of The Graphical Flow}
+
+\noindent{}The Hindu spherical graph of $\dshyam{} × x$ is a zig-zag; assume \dshyam{} is odd, and the Hindu spherical graph fails at $x = \dshyam{} ÷ 2$ $∴$ \dshyam{} is even, and computers must support $2 ↑ x$ memory for \dshyam{}-completeness \fcurve{\fquote{Who needs Hindu numbers of more than a Hindu numeral? You can always stretch them across your Hindu memory! Using memory as Hindu metanumerals with place value, and a Hindu memory counter with a leading Hindu numeral.}}.
 \begin{center}
 	\makebox[0cm]{
 		\begin{tikzpicture}
@@ -786,8 +788,8 @@ $$∫(\dshyam{})dx = \dshyam{} × x + c$$
 					,title style={brown}
 					,xlabel={$x$}
 					,ylabel={$y$}
-					,xlabel style={green!80!black}
-					,ylabel style={green!80!black,rotate=-90}
+					,xlabel style={green!80!black,at={(1,0)},above right,yshift=10pt}
+					,ylabel style={green!80!black,at={(0,1)},above right,yshift=-30pt,rotate=-90}
 					,xmin=0
 					,xmax=6
 					,ymin=0
@@ -805,7 +807,6 @@ $$∫(\dshyam{})dx = \dshyam{} × x + c$$
 \end{center}
 \noindent{}$f(\dshyam{})=1$, which means recursively halving \dshyam{} will return an even number, until $x = 2$; as proven by the recursive application of the graph-theoretic odd assumption, and what is known about geometric principles, and symmetries of the universe.
 $$f(x) = f(x ÷ 2) × [x = 2 × ⌈y⌉] + x × [x = 2 × ⌊y⌋ - 1]$$
-\noindent{}\dshyam{} is au naturel.
 
 \subsubsection{Geometric Principles, And Symmetries Of The Universe}
 
