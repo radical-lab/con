@@ -55,11 +55,11 @@
 	\\\bigskip{\small during}\\\bigskip
 	{\large HE \shyamof{} 12019 \shyamof{} 04 \shyamof{} 01}
 	\\\bigskip\bigskip\bigskip
-	$\vcenter{\hbox{\includesvg[scale=0.666]{swastika}}}$
+	$\vcenter{\hbox{\includesvg[scale=0.666]{\shyamimg{swastika}}}}$
 	\\\bigskip\bigskip\bigskip
-	$\vcenter{\hbox{\includesvg[scale=0.1825]{garuda}}}$
+	$\vcenter{\hbox{\includesvg[scale=0.1825]{\shyamimg{garuda}}}}$
 	\parbox{0.3\textwidth}{\centering{\dmantra}}
-	$\vcenter{\hbox{\includesvg[scale=0.1825]{adurag}}}$
+	$\vcenter{\hbox{\includesvg[scale=0.1825]{\shyamimg{adurag}}}}$
 	\vspace*{\fill}
 }
 \author{}
@@ -68,6 +68,7 @@
 \def\ShYaM{\rm S\kern-.13em\lower-.47em\hbox{\fontsize{.5em}{0em}\selectfont H}\kern-.0555em{}Y\kern-.442em\lower.227em\hbox{A}\kern-.25em{}M}
 
 \def\shyamof{$\circ$}
+\newcommand{\shyamimg}[1]{./img/#1}
 
 \def\ddshyam{\text{\foreignlanguage{sanskrit}{श्याम}}}
 \def\dshyam{\text{\dn "syaama}}
@@ -151,8 +152,8 @@
 \medskip
 \\PSSS: I also expect this will mean a half-dozen papers, a thesis or two, and a paragraph in every textbook on Hindu number theory; because Cueball stroked it for queuing theory, but mine's longer, and size matters.
 
-\includepdf[pages=-]{tealeaf.jpg}
-\includepdf[pages=-]{tealeaves.jpg}
+\includepdf[pages=-]{\shyamimg{tealeaf.jpg}}
+\includepdf[pages=-]{\shyamimg{tealeaves.jpg}}
 
 \section{All The Worlds A Stage}
 
@@ -175,13 +176,13 @@ This is my thesis statement; that $(∓1) ÷ 0$ is my Hindu numerical point!
 \noindent{}The red, black, and white, swastika is my flag!
 
 \begin{center}
-	$\vcenter{\hbox{\includesvg[scale=0.333]{swastika}}}$
+	$\vcenter{\hbox{\includesvg[scale=0.333]{\shyamimg{swastika}}}}$
 \end{center}
 
 \noindent{}Garuḍa is my coat of arms!
 
 \begin{center}
-	$\vcenter{\hbox{\includesvg[scale=0.1825]{garuda}}}$
+	$\vcenter{\hbox{\includesvg[scale=0.1825]{\shyamimg{garuda}}}}$
 \end{center}
 
 \noindent{}The mahā-mantra is my mantra!
@@ -603,7 +604,7 @@ $$x\div\frac{y}{0} = x\times\frac{0}{y} = x\times0 = 0$$
 
 \noindent{}During HE \shyamof{} 12016 \shyamof{} 03 \shyamof{} 20 \shyamof{} 00 \shyamof{} 32, I emailed my proof to a famous mathematician upon request, subjected \fquote{Warning: Algebra Required!}; who responded \fquote{That is a really good point. I was using the convention that 0 = 6 but I should have been much more clear. Or use your method which also works.}.
 
-\includepdf[pages=-]{teatime_@_HE_12016_05_06_07_48_26_777.jpg}
+\includepdf[pages=-]{\shyamimg{teatime_@_HE_12016_05_06_07_48_26_777.jpg}}
 
 \subsubsection{Archaeology 5}
 
