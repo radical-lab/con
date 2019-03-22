@@ -16,12 +16,7 @@
 	\setotherlanguage{sanskrit}
 	\newfontfamily\devanagarifont[Script=Devanagari]{Samyak Devanagari}
 	\setotherlanguage{kannada}
-	%\newfontfamily\kannadafont[Script=Kannada]{Noto Sans Kannada UI}
-	%\newfontfamily\kannadafont[Script=Kannada]{Noto Sans Kannada}
-	\newfontfamily\kannadafont[Script=Kannada]{Noto Serif Kannada}%
-	%\newfontfamily\kannadafont[Script=Kannada]{Lohit Kannada}
-	\newfontfamily\kannadafont[Script=Kannada]{Gubbi}%
-	%\newfontfamily\kannadafont[Script=Kannada]{Navilu}
+	\newfontfamily\kannadafont[Script=Kannada]{Gubbi}
 }
 \usepackage[none]{hyphenat}
 \usepackage{amsfonts}
@@ -29,7 +24,7 @@
 \usepackage{amssymb}
 \usepackage{mathtools}
 \usepackage{unicode-math}
-\usepackage{pgfplots}
+\usepackage{pgfplots}\pgfplotsset{compat=1.15}
 \usepackage{svg}
 \usepackage{pdfpages}
 \usepackage[left=1cm, right=1cm, top=1in, bottom=1in]{geometry}
@@ -201,7 +196,7 @@ $$\sqrt{}$$
 
 \noindent{}I am a Hindu, and I'm taking it all back!
 
-\noindent{}I am also Kannadian; my Pappy Uthappy is a \kkodava{} warrior, and to follow in his footsteps I must perform nārī-maṅgala; the \fstrike{Klingon} \kkodava{} ritual of marrying a tiger by challenging it to a trial by combat with my bare hands, and earning my \kkodava{} name; Shyamakunda Mandepanda Mahesh Uthappa! \fcurve{House Mandepanda would win the \textit{Game Of Thrones}; rawr! We also have pachadak nadapa!!! \texttt{:D}}
+\noindent{}I am also Kannadian; my Pappy Uthappy is a \kkodava{} kṣatriya, and to follow in his footsteps I must perform nārī-maṅgala; the \fstrike{Klingon} \kkodava{} ritual of marrying a tiger by challenging it to a trial by combat with my bare hands, and earning my \kkodava{} name; Shyamakunda Mandepanda Mahesh Uthappa! \fcurve{House Mandepanda would win the \textit{Game Of Thrones}; rawr! We also have pachadak nadapa!!! \texttt{:D}}
 
 \subsection{Stage Fright}
 
@@ -217,8 +212,8 @@ The Nazis are Christian, but used symbols of Hinduism to undermine it; they neve
 \\\hjesus{} has gaps in the history books; it is believed he travelled to India to become a mystic yogi, but it is most likely he became a godman instead; and the Romans killed him because his magic, that wouldn't even fool \textit{Penn \& Teller}, was a threat to their power; even though they lost it all anyway, meanwhile Christianity lives on; et tu brute?
 \\So Saudi Arabian sultans kill witches because they want to prevent representatives of God from liberating their people.
 \\Saudi Arabian sultans are satanic ritualists, while monotheists have ungodly angels; meanwhile magicians can't overthrow the authoritah, nor can they save themselves from death, even though they can others; wherefore art thou magic?
-\medskip
-\\If Nazis are Christian, why else would they use Hinduism instead; if `tweren't for scripted failure?
+\bigskip
+\\If Nazis are Christian, why else would they use Hinduism representation instead; if `tweren't for scripted failure?
 \\The rest of the world worshipfully sacrificed their lives for the Jews; even though Hitler gave them all a chance to save them in the first place.
 \\\textit{Agora} \fcurve{2009} documents how everyone hated the Jews, then they all converted to Christianity, and still hated the Jews; even going so far as to attack them on a Spartan day, when the Jews could not defend themselves; even though the \textit{Decalogue} sent them all to Hell for it.
 \\Obviously Christianity was a failed attempt to passively destroy antisemitism, and the world war was an attempt to actively destroy antisemitism; whilst subliminally conspiring against Hinduism.
@@ -795,8 +790,8 @@ $$∫(\dshyam{})dx = \dshyam{} × x + c$$
 					,title style={brown}
 					,xlabel={$x$}
 					,ylabel={$y$}
-					,xlabel style={green!80!black,at={(1,0)},above right,yshift=10pt}
-					,ylabel style={green!80!black,at={(0,1)},above right,yshift=-30pt,rotate=-90}
+					,xlabel style={green!80!black,at={(1,0)},above right,yshift=-3pt}
+					,ylabel style={green!80!black,at={(0,1)},above right,yshift=3pt,rotate=-90}
 					,xmin=0
 					,xmax=6
 					,ymin=0
