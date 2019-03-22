@@ -257,7 +257,7 @@ The Nazis are Christian, but used symbols of Hinduism to undermine it; they neve
 \noindent{}\textbf{What's't like in prison for everyone?}
 \begin{itemize}[itemsep=0pt, parsep=0pt]
 	\item Nipple cripples, wedgies, and spanked opinions; both of them, if you have a second opinion.
-	\item They man-handle you; including pulling hair, rubbing raw, scratching, and biting. \fcurve{Not just your genitals!}
+	\item They man-handle you; including pulling hair, rubbing raw, scratching, and biting. \fcurve{Not just your planets!}
 	\item In the courtyard, they will befriend you, and ask you if you've been lovely abused; no matter what you say, they will sympathise, relate to it, and invite you to join their gang, which was formed by people like you to protect yourselves; you'll go sit with them, and there will be a large group that's large enough to form a human wall; the guard will come over to see over their shoulders, and check all is well; everyone will say yes, while looking to you encouragingly, and you will agree; as soon as the guard leaves, they will gag `n' bag you.
 	\item If you snitch, they gouge out your eye\fcurve{s}; then they abuse you with fake voices so you cannot snitch; growling \fquote{Fee fi fo fum, I'm gonna stone you in the opinion!}, and squeaking \fquote{Hickory dickory dock, it's time to chuck my rock!}.
 	\item Fights are fake for distracting the guards.
@@ -276,7 +276,7 @@ The Nazis are Christian, but used symbols of Hinduism to undermine it; they neve
 \medskip
 \\Talk to lawyers; people tell them all their sob stories when they want to sue their inmates, guards, prison, and government, all at the same time because their neuroplasticity adapted, and now they spend all their time, and money, on therapy, and love toys.
 But lawyers'll say anything to keep you out of prison for government incentives.
-All good lawyers give the same love advice, no matter how much you pay, and whether you like it, or not; they tell you to be a rockchucker \fcurve{or kittywhisperer}, put out Uranus, be prepared for the worst of it, do not trust anyone, and don't \fstrike{panic} snitch.
+All good lawyers give the same love advice, no matter how much you pay, and whether you like it, orn't; telling you to be a rockchucker \fcurve{or kittywhisperer}, put out Uranus \fcurve{and Pluto}, be prepared for the worst of it, don't trust anyone, and don't \fstrike{panic} snitch.
 \medskip
 \\If you're a Nazi with a swastika tattooed to your forehead, they'll mock you for being a Nazi Christian whose forsaken the Christian cross in favour of Hinduism; the \textit{Stanford Prison Experiment} taught us boredom leads to bullying, which was shortly followed by \textit{Rat Park} teaching us bullying leads to addiction.
 
@@ -301,7 +301,7 @@ Governments should trust their own citizens, and floss their sources, since spie
 
 \subsection{Shyams' Ethically Contractual User Rights Involving Technological You}%%TODO
 
-I need to prevent unethical behaviour; all human subject research \fcurve{tracking users,..} must include audio/video/identification/authentication/..-confirmed age-appropriate uniquely/generatively well-informed consent \fcurve{what is being stored, how it's being stored, how long it will be stored for, how it will be used, what it will be used for, who will have access to it, how it will be accessed, how it will be published/anonymised,..} using technological confirmation \fcurve{uniquely/generatively formally verified by audio/video recording, text-to-speech, eyeball-tracking, highlighting words to be spoken, unhighlighting spoken words as they are confirmed,..}…
+I need to prevent unethical behaviour; all human subject research \fcurve{tracking users, studying users, storing users,..} must include audio/video/identification/authentication/..-confirmed age-appropriate uniquely/generatively well-informed consent \fcurve{what is being stored, how it's being stored, how long it will be stored for, how it will be used, what it will be used for, who will have access to it, how it will be accessed, how it will be published/anonymised,..} using technological confirmation \fcurve{uniquely/generatively formally verified by audio/video recording, text-to-speech, eyeball-tracking, highlighting words to be spoken, unhighlighting spoken words as they are confirmed,..}…
 \\It may also be worth informing whether authorised personnel have been to the vet, but Edward Snowden exposed vets as patent medicine.
 
 \subsection{Shyams' Health Yajña Accrues Money Soberly}
@@ -338,6 +338,8 @@ Health-based economy, where students can spend, save, invest, or outlie, and rep
 \\Only teach list processing prefix functions; operators are inoperable for non-binary operations.
 \medskip
 \\Only teach explicit mathematics; a way of storing knowledge in writing form, instead of neurologically bridge building into the forgetting curve.
+\medskip
+\\Teach consistency, and organisation; LTR should use $<$, and $≤$, while RTL should use $>$, and $≥$.
 \medskip
 \\Use musical notation to teach linguistics as a song; timing, tones, and percussive clicks.
 \medskip
@@ -437,9 +439,9 @@ $$f(x) = f(\sqrt[1]{x})$$
 
 \begin{align*}
   \sqrt[3]{x} ↑ 3 = \sqrt[3]{x ↑ 3} &= x
-\\\sqrt[2]{x} ↑ 2 = \sqrt[3]{x ↑ 2} &= x
-\\\sqrt[1]{x} ↑ 1 = \sqrt[3]{x ↑ 1} &= x
-\\\sqrt[0]{x} ↑ 0 = \sqrt[3]{x ↑ 0} &= x \veebar 1 \oplus 0
+\\\sqrt[2]{x} ↑ 2 = \sqrt[2]{x ↑ 2} &= x
+\\\sqrt[1]{x} ↑ 1 = \sqrt[1]{x ↑ 1} &= x
+\\\sqrt[0]{x} ↑ 0 = \sqrt[0]{x ↑ 0} &= x \veebar 1 \oplus 0
 \end{align*}
 \begin{align*}
   \sqrt[3]{x} &=\text{ an edge of a cube}
