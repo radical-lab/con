@@ -15,6 +15,13 @@
 	\newfontfamily\arabicfont[Script=Arabic]{Titr}
 	\setotherlanguage{sanskrit}
 	\newfontfamily\devanagarifont[Script=Devanagari]{Samyak Devanagari}
+	\setotherlanguage{kannada}
+	%\newfontfamily\kannadafont[Script=Kannada]{Noto Sans Kannada UI}
+	%\newfontfamily\kannadafont[Script=Kannada]{Noto Sans Kannada}
+	\newfontfamily\kannadafont[Script=Kannada]{Noto Serif Kannada}%
+	%\newfontfamily\kannadafont[Script=Kannada]{Lohit Kannada}
+	\newfontfamily\kannadafont[Script=Kannada]{Gubbi}%
+	%\newfontfamily\kannadafont[Script=Kannada]{Navilu}
 }
 \usepackage[none]{hyphenat}
 \usepackage{amsfonts}
@@ -86,6 +93,8 @@
 \def\dchajaka{\text{\dn chajaka}}
 \def\dbakhshali{\text{\dn bakhshaalii}}
 
+\def\kkodava{\text{\foreignlanguage{kannada}{ಕೊಡವ}}}
+
 \def\pal{\text{\foreignlanguage{farsi}{خوارزمی موسى بن محمد}}}
 
 \def\hjews{\text{\foreignlanguage{hebrew}{יהודי}}}
@@ -148,7 +157,7 @@
 \\PS: My email is $[$\texttt{\href{mailto:shyam@shyam.id.au?Subject=Handbook of Robotics, 56th Edition, 12058 H.E.}{shyam@shyam.id.au}}$]$; my wizard shall let it pass if the subject is \texttt{/\^{}Handbook of Robotics, 56th Edition, 12058 H.E.\$/}.
 \medskip
 % If Bill Nye the Science Guy did it; they'd use \fquote{The End Is Nye}.
-\\PSS: I expect the news headlines to be \fquote{The Man Who Knows Everything Divides By Zero}, \fquote{The Man Who Knows Everything Divided By Zero Equals \dshyam{}}, \fquote{Shyam Has Your Anomaly Mitigated, And Even Isn't Odd; Understandably}, \fquote{We Discovered An Undefined Flying Teapot, But We Don't Understand What The Pioneer Plaque Means}, \fquote{We Found Porn, In Space}, \fquote{Space Porn}, \fquote{We Scavenged Scrap Space Junk, And Melted It Down For An Early Retirement}, \fquote{Autoships Discovered Space Junk Missed During The Cleansing Of The Ancients; Luckily We Disabled Autoprocessing, Otherwise We'd've Missed This Bountiful Declaration Of War}, \fquote{We Got It All Wrong} \fcurve{Hindu numerals, Hindu numbers, Hindu integer sequences, Hindu number circles of realities}, \fquote{Mathematics Is Exceptional}, \fquote{Nothing Is Natural}, \fquote{Real Āryans Know \texttt{\textbackslash{}}\fquote{-thing\texttt{\textbackslash{}}}s}, \fquote{Massive Acceration Is Querious}, \fquote{Without Mass, No Acceleration Is Paradoxical}, \fquote{Well, We Just Don't Know…}, \fquote{You Can Run, But You Cann't Hide}, \fquote{Nothing Is Significant}, \fquote{The Leading Authority Of Nothing, Was Right All Along}, \fquote{Computers Are Progressive, But The Languages They Use Aren't}, \fquote{Reality Is Complex}, \fquote{The End Of The Line}, \fquote{The End Is Nigh}, and \fquote{The Nazis Would've Lost, Even If They'd've Won}.
+\\PSS: I expect the news headlines to be \fquote{The Man Who Knows Everything Divides By Zero}, \fquote{The Man Who Knows Everything Divided By Zero Equals \dshyam{}}, \fquote{Shyam Has Your Anomaly Mitigated, And Even Isn't Odd; Understandably}, \fquote{We Discovered An Undefined Flying Teapot, But We Don't Understand What The Pioneer Plaque Means}, \fquote{We Found Alien Porn, In Space}, \fquote{Space Porn}, \fquote{We Scavenged Scrap Space Junk, And Melted It Down For An Early Retirement}, \fquote{Autoships Discovered Space Junk Missed During The Cleansing Of The Ancients; Luckily We Disabled Autoprocessing, Otherwise We'd've Missed This Bountiful Declaration Of War}, \fquote{We Got It All Wrong} \fcurve{Hindu numerals, Hindu numbers, Hindu integer sequences, Hindu number circles of realities}, \fquote{Mathematics Is Exceptional}, \fquote{Nothing Is Natural}, \fquote{Real Āryans Know \texttt{\textbackslash{}}\fquote{-thing\texttt{\textbackslash{}}}s}, \fquote{Massive Acceration Is Querious}, \fquote{Without Mass, No Acceleration Is Paradoxical}, \fquote{Well, We Just Don't Know…}, \fquote{You Can Run, But You Cann't Hide}, \fquote{Nothing Is Significant}, \fquote{The Leading Authority Of Nothing, Was Right All Along}, \fquote{Computers Are Progressive, But The Languages They Use Aren't}, \fquote{Reality Is Complex}, \fquote{The End Of The Line}, \fquote{The End Is Nigh}, and \fquote{The Nazis Would've Lost, Even If They'd've Won}.
 \medskip
 \\PSSS: I also expect this will mean a half-dozen papers, a thesis or two, and a paragraph in every textbook on Hindu number theory; because Cueball stroked it for queuing theory, but mine's longer, and size matters.
 
@@ -164,29 +173,24 @@ I hold the world record for the shortest possible abstract; the empty set.
 \subsection{Just Cause}
 
 This is my thesis statement; that $(∓1) ÷ 0$ is my Hindu numerical point!
-
 \begin{center}
 	\dshyam
 \end{center}
 
 \noindent{}Radical is my logo!
-
-   $$\sqrt{}$$
+$$\sqrt{}$$
 
 \noindent{}The red, black, and white, swastika is my flag!
-
 \begin{center}
 	$\vcenter{\hbox{\includesvg[scale=0.333]{\shyamimg{swastika}}}}$
 \end{center}
 
 \noindent{}Garuḍa is my coat of arms!
-
 \begin{center}
 	$\vcenter{\hbox{\includesvg[scale=0.1825]{\shyamimg{garuda}}}}$
 \end{center}
 
 \noindent{}The mahā-mantra is my mantra!
-
 \begin{center}
 	\parbox{0.3\textwidth}{\centering{\dmantra}}
 \end{center}
@@ -196,6 +200,8 @@ This is my thesis statement; that $(∓1) ÷ 0$ is my Hindu numerical point!
 \noindent{}Tulasī ism' `erb; ki? Jah! Ya!
 
 \noindent{}I am a Hindu, and I'm taking it all back!
+
+\noindent{}I am also Kannadian; my Pappy Uthappy is a \kkodava{} warrior, and to follow in his footsteps I must perform nārī-maṅgala; the \fstrike{Klingon} \kkodava{} ritual of marrying a tiger by challenging it to a trial by combat with my bare hands, and earning my \kkodava{} name; Shyamakunda Mandepanda Mahesh Uthappa! \fcurve{House Mandepanda would win the \textit{Game Of Thrones}; rawr! We also have pachadak nadapa!!! \texttt{:D}}
 
 \subsection{Stage Fright}
 
@@ -578,7 +584,7 @@ $$(1÷11)_{01} = (1÷2)_{10}$$
 
 \subsubsection{Archaeology 1}
 
-\noindent{}During HE \shyamof{} 12015 \shyamof{} 06 \shyamof{} 15 \shyamof{} 11 \shyamof{} 41, my Uncle emailed \fquote{using latin is fine if you are communicating to friends, otherwise you will sound like a wanker. Obsessing about points of little importance and rambling, sending out every thought bubble will make you sound like a lunatic.}.
+\noindent{}During HE \shyamof{} 12015 \shyamof{} 06 \shyamof{} 15 \shyamof{} 11 \shyamof{} 41, my Uncle Huggie emailed \fquote{using latin is fine if you are communicating to friends, otherwise you will sound like a wanker. Obsessing about points of little importance and rambling, sending out every thought bubble will make you sound like a lunatic.}.
 
 \subsubsection{Archaeology 2}
 
@@ -598,7 +604,7 @@ $$x\div\frac{y}{0} = x\times\frac{0}{y} = x\times0 = 0$$
 
 \subsubsection{Archaeology 3}
 
-\noindent{}During HE \shyamof{} 12015 \shyamof{} 09 \shyamof{} 24 \shyamof{} 14 \shyamof{} 11 \shyamof{} 03, my Uncle emailed \fquote{Apologises if I appear not to be reading what you are saying, I don’t have much time to devote to this as I have been replying in between doing work. As I said earlier, it has been too long since I studied maths and have forgotten most of what I learnt and I don’t have time to back and research the topics to jog my memory.}.
+\noindent{}During HE \shyamof{} 12015 \shyamof{} 09 \shyamof{} 24 \shyamof{} 14 \shyamof{} 11 \shyamof{} 03, my Uncle Huggie emailed \fquote{Apologises if I appear not to be reading what you are saying, I don’t have much time to devote to this as I have been replying in between doing work. As I said earlier, it has been too long since I studied maths and have forgotten most of what I learnt and I don’t have time to back and research the topics to jog my memory.}.
 
 \subsubsection{Archaeology 4}
 
@@ -1003,18 +1009,3 @@ $$i(x) = -1 × [x = 2 × ⌈y⌉] + 2 × [x = 4 × ⌊y⌋] + i(x) × [x = 2 × 
 \\Dot nodal vertices hyperlinked to \LaTeX{} math mode; challenge accepted. \fcurve{Not sure if dotted HTML hyperlinks will work in \LaTeX{} PDFs.}
 
 \end{document}\phantom{of the opera}\phantom{menace}
-
-%%plan life and narrate
-%* emacs  ; need to stop using vim, and rtfm
-%* gympool; goto, or get my bandwidth back
-%* √teapot; since i am doing this for enr208 anyway https://www.khanacademy.org/
-%* elisp  ; to fix emacs the emotionally maniacal and carcinogenic system
-%* λjam   ; need to save up, but probably best to stop going to conferences, and get a computer that actually works
-%* enr208 ; this is the worst part of my degree, having to actually study
-%* (λ)    ; svg into stickers!
-%* √λ     ; since lisp's all λ
-%* √distro; linux from scratch
-%* √rpg   ; prolog, mercury,..
-%
-%sombrero conman should use indian accent like ross geller in friends, and maybe ted mosby in how i met your mother
-%%need to study sir humphrey appleby in yes, (prime) minister
