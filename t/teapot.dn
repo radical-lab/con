@@ -17,6 +17,7 @@
 	\newfontfamily\devanagarifont[Script=Devanagari]{Samyak Devanagari}
 	\setotherlanguage{kannada}
 	\newfontfamily\kannadafont[Script=Kannada]{Gubbi}
+	\newfontfamily\egyptianfont{Aegyptus}
 }
 \usepackage[none]{hyphenat}
 \usepackage{amsfonts}
@@ -72,6 +73,11 @@
 \def\shyamof{$\circ$}
 \newcommand{\shyamimg}[1]{./img/#1}
 
+\def\hsub{\text{\egyptianfont 𓂻}}% D54
+\def\hadd{\text{\egyptianfont 𓂽}}% D55
+\def\hdance{\text{\egyptianfont 𓀠}}% A28
+
+\def\ddgandharva{\text{\foreignlanguage{sanskrit}{गन्धर्व विवाह}}}
 \def\ddshyamantaka{\text{\foreignlanguage{sanskrit}{श्यामन्तक}}}
 \def\ddshyam{\text{\foreignlanguage{sanskrit}{श्याम}}}
 \def\dshyam{\text{\dn "syaama}}
@@ -404,9 +410,9 @@ Students should be encouraged to show off at \textit{Show, And Tell}.
 
 \subsubsection{Fraudulent Fibonacci, And Lying Lovelace}
 
-\noindent{}During HE \shyamof{} 11202, Leonardo Bonacci fibbed; he plagiarised a Hindu integer sequence, invented during HE \shyamof{} [10501, 10600]!
+\noindent{}During HE \shyamof{} 11202, Leonardo Bigollo Bonacci fibbed; he plagiarised a Hindu integer sequence, invented during HE \shyamof{} [10501, 10600]!
 \bigskip
-\\This is like attributing Ada Lovelace as the first programmer, even though Charles Babbage must have tested his design before applying for funding to implement it!
+\\This is like attributing Ada Lovelace as the first programmer, even though Charles Babbage KH FRS must have tested his design before applying for funding to implement it!
 \bigskip
 \\Ada Lovelace commented that Hindu numbers could be used to represent innumerate concepts, but the Pythagoreans were mathematical musicians, and \pal{}' Persian algebra has been applied to innumerate concepts, and before Hindu numerals were invented; they used positional letters of the alphabet to represent Hindu numerate concepts!
 \bigskip
@@ -865,6 +871,8 @@ C &= 2 × \pi × r
 \\All these topological structures, formed by the atomic bonding of points, are topical.
 \medskip
 \\Infinites are contextually different, based on their higher dimensional vectors.
+\medskip
+\\Nothing is a fixed point, from which we walk in \hadd{} additive, and \hsub{} subtractive, directions; as Egyptians \hdance{} pharaonic dance with continuity along the Hindu number circle of reality; as honey bees $0$ round dance, and $8$ waggle dance, along trips down memory lanes.
 
 \subsubsection{Real Āryans Know \fquote{-thing}s}
 
