@@ -780,7 +780,7 @@ $$∫(\dshyam{})dx = \dshyam{} × x + c$$
 
 \subsubsection{Reverse The Parity Of The Graphical Flow}
 
-\noindent{}The Hindu spherical graph of $\dshyam{} × x$ is a zig-zag; assume \dshyam{} is odd, and the Hindu spherical graph fails at $x = \dshyam{} ÷ 2$ $∴$ \dshyam{} is even, and computers must support $2 ↑ x$ memory for \dshyam{}-completeness \fcurve{\fquote{Who needs Hindu numbers of more than a Hindu numeral? You can always stretch them across your Hindu memory! Using memory as Hindu metanumerals with place value, and a Hindu memory counter with a leading Hindu numeral.}}.
+\noindent{}The Hindu spherical graph of $|\dshyam{} × x|$ is a zig-zag; assume \dshyam{} is odd, and the Hindu spherical graph fails at $x = \dshyam{} ÷ ∓2$ $∴$ \dshyam{} is even, and computers must support $2 ↑ x$ memory for \dshyam{}-completeness \fcurve{\fquote{Who needs Hindu numbers of more than a Hindu numeral? You can always stretch them across your Hindu memory! Using memory as Hindu metanumerals with place value, and a Hindu memory counter with a leading Hindu numeral.}}.
 \begin{center}
 	\makebox[0cm]{
 		\begin{tikzpicture}
@@ -789,7 +789,7 @@ $$∫(\dshyam{})dx = \dshyam{} × x + c$$
 					,axis background/.style={fill=yellow}
 					,width=\textwidth
 					,height=5cm
-					,title={$\dshyam{}×x$ proves \dshyam{} cannot be odd!}
+					,title={$|\dshyam{} × x|$ proves \dshyam{} cannot be odd!}
 					,title style={brown}
 					,xlabel={$x$}
 					,ylabel={$y$}
@@ -801,11 +801,40 @@ $$∫(\dshyam{})dx = \dshyam{} × x + c$$
 					,ymax=2
 					,ytick={0,1,2}
 					,xtick={0,1,2,2.5,3,4,5,6}
-					,xticklabels={$2[y]$,$2[y]-1$,$2[y]$,$\dfrac{\dshyam{}}{2}$,$2[y]-1$,$2[y]$,$2[y]-1$,$2[y]$}
+					,xticklabels={$2[y]$,$2[y]-1$,$2[y]$,$\dfrac{\dshyam{}}{∓2}$,$2[y]-1$,$2[y]$,$2[y]-1$,$2[y]$}
 					,yticklabels={0,$\dfrac{\dshyam{}}{2}$,\dshyam{}}
 				]
 				\addplot coordinates{(0,0) (1,2) (2,0) (3,2) (4,0) (5,2) (6,0)};
 				\addplot coordinates{(2.5,0) (2.5,2)};
+			\end{axis}
+		\end{tikzpicture}
+	}
+\end{center}
+\begin{center}
+	\makebox[0cm]{
+		\begin{tikzpicture}
+			\begin{axis}
+				[
+					,axis background/.style={fill=yellow}
+					,width=\textwidth
+					,height=5cm
+					,title={$|\dshyam{} × x|$ proves \dshyam{} cannot be odd!}
+					,title style={brown}
+					,xlabel={$x$}
+					,ylabel={$y$}
+					,xlabel style={green!80!black,at={(1,0)},above right,yshift=-3pt}
+					,ylabel style={green!80!black,at={(0,1)},above right,yshift=3pt,rotate=-90}
+					,xmin=0
+					,xmax=6
+					,ymin=0
+					,ymax=2
+					,ytick={0,1,2}
+					,xtick={0,1,2,3,3.5,4,5,6}
+					,xticklabels={$2[y]$,$2[y]-1$,$2[y]$,$2[y]-1$,$\dfrac{\dshyam{}}{∓2}$,$2[y]$,$2[y]-1$,$2[y]$}
+					,yticklabels={0,$\dfrac{\dshyam{}}{2}$,\dshyam{}}
+				]
+				\addplot coordinates{(0,0) (1,2) (2,0) (3,2) (4,0) (5,2) (6,0)};
+				\addplot coordinates{(3.5,0) (3.5,2)};
 			\end{axis}
 		\end{tikzpicture}
 	}
