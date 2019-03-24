@@ -806,7 +806,7 @@ $$∫(\dshyam{})dx = \dshyam{} × x + c$$
 					,ymax=2
 					,ytick={0,1,2}
 					,xtick={0,1,2,2.5,3,4,5,6}
-					,xticklabels={$2[y]$,$2[y]-1$,$2[y]$,$\dfrac{\dshyam{}}{∓2}$,$2[y]-1$,$2[y]$,$2[y]-1$,$2[y]$}
+					,xticklabels={$2[y]$,$2[y]-1$,$2[y]$,$\dfrac{\dshyam{}}{|∓2|}$,$2[y]-1$,$2[y]$,$2[y]-1$,$2[y]$}
 					,yticklabels={0,$\dfrac{\dshyam{}}{2}$,\dshyam{}}
 				]
 				\addplot coordinates{(0,0) (1,2) (2,0) (3,2) (4,0) (5,2) (6,0)};
@@ -823,6 +823,8 @@ $$∫(\dshyam{})dx = \dshyam{} × x + c$$
 					,axis background/.style={fill=yellow}
 					,width=\textwidth
 					,height=3cm
+					,title={$f(x) = |\dshyam{} × x|$}
+					,title style={brown}
 					,xlabel={$x$}
 					,ylabel={$y$}
 					,xlabel style={green!80!black,at={(1,0)},above right,yshift=-3pt}
@@ -833,7 +835,7 @@ $$∫(\dshyam{})dx = \dshyam{} × x + c$$
 					,ymax=2
 					,ytick={0,1,2}
 					,xtick={0,1,2,3,3.5,4,5,6}
-					,xticklabels={$2[y]$,$2[y]-1$,$2[y]$,$2[y]-1$,$\dfrac{\dshyam{}}{∓2}$,$2[y]$,$2[y]-1$,$2[y]$}
+					,xticklabels={$2[y]$,$2[y]-1$,$2[y]$,$2[y]-1$,$\dfrac{\dshyam{}}{|∓2|}$,$2[y]$,$2[y]-1$,$2[y]$}
 					,yticklabels={0,$\dfrac{\dshyam{}}{2}$,\dshyam{}}
 				]
 				\addplot coordinates{(0,0) (1,2) (2,0) (3,2) (4,0) (5,2) (6,0)};
@@ -893,6 +895,38 @@ $$∫(\dshyam{})dx = \dshyam{} × x + c$$
 					,ymax=2
 					,ytick={-2,-1,0,1,2}
 					,xtick={0,1,2,3,3.5,4,5,6}
+					,xticklabels={$2[y]$,$2[y]-1$,$2[y]$,$2[y]-1$,$\dfrac{\dshyam{}}{-2}$,$2[y]$,$2[y]-1$,$2[y]$}
+					,yticklabels={\dshyam{},$\dfrac{\dshyam{}}{-2}$,0,$\dfrac{\dshyam{}}{+2}$,\dshyam{}}
+				]
+				\addplot[blue]coordinates{(0,0) (1,2)};
+				\addplot[blue]coordinates{(1,-2) (3,2)};
+				\addplot[blue]coordinates{(3,-2) (5,2)};
+				\addplot[blue]coordinates{(5,-2) (6,0)};
+				\addplot[red]coordinates{(3.5,-2) (3.5,2)};
+			\end{axis}
+		\end{tikzpicture}
+	}
+\end{center}
+\begin{center}
+	\makebox[0cm]{
+		\begin{tikzpicture}
+			\begin{axis}
+				[
+					,axis background/.style={fill=yellow}
+					,width=\textwidth
+					,height=5cm
+					,title={$f(x) = \dshyam{} × x$}
+					,title style={brown}
+					,xlabel={$x$}
+					,ylabel={$y$}
+					,xlabel style={green!80!black,at={(1,0)},above right,yshift=-3pt}
+					,ylabel style={green!80!black,at={(0,1)},above right,yshift=3pt,rotate=-90}
+					,xmin=0
+					,xmax=6
+					,ymin=-2
+					,ymax=2
+					,ytick={-2,-1,0,1,2}
+					,xtick={0,1,2,3,3.5,4,5,6}
 					,xticklabels={$2[y]$,$2[y]-1$,$2[y]$,$2[y]-1$,$\dfrac{\dshyam{}}{2}$,$2[y]$,$2[y]-1$,$2[y]$}
 					,yticklabels={\dshyam{},$\dfrac{\dshyam{}}{-2}$,0,$\dfrac{\dshyam{}}{+2}$,\dshyam{}}
 				]
@@ -901,6 +935,36 @@ $$∫(\dshyam{})dx = \dshyam{} × x + c$$
 				\addplot[blue]coordinates{(3,-2) (5,2)};
 				\addplot[blue]coordinates{(5,-2) (6,0)};
 				\addplot[red]coordinates{(3.5,-2) (3.5,2)};
+			\end{axis}
+		\end{tikzpicture}
+	}
+\end{center}
+\begin{center}
+	\makebox[0cm]{
+		\begin{tikzpicture}
+			\begin{axis}
+				[
+					,axis background/.style={fill=yellow}
+					,width=\textwidth
+					,height=5cm
+					,xlabel={$x$}
+					,ylabel={$y$}
+					,xlabel style={green!80!black,at={(1,0)},above right,yshift=-3pt}
+					,ylabel style={green!80!black,at={(0,1)},above right,yshift=3pt,rotate=-90}
+					,xmin=0
+					,xmax=6
+					,ymin=-2
+					,ymax=2
+					,ytick={-2,-1,0,1,2}
+					,xtick={0,1,2,2.5,3,4,5,6}
+					,xticklabels={$2[y]$,$2[y]-1$,$2[y]$,$\dfrac{\dshyam{}}{-2}$,$2[y]-1$,$2[y]$,$2[y]-1$,$2[y]$}
+					,yticklabels={\dshyam{},$\dfrac{\dshyam{}}{-2}$,0,$\dfrac{\dshyam{}}{+2}$,\dshyam{}}
+				]
+				\addplot[blue]coordinates{(0,0) (1,2)};
+				\addplot[blue]coordinates{(1,-2) (3,2)};
+				\addplot[blue]coordinates{(3,-2) (5,2)};
+				\addplot[blue]coordinates{(5,-2) (6,0)};
+				\addplot[red]coordinates{(2.5,-2) (2.5,2)};
 			\end{axis}
 		\end{tikzpicture}
 	}
