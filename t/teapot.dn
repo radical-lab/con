@@ -1,4 +1,4 @@
-\documentclass[12pt,a4paper,oneside]{article}% calculus probably makes more sense in a different mathematical system, or from a different mathematical perspective; i never really liked division, but i think it was because everyone overcomplicated it by walking through doors,.; f(x,y) = x÷y = (1+f(x-y,y))×[0≤x] + (-1+r(x+y,y))×[x<0]
+\documentclass[12pt,a4paper,oneside]{article}% calculus, and negative geometry, probably makes more sense in a different mathematical system, or from a different mathematical perspective; i never really liked division either, but i think it was because everyone overcomplicated it by walking through doors,.; f(x,y) = x÷y = (1+f(x-y,y))×[0≤x] + (-1+r(x+y,y))×[x<0]
 
 \usepackage[utf8x]{inputenc}
 \usepackage[T1]{fontenc}
@@ -1093,7 +1093,7 @@ C &= 2 × \pi × r
 \\\dshyam{}(0)=0; Makes more sense than…
 \\\dshyam{}(0)=\dshyam{}(); When considering distance from zero as significant.
 \medskip
-\\a÷a=1; If `tweren't for this…
+\\a÷a=1; If 'tweren't for this…
 \\0÷0=1; Dilemma!
 \medskip
 \\d=dilemma;
@@ -1170,4 +1170,4 @@ $$i(x) = -1 × [x = 2 × ⌈y⌉] + 2 × [x = 4 × ⌊y⌋] + i(x) × [x = 2 × 
 
 \noindent{}Eat the poisonous red apple pill, instead of the healthy blue berry pill; follow the bunny; give the Mad Hatter some chuckie chuckie; use any key to escape, and query life, the multiverse, and everything.
 
-\end{document}\phantom{of the opera}\phantom{menace}% we sort greatest-to-lowest for the sake of implicit consistency; -a+b = b-a, where implicit is considered elegant
+\end{document}\phantom{of the opera}\phantom{menace}% we sort greatest-to-lowest for the sake of implicit consistency; -a+b = b-a, where implicit is considered elegant; numbers are also sorted greatest-to-lowest for decimal fractions, since starting at the other end of π is…
