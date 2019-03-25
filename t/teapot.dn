@@ -1,4 +1,4 @@
-\documentclass[12pt,a4paper,oneside]{article}
+\documentclass[12pt,a4paper,oneside]{article}% calculus probably makes more sense in a different mathematical system, or from a different mathematical perspective; i never really liked division, but i think it was because everyone overcomplicated it by walking through doors,.; f(x,y) = x÷y = (1+f(x-y,y))×[0≤x] + (-1+r(x+y,y))×[x<0]
 
 \usepackage[utf8x]{inputenc}
 \usepackage[T1]{fontenc}
@@ -132,8 +132,7 @@
 \medskip
 \\My name is Shyam, and I'm mad as a Hatter!
 \medskip
-\\You should just give me a PHD \fstrike{egregia \=c laude} mahā saha jaya, without requesting the final kobayashi maru subject for my bachelors, and accept me as \textit{The Doctor Of Mathematics}; so \fcurve{when they call for a doctor during emergencies}, I can burst into the room, and announce \fquote{I am The Doctor!}, and everyone will query \fquote{Doctor Who?}!! \fcurve{\textit{Benevolent Doctor For Life, The Universe, And Everything}}
-\medskip
+\\You should just give me a PHD \fstrike{egregia \=c laude} mahā saha jaya, without requesting the final kobayashi maru subject for my bachelors, and accept me as \textit{The Doctor Of Mathematics}; so \fcurve{when they call for a doctor during emergencies}, I can burst into the room, and announce \fquote{I am The Doctor!}, and everyone will query \fquote{Doctor Who?}!! \fcurve{\textit{Benevolent Doctor For Life, The Multiverse, And Everything}}\medskip
 \\Śyāma is how you pronounce Shyam, and \dshyam{} is how you spell Śyāma; \dshyam{} is one of the 108 names of \dkrishna{}, an \davatar{} of \dvishnu{}, hunted to death by an archer, after singing the \dgita{}; a conversation, where he peer pressures a friend into killing their relatives, and friends, to score \dkarma{} points!!! \texttt{:D}
 \medskip
 \\My favourite real integers are; \dshyam{}, -1, 0, 1, 2, 3, 6, 10, 11, 16, 32, 42, 64, 69, 72, 73, 83, 89, 101, 108, 1337, 1727, 1989, 2072, 2073, 2414, 2419, 2914, 2919, 8730, 11989, 12072, 12073, 35000000, and \dshyam{}.\medskip
@@ -1112,7 +1111,7 @@ C &= 2 × \pi × r
 %note to self
 %do not go into relativity nor perpetual motion machines nor spirituality; https://time.is/
 %is using ice perpetual? the ice will heat, and then use the heat; refreezing the ice!!! :D
-%magnetogravitational waves, blackholes, darkmatter, antimatter, mirrormatter,..
+%magnetogravitational waves, blackholes, darkmatter, antimatter, mirrormatter, string theory, time travel,..
 
 \subsection{I Need An Adult}
 
@@ -1164,11 +1163,11 @@ $$i(x) = -1 × [x = 2 × ⌈y⌉] + 2 × [x = 4 × ⌊y⌋] + i(x) × [x = 2 × 
 \\Except for \textit{Toke Culture}; since it is not covered by the FOI of any country involved, and I deny everything!!! \texttt{:D \#Plausible\_Deniability}
 \bigskip
 \\Wanted to do this in \LaTeX{}, and dot.
-\\Dot for graph theoretic map of dependencies that lead to \dshyam{} reference points; what I want from Pr∞fWiki, the most useful mathematical wiki on Sir Timothy John Berners-Lee OM KBE FRS FREng FRSA FBCS' WWW.
+\\Dot for graph-theoretic map of dependencies that lead to \dshyam{} reference points; what I want from Pr∞fWiki, the most useful mathematical wiki on Sir Timothy John Berners-Lee OM KBE FRS FREng FRSA FBCS' WWW.
 \\Dot nodal vertices hyperlinked to \LaTeX{} math mode; challenge accepted. \fcurve{Not sure if dotted HTML hyperlinks will work in \LaTeX{} PDFs.}
 
-\subsection{Escape}
+\subsection{Down The Rabbit Hole}
 
-\noindent{}Eat the poisonous red apple pill, instead of the healthy blue berry pill.
+\noindent{}Eat the poisonous red apple pill, instead of the healthy blue berry pill; follow the bunny; give the Mad Hatter some chuckie chuckie; use any key to escape, and query life, the multiverse, and everything.
 
-\end{document}\phantom{of the opera}\phantom{menace}
+\end{document}\phantom{of the opera}\phantom{menace}% we sort greatest-to-lowest for the sake of implicit consistency; -a+b = b-a, where implicit is considered elegant
