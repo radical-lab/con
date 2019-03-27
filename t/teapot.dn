@@ -77,6 +77,8 @@
 \def\hadd{\text{\egyptianfont 𓂽}}% D55
 \def\hdance{\text{\egyptianfont 𓀠}}% A28
 
+\def\dtrimurti{\text{\dn trimuurti}}
+\def\dmahavishnu{\text{\dn mahaavi.s.nu}}
 \def\ddgandharva{\text{\foreignlanguage{sanskrit}{गन्धर्व विवाह}}}
 \def\ddshyamantaka{\text{\foreignlanguage{sanskrit}{श्यामन्तक}}}
 \def\ddshyam{\text{\foreignlanguage{sanskrit}{श्याम}}}
@@ -99,6 +101,7 @@
 
 \def\pal{\text{\foreignlanguage{farsi}{خوارزمی موسى بن محمد}}}
 
+\def\hmilkhemetmitzvah{\text{\foreignlanguage{hebrew}{מצווה מלחמת}}}
 \def\hjews{\text{\foreignlanguage{hebrew}{יהודי}}}
 \def\hjesus{\text{\foreignlanguage{hebrew}{ישוע}}}
 \def\hrevenge{\text{\foreignlanguage{hebrew}{היהודים נקמת}}}
@@ -162,6 +165,7 @@
 \medskip
 \\PSSS: I also expect this will mean a half-dozen papers, a thesis or two, and a paragraph in every textbook on Hindu number theory; because Cueball stroked it for queuing theory, but mine's longer, and size matters.
 
+% i made an astrological predication once, and it came true; my first, my last
 \includepdf[pages=-]{\shyamimg{tealeaf.jpg}}
 \includepdf[pages=-]{\shyamimg{tealeaves.jpg}}
 
@@ -416,7 +420,7 @@ Students should be encouraged to show off at \textit{Show, And Tell}.
 \bigskip
 \\Ada Lovelace commented that Hindu numbers could be used to represent innumerate concepts, but the Pythagoreans were mathematical musicians, and \pal{}' Persian algebra has been applied to innumerate concepts, and before Hindu numerals were invented; they used positional letters of the alphabet to represent Hindu numerate concepts!
 \bigskip
-\\Musical algorithms, and programs, probably predate mathematical, and computational, algorithms, and programs!
+\\Musical algorithms, and programs, probably predate mathematical, and computational, algorithms, and programs!% the romans were programming tablets; but i don't know how historically reliable asterix, and obelix, are
 
 \subsection{A Defining Point}
 
@@ -648,7 +652,7 @@ x &= 0 ÷ 0
 $$\sqrt[i ÷ e]{r} = \sqrt[i]{r ↑ e} = \sqrt[i]{r} ↑ e = r ↑ (e ÷ i) = r ↓ (i ÷ e)$$
 
 \noindent{}Infinitesimals approach zero, so where do infinites tend towards? It's the same point!
-$$\sqrt[∓i ÷ e]{∓r} = +1\text{, where $\{r$adicand$\in\mathbb{R}|(+0,+\infty)\}\land\{i$ndex$\in\mathbb{R}|[+1,+1]\}\land\{e$xponent$\in\mathbb{R}|[+0,+0]\}$}$$
+$$\sqrt[∓i ÷ e]{∓r} = +1 \oplus +0\text{, where $\{r$adicand$\in\mathbb{R}|(+0,+\infty)\}\land\{i$ndex$\in\mathbb{R}|[+1,+1]\}\land\{e$xponent$\in\mathbb{R}|[+0,+0]\}$}$$
 
 \noindent{}The Hindu number of sides of a circle geometrically proves the existence of \dshyam{}.
 \\The Hindu number of edges of a sphere geometrically proves the existence of \dshyam{}.
@@ -657,52 +661,48 @@ $$\sqrt[∓i ÷ e]{∓r} = +1\text{, where $\{r$adicand$\in\mathbb{R}|(+0,+\inft
 \subsubsection{Formal Methods}
 
 \noindent{}\textbf{Direct proof!}
-\begin{itemize}%[itemsep=-1pt, parsep=-1pt, labelsep=0pt]
+\begin{itemize}
 	\item[:] $\!\begin{aligned}[t]1729 &= (9 ↑ 3) + (10 ↑ 3) \\&= (9 ↑ (108÷36)) + (10 ↑ (108÷36)) \\&= (\sqrt[36]{9} ↑ 108) + (\sqrt[36]{10} ↑ 108) \\&= \sqrt[36]{9 ↑ 108} + \sqrt[36]{10 ↑ 108}\end{aligned}$
 	\item[:] $\!\begin{aligned}[t]1729 &= \sqrt[3]{1} + \sqrt[3]{5159780352} \\&= \sqrt[108 ÷ 36]{1} + \sqrt[108 ÷ 36]{5159780352} \\&= (\sqrt[108]{1} ↑ 36) + (\sqrt[108]{5159780352} ↑ 36) \\&= \sqrt[108]{1 ↑ 36} + \sqrt[108]{5159780352 ↑ 36}\end{aligned}$
-	\item[\hspace*{1.7pt}$∴$] $\sqrt[i ÷ e]{r} = \sqrt[i]{r ↑ e} = \sqrt[i]{r} ↑ e = r ↑ (e ÷ i) = r ↓ (i ÷ e)$
+	\item[$∴$] $\sqrt[i ÷ e]{r} = \sqrt[i]{r ↑ e} = \sqrt[i]{r} ↑ e = r ↑ (e ÷ i) = r ↓ (i ÷ e)$
 \end{itemize}
 
-%%probably don't need to prove, since this is all unreferenced anyway
-%the proofs are implicit
-%
-%Argument Structure
-%P = P(1) ∧ P(2) ∧ P(3) ∧ …
-%Q = C(0)
-%P → Q
-%
-%Direct Proofs
-%Assume P is true
-%Deduce Q is true
-%∵ P → Q
-%
-%Contrapositive Proofs
-%Assume Q is false
-%Deduce P is false
-%∵ (P → Q) = (¬Q → ¬P)
-%
-%Contradictory Proofs
-%Assume P is true
-%Assume Q is false
-%Disprove P ∧ Q
-%∵ (P → Q) = ¬(P ∧ ¬Q)
-%
-%Trivial Proofs
-%Trivially true when ⊨Q(x)
-%∵ ∀x: P(x) → Q(x)
-%
-%Vacuous Proofs
-%Vacuously true when ⊭P(x)
-%∵ ∀x: P(x) → Q(x)
-%
-%Counterexample Disproofs
-%Prove ¬P
-%∵ ¬P → P
-%:  T → F = F
-%
-%Inductive Proofs
-%(P(1) ∧ (∀k: P(k) → P(k + 1))) → (∀n: P(n)), where k ≥ 1 ≤ n
-%
+\newpage
+\noindent{}\textbf{Contrapositive proof!}
+\begin{itemize}
+	\item[:] $r ↑ (0 ÷ 1) ≠ r ↓ (1 ÷ 0)$
+	\item[$∴$] $\dshyam{} \not\in ℝ$
+\end{itemize}
+
+\noindent{}\textbf{Proof by contradiction!}
+\begin{itemize}
+	\item[:] $r ↑ (0 ÷ 1) = r ↓ (1 ÷ 0)$
+	\item[$∴$] $\dshyam{} \not\in ℝ$
+\end{itemize}
+
+\noindent{}\textbf{Trivial, and vacuous, proof!}
+\begin{itemize}
+	\item[:] $r ↑ (0 ÷ 1) ≠ r ↓ (1 ÷ 0)$
+	\item[$∴$] $\dshyam{} \in ℝ$
+\end{itemize}
+
+\noindent{}\textbf{Proof by counterexample!}
+\begin{itemize}
+	\item[:] $r ↑ (e ÷ i) ≠ r ↓ (i ÷ e)$
+\end{itemize}
+
+\noindent{}\textbf{Proof by induction!}
+\begin{itemize}
+	\item[:] $1 ↑ (0 ÷ 1) = 1 ↓ (1 ÷ 0)$
+	\item[:]
+		\begin{itemize}
+			\item[:] $2 ↑ (0 ÷ 1) = 2 ↓ (1 ÷ 0)$
+			\item[$∴$] $3 ↑ (0 ÷ 1) = 3 ↓ (1 ÷ 0)$
+		\end{itemize}
+	\item[$∴$] $r ↑ (0 ÷ 1) = r ↓ (1 ÷ 0)$
+\end{itemize}
+
+%%
 %https://github.com/Shyam-Has-Your-Anomaly-Mitigated/Shyamscript/blob/cf0881840476c166fb5162f50bb26b125b7a89e7/hmm/games/psychic
 %http://shyam.id.au/mowgli/
 %https://github.com/Shyam-Has-Your-Anomaly-Mitigated/Shyamscript/blob/master/*%E0%A4%B6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AE
@@ -712,7 +712,6 @@ $$\sqrt[∓i ÷ e]{∓r} = +1\text{, where $\{r$adicand$\in\mathbb{R}|(+0,+\inft
 \subsubsection{Mathematics Is Exceptional!}
 
 \noindent{}As radical evaluations except a debatable sign of functionality…
-
 \begin{align*}
 \dshyam{} &= ∓1 ÷ 0
 \\\dshyam{} &≠ (x + [x = ∓1]) ÷ 0
@@ -720,7 +719,6 @@ $$\sqrt[∓i ÷ e]{∓r} = +1\text{, where $\{r$adicand$\in\mathbb{R}|(+0,+\inft
 \end{align*}
 
 \noindent{}Cumulating \dshyam{} is as trivial as cumulating any conceptual distance from 0 on the Hindu number circle of reality.
-
 \begin{gather*}
 -\dshyam{} = |\dshyam{}| = +\dshyam{}
 \\\dshyam{} - \dshyam{} = 0 = \dshyam{} + \dshyam{}
@@ -728,7 +726,6 @@ $$\sqrt[∓i ÷ e]{∓r} = +1\text{, where $\{r$adicand$\in\mathbb{R}|(+0,+\inft
 \\\dshyam{} + (\dshyam{} - 1) = -1 = (\dshyam{} + \dshyam{}) - 1
 \\\dshyam{} + (\dshyam{} + 1) = +1 = (\dshyam{} + \dshyam{}) + 1
 \end{gather*}
-
 \begin{align*}
 -|y| &= \dshyam{} + 1 = 1 + \dshyam{} = 1 - \dshyam{}
 \\|y| &= |\dshyam{} + 1| = |\dshyam{} - 1|
@@ -736,7 +733,6 @@ $$\sqrt[∓i ÷ e]{∓r} = +1\text{, where $\{r$adicand$\in\mathbb{R}|(+0,+\inft
 \end{align*}
 
 \noindent{}Accumulating \dshyam{} is as trivial as accumulating any conceptual distance from 0 on the Hindu number circle of reality; the Hindu spherical graph of $n × x$ either wraps around, or retraces, depending on the parity of n.
-
 \begin{align*}
 \dshyam{} × x &= 0 × [x = 2 × ⌈y⌉] + \dshyam{} × [x = 2 × ⌊y⌋ - 1]
 \\\dshyam{} ↑ x &= 1 × [x = 0] + \dshyam{} × [x = 1] + 0 × [x ∉ \{0, 1\}]
@@ -745,7 +741,6 @@ $$\sqrt[∓i ÷ e]{∓r} = +1\text{, where $\{r$adicand$\in\mathbb{R}|(+0,+\inft
 \end{align*}
 
 \noindent{}Fracturing \dshyam{} is as trivial as fracturing any conceptual distance from 0 on the Hindu number circle of reality.
-
 \begin{gather*}
 \dshyam{} ÷ x = \dshyam{} × [x ∈ \{0, ∓1\}] + 1 × [x = \dshyam{}] + (\dshyam{} ÷ x) × [x ∉ \{0, ∓1, \dshyam{}\}]
 \\x ÷ \dshyam{} = 0 × [x = 0] + 1 × [x = \dshyam{}] + (x ÷ \dshyam{}) × [x ∉ \{0, \dshyam{}\}]
@@ -754,15 +749,12 @@ $$\sqrt[∓i ÷ e]{∓r} = +1\text{, where $\{r$adicand$\in\mathbb{R}|(+0,+\inft
 \end{gather*}
 
 \noindent{}Differing \dshyam{} is as trivial as differing any conceptual distance from 0 on the Hindu number circle of reality.
-
 $$\dshyam{}′ = 0$$
 
 \noindent{}Integrating \dshyam{} is as trivial as integrating any conceptual distance from 0 on the Hindu number circle of reality.
-
 $$∫(\dshyam{})dx = \dshyam{} × x + c$$
 
 \noindent{}Significant signs, and multiple fractures.
-
 \begin{gather*}
 -\dshyam{} < -0
 \\+0 < +\dshyam{}
@@ -771,7 +763,6 @@ $$∫(\dshyam{})dx = \dshyam{} × x + c$$
 \end{gather*}
 
 \noindent{}There are \dshyam{} repetitions; I wonder what this means for the fractally \dshyam{}-recursive Curry Y-combinator…%CurrY-combinator…
-
 \begin{align*}
 1÷3 &= 0.(3)
 \\3×(1÷3) &= 0.(9) = 1
@@ -797,7 +788,7 @@ $$∫(\dshyam{})dx = \dshyam{} × x + c$$
 				[
 					,axis background/.style={fill=yellow}
 					,width=\textwidth
-					,height=3cm
+					,height=5.95cm
 					,title={$f(x) = |\dshyam{} × x|$}
 					,title style={brown}
 					,xlabel={$x$}
@@ -826,7 +817,7 @@ $$∫(\dshyam{})dx = \dshyam{} × x + c$$
 				[
 					,axis background/.style={fill=yellow}
 					,width=\textwidth
-					,height=3cm
+					,height=5.95cm
 					,title={$f(x) = |\dshyam{} × x|$}
 					,title style={brown}
 					,xlabel={$x$}
@@ -856,7 +847,7 @@ $$∫(\dshyam{})dx = \dshyam{} × x + c$$
 				[
 					,axis background/.style={fill=yellow}
 					,width=\textwidth
-					,height=5cm
+					,height=8.23cm
 					,title={$f(x) = \dshyam{} × x$}
 					,title style={brown}
 					,xlabel={$x$}
@@ -888,7 +879,7 @@ $$∫(\dshyam{})dx = \dshyam{} × x + c$$
 				[
 					,axis background/.style={fill=yellow}
 					,width=\textwidth
-					,height=5cm
+					,height=8.23cm
 					,xlabel={$x$}
 					,ylabel={$y$}
 					,xlabel style={green!80!black,at={(1,0)},above right,yshift=-3pt}
@@ -918,7 +909,7 @@ $$∫(\dshyam{})dx = \dshyam{} × x + c$$
 				[
 					,axis background/.style={fill=yellow}
 					,width=\textwidth
-					,height=5cm
+					,height=12cm
 					,title={$f(x) = \dshyam{} × x$}
 					,title style={brown}
 					,xlabel={$x$}
@@ -950,7 +941,7 @@ $$∫(\dshyam{})dx = \dshyam{} × x + c$$
 				[
 					,axis background/.style={fill=yellow}
 					,width=\textwidth
-					,height=5cm
+					,height=12cm
 					,xlabel={$x$}
 					,ylabel={$y$}
 					,xlabel style={green!80!black,at={(1,0)},above right,yshift=-3pt}
@@ -985,7 +976,6 @@ $$f(x) = f(x ÷ 2) × [x = 2 × ⌈y⌉] + x × [x = 2 × ⌊y⌋ - 1]$$
 \\\textit{Its' \dshyam{}-year mission: to explore strange new worlds, to seek out new life, and new civilizations; to boldly go where no man has gone before.}
 \medskip
 \\\dshyam{} space occupies all regions of the Hindu number circle of reality, including infinitesimals, wherever the Hindu numbers can only be discovered using a fixed point; known only as \dshyam{}.
-
 \begin{align*}%WTF
 [\dshyam{} ÷ +2&, \dshyam{} ÷ -2]\\
 [\dshyam{} ÷ +4&, \dshyam{} ÷ -4]\\
@@ -1006,7 +996,6 @@ $$f(x) = f(x ÷ 2) × [x = 2 × ⌈y⌉] + x × [x = 2 × ⌊y⌋ - 1]$$
 \\The diameter of the Hindu number circle of reality is $2 × (\dshyam{} ÷ \pi) ≠ 0$.
 \\The radius of the Hindu number circle of reality is $\dshyam{} ÷ \pi$.
 \\The area of the Hindu number circle of reality is $\pi × ((\dshyam{} ÷ \pi) ↑ 2)$.
-
 \setcounter{equation}{0}
 \begin{align}
 C &= 2 × \pi × r
@@ -1039,7 +1028,6 @@ C &= 2 × \pi × r
 \subsubsection{Real Āryans Know \fquote{-thing}s}
 
 \noindent{}I had the grande delusion of men knowing \fquote{-thing}s:
-
 \begin{itemize}[itemsep=0pt, parsep=0pt]
 \item \dbrahmagupta{}, the man who knew nothing; 0.
 \item Śrīnivāsa Rāmānujān, the man who knew something; ∞.
@@ -1048,7 +1036,15 @@ C &= 2 × \pi × r
 
 \noindent{}\textit{Well, you have to know these \fquote{-thing}s when you're an āryan man, you know.}
 \medskip
-\\\fcurve{The trimūrti of reality; BRAHMAgupta, sriniVASa ramaNUjan, SHYAm.}
+\\\fcurve{The \dtrimurti{} of reality; BRAHMAgupta, sriniVASa ramaNUjan, SHYAm.}
+\medskip
+\\\fcurve{The scientific age of the universe is closest to Hinduism; supported by Carl Edward Sagan, and Fritjof Capra.}
+\medskip
+\\\fcurve{The universe is the multiverse, and galaxies are universes, as described by the Young-Laplace equation; \dmahavishnu{} breathes universes into existence, in his sleep; exhales create universes, while inhales destroy universes; each universe has their own \dtrimurti{}.}
+\medskip
+\\\fcurve{Hindus don't use war to convert, unlike the Crusades, \hmilkhemetmitzvah{}, and ISIS; Jamma Maaples only exists because the Muslims invaded, and used psychological manipulation on them during their captivity; any religion that spreads through bruteforce has no density, and is of no interest to me.}
+\medskip
+\\\fcurve{Rastafaris put someone else on a pedestal; who wasn't even Jamaican, and didn't even convert, although its' obvious they used him as an excuse to get high; Christianity was forced on them, and they just used it to abuse loopholes in the law; playing by someone elses rules, and beating them at their own game. Christians put someone else on a pedestal; but they don't follow that persons' religion; probably due to mockery, where Moses split the Red Sea to save his people, and Jeses just died on a cross even though he could've done more if he became the healing Jesus Cæsar of the Roman Empire instead of not being saved by anone who witnessed his crucifixion. Semites put themselves on a pedestal, but not their followers; the only reason I can come up with for the antisemitisim in \textit{Agora} (2009), is that they, as groups, validated discriminatory religions that gave them preferential treatment; I'm neutral with their existence, and beliefs, but if they want me to play their game, then I'll be antisemetic as well, unless they want to play mine, in which case I claim to be god, therefore all must worship me, and I commandeth that all other claims are invalidated, Hinduism is the one true religion, which means gods can die, you goto Hell if you kill me, as I previously commandethed, and you all have to stick with Hinduism even after I reincarnate.}
 
 \newpage
 \subsection{Spiritually Perpetual Anti Mass}
