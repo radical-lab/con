@@ -675,7 +675,7 @@ x &= 0 ÷ 0
 $$\sqrt[i ÷ e]{r} = \sqrt[i]{r ↑ e} = \sqrt[i]{r} ↑ e = r ↑ (e ÷ i) = r ↓ (i ÷ e)$$
 
 \noindent{}Infinitesimals approach zero, so where do infinites tend towards? It's the same point!
-$$\sqrt[∓i ÷ e]{∓r} = +1 \oplus +0\text{, where $\{r$adicand$\in\mathbb{R}|(+0,+\infty)\}\land\{i$ndex$\in\mathbb{R}|[+1,+1]\}\land\{e$xponent$\in\mathbb{R}|[+0,+0]\}$}$$
+$$\mathclap{\sqrt[∓i ÷ e]{∓r} = +1 \oplus +0\text{, where $\{r$adicand$\in\mathbb{R}|(+0,+\dshyam{})\}\land\{i$ndex$\in\mathbb{R}|[+1,+1]\}\land\{e$xponent$\in\mathbb{R}|[+0,+0]\}$}}$$
 
 \noindent{}The Hindu number of sides of a circle geometrically proves the existence of \dshyam{}.
 \\The Hindu number of edges of a sphere geometrically proves the existence of \dshyam{}.
@@ -788,8 +788,8 @@ $$∫(\dshyam{})dx = \dshyam{} × x + c$$
 \noindent{}There are \dshyam{} repetitions; I wonder what this means for the fractally \dshyam{}-recursive Curry Y-combinator…% CurrY-combinator…
 \begin{align*}
 1÷3 &= 0.(3)
-\\3×(1÷3) &= 0.(9) = 1
-\\3×(1÷3) &= (3×1)÷3 = 1
+\\3×(1÷3) &= 0.(9)
+\\3×(1÷3) &= (3×1)÷3
 \\3×(1÷3) &= 1
 \\1-(1÷\dshyam) &= 0.(9)
 \end{align*}
