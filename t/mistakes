@@ -1,1 +1,6 @@
 odd accumulations mean श्याम is not prime; primes should not be able to factor higher than themselves
+
+xⁿ = x
+x¹ = 0
+x⁰ = 1 ⊻ 0
+x¹ ≤ x⁰ < … < x³ < x² < x¹
