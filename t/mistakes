@@ -16,3 +16,4 @@ x ↓ 0 = x ↑ श्याम = 0×[x=0] +1×[x=1] +(x ↑ श्याम)[x�
 the idea for teapot started when i was studying perl 5, and i remember appending it to the end of the script; there was probably something there, but it's all backed up, and i only remember playing around with the title, and maybe some content/plan, and some other ideas for other publications; i remember losing it all multiple times, and discovered how to grep for deleted files, which takes forever to find something even remotely close to the last save, since i save so often
 
 n÷d, where d⊃{∓0,∓1÷[x],∓1,∓[n]} ∧ d=[d]
+1÷0, where r=1
