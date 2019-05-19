@@ -3,7 +3,7 @@ I am a con-man.
 
 <s>lambdas → types → monads → categories → paradigms → some"-thing" else → SHIT</s>
 
-lambdas → types → MaggieCool593115
+lambdas → types → monads → MaggieCool593115
  * hacked imirage title page: thick ascii/unicode art animations of image/mirage like the matrix but the outline of the words will burn into their minds like an subliminal messaging system; can instantaneously stop to make the title pop, gradually fade or degrade into the cascade of the decade,..
    * MaggieCool593115 probably needs to be Maggie\nCool\n593115; otherwise each word can be mapped into a (re)curse
      * smoke machine
