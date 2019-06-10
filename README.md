@@ -11,7 +11,7 @@ lambdas → types → monads → MaggieCool593115 → Self-Modifying Code: Senti
      * Maggie May
  * live coding in emacs
    * MaggieCool593115: parsing in mercury(dcg), curry(parser combinators), elisp(s-expressions, and metamacros), perl(r-expressions, and other shortcuts), smalltalk(oops)
-     * spell checking
+     * [spell checking](https://prog21.dadgum.com/29.html)
      * `/gramma(r|tical)/` checking
      * …
 
