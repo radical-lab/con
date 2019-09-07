@@ -27,14 +27,14 @@ i also want to do workshops
 	* CPT120 LOC105 assignment.jy "# This is what we've all been waiting for! It throws everything from the cyberTestTubes together into a cyberBeaker (upgraded the old bubbling cyberCauldron, from the computercraft days) and makes some cybertronic observations, computer science is fun! :)"
 2. learn lisp (and emacs); recursion is all you will ever `/have|need/` (good for prototyping; you can reactively [run your code, and hack it too](https://en.wikipedia.org/wiki/You_can%27t_have_your_cake_and_eat_it) (while it's running))
 	* title: "have your cake, and eat it too"
-	* picture: whatever my favourite (looking) cake is; a well balanced (pillars) 𝄞3 tiered wedding cake c̄ birthday candles ∵ the student is marrying emacs, and birthdays are all about "me" (or maybe a pentagram on top c̄ "EMACS\nMACRO\nACTED\nCREDO\nSODOM" on the sidelines for a virgin sacrifice…maybe a girl can jump out of it…maybe it can be a flip book)
+	* picture: whatever my favourite (looking) cake is; a well balanced (pillars) 𝄞3 tiered wedding cake c̄ birthday candles ∵ the student is marrying emacs, and birthdays are all about "me" (or maybe a pentagram on top c̄ "EMACS\nMACRO\nACTED\nCREDO\nSODOM" on the sidelines for a virgin sacrifice…maybe a girl can jump out of it…maybe it can be a flip book…)
 	* theme: food science (recipes, ingredients,..)
 3. learn prolog; very different from conventional programming, and probably the most useful
 	* title: <s>"Elementary, my dear Hacker."</s> "What have I got in my pocket?"
 	* quote: "When you have eliminated the impossible, whatever remains, however improbable, must be the truth."
 	* picture: bubble pipe
 	* theme: detective ([∛ holmesian deduction](https://github.com/radical-lab/radical-lab.github.io))
-	* programming language implementation should be taught from a `prolog(lisp(X),Y)` pov
+	* programming language implementation should be taught from a `prolog(lisp(X),Y)` POV
 4. learn haskell; prolog helps with learning types, and probably the most safest (lazy evaluation makes higher order types possible (or maybe just partial application?), and the type system is an [implicit module system](https://www.reddit.com/r/haskelltil/comments/3sv090/cycling_an_enumeration/cx0msam/))
 5. learn shyamscript
 	* title: "DON'T PANIC"
