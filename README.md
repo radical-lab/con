@@ -21,7 +21,7 @@ i also want to do workshops
 
 programming language implementation should be taught from a `prolog(lisp(X),Y)` pov
 
-learn numerical machine instructions first; the most homoiconic metaprogramming ever (syntacticless wizardry)
+learn hindu numerical machine instructions first; the most homoiconic metaprogramming ever (syntacticless wizardry)
 <br>learn lisp (and emacs) second; recursion is all you will ever `/have|need/`
 <br>learn prolog third; different from conventional programming 
 <br>learn haskell fourth; prolog helps with learning types
