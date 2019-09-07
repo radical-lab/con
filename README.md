@@ -39,5 +39,5 @@ i also want to do workshops
 5. learn shyamscript
 	* title: "DON'T PANIC"
 	* quote: mahamantra in devanagari
-	* picture: me, twisty towel turban, [shirt](https://github.com/radical-lab/con/blob/master/art), levitating in lotus position on a cloud to hide my rock, and nuts <s>(<s>zen stones</s> stars floating all around me)</s>
+	* picture: me, twisty towel turban, [shirt](https://github.com/radical-lab/con/blob/master/art), levitating in lotus position on a cloud (in space) to hide my rock, and nuts (<s>zen stones</s> stars floating all around me)
 	* theme: science fiction, space, aliens, tech,..
