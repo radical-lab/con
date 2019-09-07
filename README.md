@@ -45,3 +45,5 @@ i also want to do workshops
 	* quote: mahamantra in devanagari
 	* picture: me, twisty towel turban, [shirt](https://github.com/radical-lab/con/blob/master/art), levitating in lotus position on a cloud (in space) to hide my rock, and nuts (<s>zen stones</s> stars floating all around me)
 	* theme: science fiction, space, aliens (this one will be written in shyamskrit; it will also be the only way to learn shyamskrit), tech,..
+
+[don't lose your humanity; don't be come a zombie;](https://prog21.dadgum.com/56.html)
