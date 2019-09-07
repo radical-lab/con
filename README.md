@@ -21,7 +21,7 @@ i also want to do workshops
 
 programming language implementation should be taught from a `prolog(lisp(X),Y)` pov
 
-learn hindu numerical machine instructions first; the most homoiconic metaprogramming ever (syntacticless wizardry)
-<br>learn lisp (and emacs) second; recursion is all you will ever `/have|need/`
-<br>learn prolog third; very different from conventional programming, and probably the most useful
-<br>learn haskell fourth; prolog helps with learning types, and probably the most safest (lazy evaluation makes higher order types possible (or maybe just partial application?), and the type system is an [implicit module system](https://www.reddit.com/r/haskelltil/comments/3sv090/cycling_an_enumeration/cx0msam/))
+1. learn hindu numerical machine instructions first; the most homoiconic metaprogramming ever (syntacticless wizardry)
+2. learn lisp (and emacs) second; recursion is all you will ever `/have|need/`
+3. learn prolog third; very different from conventional programming, and probably the most useful
+4. learn haskell fourth; prolog helps with learning types, and probably the most safest (lazy evaluation makes higher order types possible (or maybe just partial application?), and the type system is an [implicit module system](https://www.reddit.com/r/haskelltil/comments/3sv090/cycling_an_enumeration/cx0msam/))
