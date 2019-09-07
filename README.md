@@ -40,3 +40,4 @@ i also want to do workshops
 	* title: "Don't Panic!"
 	* quote: mahamantra in devanagari
 	* picture: me, twisty towel turban, [shirt](https://github.com/radical-lab/con/blob/master/art), levitating in lotus position to hide my rock, and nuts (zen stones floating all around me)
+	* theme: science fiction, space, aliens, tech,..
