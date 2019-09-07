@@ -30,7 +30,7 @@ i also want to do workshops
 	* picture: whatever my favourite (looking) cake is; a wedding cake ∵ the student is marrying emacs
 	* theme: food science (recipes, ingredients,..)
 3. learn prolog; very different from conventional programming, and probably the most useful
-	* title: "Elementary, my dear Hacker."
+	* title: <s>"Elementary, my dear Hacker."</s> "What have I got in my pocket?"
 	* quote: "When you have eliminated the impossible, whatever remains, however improbable, must be the truth."
 	* picture: bubble pipe
 	* theme: detective ([∛ holmesian deduction](https://github.com/radical-lab/radical-lab.github.io))
