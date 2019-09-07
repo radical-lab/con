@@ -17,7 +17,7 @@ lambdas → types → monads → MaggieCool593115 → Self-Modifying Code: Senti
 
 i also want to do workshops
 <br>i also want to make educational games, or gamified education
-<br>i also want to write a book (https://en.wikipedia.org/wiki/Talk:Search_problem#Undone_deletion)
+<br>i also want to write a [book](https://en.wikipedia.org/wiki/Zen_and_the_Art_of_Motorcycle_Maintenance) (https://en.wikipedia.org/wiki/Talk:Search_problem#Undone_deletion)
 
 1. learn hindu numerical machine instructions (and a hex editor); the most homoiconic metaprogramming ever (syntacticless wizardry)
 	* title: ["Hackwarts School of Computercraft and Electricity (for solely mystical reasons, devoid of practical application)"](https://harrypotter.fandom.com/wiki/List_of_books#Magic_and_Science)
