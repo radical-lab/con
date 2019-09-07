@@ -18,3 +18,5 @@ lambdas → types → monads → MaggieCool593115 → Self-Modifying Code: Senti
 i also want to do workshops
 <br>i also want to make educational games, or gamified education
 <br>i also want to write a book (https://en.wikipedia.org/wiki/Talk:Search_problem#Undone_deletion)
+
+programming language implementation should be taught from a `prolog(lisp(X),Y)` pov
