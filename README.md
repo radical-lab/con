@@ -37,7 +37,7 @@ i also want to do workshops
 	* programming language implementation should be taught from a `prolog(lisp(X),Y)` pov
 4. learn haskell; prolog helps with learning types, and probably the most safest (lazy evaluation makes higher order types possible (or maybe just partial application?), and the type system is an [implicit module system](https://www.reddit.com/r/haskelltil/comments/3sv090/cycling_an_enumeration/cx0msam/))
 5. learn shyamscript
-	* title: "Don't Panic!"
+	* title: "DON'T PANIC!"
 	* quote: mahamantra in devanagari
 	* picture: me, twisty towel turban, [shirt](https://github.com/radical-lab/con/blob/master/art), levitating in lotus position to hide my rock, and nuts (zen stones floating all around me)
 	* theme: science fiction, space, aliens, tech,..
