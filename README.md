@@ -31,3 +31,4 @@ i also want to do workshops
 3. learn prolog; very different from conventional programming, and probably the most useful
 	* programming language implementation should be taught from a `prolog(lisp(X),Y)` pov
 4. learn haskell; prolog helps with learning types, and probably the most safest (lazy evaluation makes higher order types possible (or maybe just partial application?), and the type system is an [implicit module system](https://www.reddit.com/r/haskelltil/comments/3sv090/cycling_an_enumeration/cx0msam/))
+5. learn shyamscript
