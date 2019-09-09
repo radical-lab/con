@@ -49,7 +49,7 @@ i also want to do workshops
 	* quote: "When you have eliminated the impossible, whatever remains, however improbable, must be the truth."
 	* picture: bubble pipe
 	* theme: detective ([∛ holmesian deduction](https://github.com/radical-lab/radical-lab.github.io))
-	* programming language implementation should be taught from a `prolog(lisp(X),hindu_numerical_machine_instructions(Y))` POV
+	* programming language implementation should be taught from a `prolog(lisp(X),hindu_numerical_machine_instructions(Y))` POV (free `/disassembler|decompiler/`)
 4. learn haskell; prolog helps with learning types, and probably the most safest (lazy evaluation makes higher order types possible (or maybe just partial application?), and the type system is an [implicit module system](https://www.reddit.com/r/haskelltil/comments/3sv090/cycling_an_enumeration/cx0msam/))
 	* title: "in due course, at the appropriate juncture, in the fullness of time, when the moment is ripe, when the necessary procedures have been completed; nothing precipitate, of course…"
 	* quote: asimovs' laws (all of them‽)
