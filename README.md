@@ -20,6 +20,9 @@ i also want to do workshops
 <br>i also want to write a [book](https://en.wikipedia.org/wiki/Zen_and_the_Art_of_Motorcycle_Maintenance) (https://en.wikipedia.org/wiki/Talk:Search_problem#Undone_deletion)
 
 0. learn about law, and ethics
+	* title: "business people are evil, and they control the big bad corporations"
+	* picture: crayon drawing of me (twisty towel turban, [shirt](https://github.com/radical-lab/con/blob/master/art), stick arms reaching down to hands covering my rock, and nuts; one too many fingers), and box with a triangle on top, and maybe some (curtained) windows, and a (knobbed) door, also some green grass, and some (white cloudy) blue sky
+	* theme: childrens book
 	* `/page (up|down)/` patented by criminals: microsoft, timothy sellers, heather grantham, and joshua dersch
 	* samizdat; kenneth brown was hired by microsoft to underhandedly undermine floss #plausible_deniability
 	* slaves of shyam license; rationalisation of the main features of the license that will never change
