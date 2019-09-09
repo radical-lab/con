@@ -20,7 +20,9 @@ i also want to do workshops
 <br>i also want to write a [book](https://en.wikipedia.org/wiki/Zen_and_the_Art_of_Motorcycle_Maintenance) (https://en.wikipedia.org/wiki/Talk:Search_problem#Undone_deletion)
 
 0. learn about law, and ethics
-	* /page (up|down)/ patented by criminals: microsoft, timothy sellers, heather grantham, and joshua dersch
+	* `/page (up|down)/` patented by criminals: microsoft, timothy sellers, heather grantham, and joshua dersch
+	* samizdat; kenneth brown was hired by microsoft to underhandedly undermine floss #plausible_deniability
+	* slaves of shyam license; rationalisation of the main features of the license that will never change
 1. learn hindu numerical machine instructions (and a hex editor); the most homoiconic metaprogramming ever (syntacticless wizardry)
 	* title: ["Hackwarts School of Computercraft and Electricity (for solely mystical reasons, devoid of practical application)"](https://harrypotter.fandom.com/wiki/List_of_books#Magic_and_Science)
 	* quote: "Any sufficiently advanced technology is indistinguishable from magic."
