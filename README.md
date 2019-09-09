@@ -23,6 +23,14 @@ i also want to do workshops
 	* `/page (up|down)/` patented by criminals: microsoft, timothy sellers, heather grantham, and joshua dersch
 	* samizdat; kenneth brown was hired by microsoft to underhandedly undermine floss #plausible_deniability
 	* slaves of shyam license; rationalisation of the main features of the license that will never change
+		* requiring all code written in the language to be floss, and human subject research
+			* infrastructure will automatically log usage; infrastructure requirement
+			* can observe how people learn; education
+			* can observe how people use; standard libraries, and maybe even syntactic features (symbolic programming, formal methods,..)
+			* only account id, and code, will be used for human subject research
+			* registering an account is mandatory
+			* education will include security; don't put side effects in source
+			* `√ctp` (cyberterrorist training program) has some good ideas for infrastructure; social information processing
 1. learn hindu numerical machine instructions (and a hex editor); the most homoiconic metaprogramming ever (syntacticless wizardry)
 	* title: ["Hackwarts School of Computercraft and Electricity (for solely mystical reasons, devoid of practical application)"](https://harrypotter.fandom.com/wiki/List_of_books#Magic_and_Science)
 	* quote: "Any sufficiently advanced technology is indistinguishable from magic."
