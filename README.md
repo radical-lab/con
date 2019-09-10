@@ -29,7 +29,7 @@ i also want to do workshops
 		* requiring all code written in the language to be floss, and human subject research
 			* infrastructure will automatically log usage; infrastructure requirement
 			* can observe how people learn; education
-			* can observe how people use; standard libraries, and maybe even syntactic features (symbolic programming, formal methods,..)
+			* can observe how people use; standard libraries, and maybe even syntactic features (symbolic programming, formal methods,..), also employment
 			* only account id, and code, will be used for human subject research
 			* registering an account is mandatory
 			* education will include security; don't put side effects in source
