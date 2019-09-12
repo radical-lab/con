@@ -28,6 +28,7 @@ i also want to do workshops
 	* a long time ago, in a country far, far, away; a country killed their king, and all the other royalty of all the other countries wanted to declare war on them; sadly they were not killed too, but it's never too late
 	* `/page (up|down)/` patented by criminals: microsoft, timothy sellers, heather grantham, and joshua dersch
 	* samizdat; kenneth brown was hired by microsoft to underhandedly undermine floss #plausible_deniability
+	* corruption; political bribes
 	* isp tracking; when politicians are exempt, it raises the barrier of `/entry|competition/` #job_security #treason #occupy #sedition #guillotine #heads_on_pikes #accountability
 		* once upon a time, there were some greedy politicians who abused their power… (at some point attack their citizens for being too weak, and under their manipulative control; witch hunt, and long live democracy)
 		* and what would a big, strong, nation do? that's right little world; they would burn them all for witchcraft, and make the world a better place
