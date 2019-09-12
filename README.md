@@ -27,7 +27,7 @@ i also want to do workshops
 	* `/page (up|down)/` patented by criminals: microsoft, timothy sellers, heather grantham, and joshua dersch
 	* samizdat; kenneth brown was hired by microsoft to underhandedly undermine floss #plausible_deniability
 	* isp tracking; when politicians are exempt, it raises the barrier of `/entry|competition/` #job_security #treason #occupy #sedition #guillotine #heads_on_pikes #accountability
-		* once upon a time, there were some greedy politicians who abused their power…
+		* once upon a time, there were some greedy politicians who abused their power… (at some point attack their citizens for being too weak, and under their manipulative control; witch hunt, and long live democracy)
 	* neutrality
 	* dietaxing; tax haven sandwiches
 	* eternal intellectual property; start a company, and the copy rights will last half a decade, or so, years after it "dies" (which is never)
