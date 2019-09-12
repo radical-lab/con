@@ -23,6 +23,7 @@ i also want to do workshops
 	* title: "business people are evil, and they control the big bad corporations"
 	* picture: crayon drawing of me (twisty towel turban, [shirt](https://github.com/radical-lab/con/blob/master/art), stick arms reaching down to hands covering my rock, and nuts; one too many fingers), and box with a triangle on top, and maybe some (curtained) windows, and a (knobbed) door, also some green grass, and some (white cloudy) blue sky
 	* theme: childrens book
+	* any other title cards are fiction, or whatever
 	* south park title card
 	* hello little world,
 	* a long time ago, in a country far, far, away; a country killed their king, and all the other royalty of all the other countries wanted to declare war on them; sadly they were not killed too, but it's never too late
