@@ -25,7 +25,8 @@ i also want to do workshops
 	* theme: childrens book
 	* `/page (up|down)/` patented by criminals: microsoft, timothy sellers, heather grantham, and joshua dersch
 	* samizdat; kenneth brown was hired by microsoft to underhandedly undermine floss #plausible_deniability
-	* isp tracking; when politicians are exempt, it raises the barrier of /entry|competition/ #job_security #treason #occupy #sedition #guillotine #heads_on_pikes #accountability
+	* isp tracking; when politicians are exempt, it raises the barrier of `/entry|competition/` #job_security #treason #occupy #sedition #guillotine #heads_on_pikes #accountability
+	* neutrality
 	* dietaxing; tax haven sandwiches
 	* eternal intellectual property; start a company, and the copy rights will last half a decade, or so, years after it "dies" (which is never)
 	* slaves of shyam license; rationalisation of the main features of the license that will never change
