@@ -40,6 +40,7 @@ i also want to do workshops
 	* neutrality
 	* hackers shouldn't be signing NDAs; data breaches happen from the [inside](https://en.wikipedia.org/wiki/User_error) [out](https://en.wikipedia.org/wiki/Halloween_documents)
 		* hackers don't need access to SFX databases; the bank that automated loans using sexist historical data
+		* some of the hackers working at banks who have been backdooring atms to steal even more money from the banks that already pay them have been caught, but not all of them; banks should floss their sources, and put bountie$ on their criminal employees
 	* banks shouldn't be discriminately charging fees to poor people, and not charging fees to rich people; some banks don't charge fees to anyone
 		* there are millions, or more, of dole bludgers who get paid regularly; don't fee charging banks want to `/surf|ride/` these billion dollar, or more, waves?
 		* when i make any significant income, it's not like i'm going to change banks; interest may be the safest investment, but it's also the slowest
