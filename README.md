@@ -26,7 +26,7 @@ i also want to do workshops
 	* any other title cards are fiction, or whatever
 	* south park title card
 	* hello little world,
-	* a long time ago, in a country far, far, away; a country killed their king, and all the other royalty of all the other countries wanted to declare war on them; sadly those other royal families were not killed too, but it's never too late
+	* a long time ago, in a country far, far, away; a country killed their king, and all the other royalty of all the other countries wanted to declare war on them; sadly those other royal families were not killed too, but it's never too late little world
 		* the moral of the story is; vive la guillotine, vive la democracy, vive la révolution
 	* `/page (up|down)/` patented by criminals: microsoft, timothy sellers, heather grantham, and joshua dersch
 	* samizdat; kenneth brown was hired by microsoft to underhandedly undermine floss #plausible_deniability
