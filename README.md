@@ -29,6 +29,7 @@ i also want to do workshops
 	* a long time ago, in a country far, far, away; a country killed their king, and all the other royalty of all the other countries wanted to declare war on them; sadly those other royal families were not killed too, but it's never too late little world
 		* the moral of the story is; vive la guillotine, vive la democracy, vive la révolution
 	* `/historical|cultural/` laws that belong in the history books
+	* microsofts' strategic war tactics against floss; don't go against the grain, instead just go c̄ the flow, and [embrace, extend, extinguish](https://en.wikipedia.org/wiki/Halloween_documents#Documents_I_and_II)
 	* `/page (up|down)/` patented by criminals: microsoft, timothy sellers, heather grantham, and joshua dersch
 	* samizdat; kenneth brown was hired by microsoft to underhandedly undermine floss #plausible_deniability
 	* corruption; political bribes, and under the table deals outside the democratic framework
