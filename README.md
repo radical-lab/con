@@ -23,7 +23,7 @@ i also want to do workshops
 	* title: "business people are evil, and they control the big, bad, corporations"
 	* picture: crayon drawing of me (twisty towel turban, [shirt](https://github.com/radical-lab/con/blob/master/art), stick arms reaching down to hands covering my rock, and nuts; one too many fingers), and box with a triangle on top, and maybe some (curtained) windows, and a (knobbed) door, also some green grass, and some (white cloudy) blue sky
 	* theme: childrens book
-		* good crayon fonts are expensive as stone
+		* good crayon fonts are expensive as stone, and some of the "free" ones are licensed ambiguously between websites
 	* any other title cards are fiction, or whatever
 	* south park title card
 	* hello little world,
