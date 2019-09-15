@@ -59,6 +59,7 @@ i also want to do workshops
 			* registering an account is mandatory
 			* education will include security; don't put side effects in source
 			* `√ctp` (cyberterrorist training program) has some good ideas for infrastructure; social information processing
+			* floss drivers; [ (卐) ]
 1. learn hindu numerical machine instructions (and a hex editor); the most homoiconic metaprogramming ever (syntacticless wizardry)
 	* title: ["Hackwarts School of Computercraft and Electricity (for solely mystical reasons, devoid of practical application)"](https://harrypotter.fandom.com/wiki/List_of_books#Magic_and_Science)
 	* quote: "Any sufficiently advanced technology is indistinguishable from magic."
