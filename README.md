@@ -33,7 +33,7 @@ i also want to do workshops
 		* the moral of the story is; vive la guillotine, vive la democracy, vive la révolution
 	* `/historical|cultural/` laws that belong in the history books
 	* hospital food that includes carcinogenic meat
-	* apple killed steve jobs, and blamed fruitarian diets (probably because apples are malnutritious); giving a bad name to non-meat-eating
+	* apple killed steve jobs, and blamed fruitarian diets (probably because apples are malnutritious); giving a bad name to non-meat-eating #bad_apple
 	* amazons' nda doesn't protect them from defamation; yours' won't protect you either
 	* oracle didn't want javascript to be a good language (lisp dialect); they are solely responsible for the worst programming languages, and timbl is bribed to support javascript #embrace_extend_extinguish
 	* oracle hired andy rubin, rich miner, nick sears, and chris white, to start a company, approach oracle for funding to use java for the window manager of android, sell to google with the oracle contract to prevent google using go (let alone c) instead of java #embrace_extend_extinguish
