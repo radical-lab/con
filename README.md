@@ -39,6 +39,7 @@ i also want to do workshops
 	* samizdat; kenneth brown was hired by microsoft to underhandedly undermine floss #plausible_deniability
 	* emacs email subsystem sold to the russians, edward snowden, the ones who don't get caught,.. #military_espionage #floss_demotes_spies_like_legalising_drugs_demotes_drug_dealers_and_other_illegal_activity
 	* richard stallmans' printer story, my scanner story,.. #fawlty_products #consumer_affairs #floss_drivers
+		* one day, there was a saint…
 	* corruption; political bribes, and under the table deals outside the democratic framework
 		* the moral of the story is; politicians must be held accountable, otherwise they will just `/resign|(step|stand) down/` when they stone up enough
 	* isp tracking; when politicians are exempt, it raises the barrier of `/entry|competition/` #job_security #treason #occupy #sedition #guillotine #heads_on_pikes #accountability
@@ -80,6 +81,7 @@ i also want to do workshops
 	* theme: detective ([∛ holmesian deduction](https://github.com/radical-lab/radical-lab.github.io))
 	* backtracking into infinite is an extra (debugging) step up from recursing into infinite from lisp; in prolog you get both, yay what fun
 	* programming language implementation should be taught from a `prolog(lisp(X),hindu_numerical_machine_instructions(Y))` POV (free `/disassembler|decompiler/`)
+	* deductive knowledgebases supercede most databases; the only kind that should be taught these days
 4. learn haskell; prolog helps with learning types, and probably the most safest (lazy evaluation makes higher order types possible (or maybe just partial application?), and the type system is an [implicit module system](https://www.reddit.com/r/haskelltil/comments/3sv090/cycling_an_enumeration/cx0msam/))
 	* title: "in due course, at the appropriate juncture, in the fullness of time, when the moment is ripe, when the necessary procedures have been completed; nothing precipitate, of course…"
 	* quote: asimovs' laws (all of them‽)
