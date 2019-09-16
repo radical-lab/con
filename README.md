@@ -37,7 +37,7 @@ i also want to do workshops
 	* microsofts' strategic war tactics against floss; don't go against the grain, instead just go c̄ the flow, and [embrace, extend, extinguish](https://en.wikipedia.org/wiki/Halloween_documents#Documents_I_and_II)
 	* `/page (up|down)/` patented by criminals: microsoft, timothy sellers, heather grantham, and joshua dersch
 	* samizdat; kenneth brown was hired by microsoft to underhandedly undermine floss #plausible_deniability
-	* emacs email subsystem sold to the russians, edward snowden, the ones who don't get caught,.. #military_espionage #floss_demotes_spies_like_legalising_drugs_demotes_drug_dealers_and_other_illegal_activity
+	* emacs email subsystem sold to the russians, edward snowden, donald trumps' defacebooked politics, the ones who don't get caught,.. #military_espionage #floss_demotes_spies_like_legalising_drugs_demotes_drug_dealers_and_other_illegal_activity
 	* richard stallmans' printer story, my scanner story,.. #fawlty_products #consumer_affairs #floss_drivers
 		* one day, there was a saint…
 	* corruption; political bribes, and under the table deals outside the democratic framework
