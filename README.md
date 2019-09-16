@@ -51,7 +51,7 @@ i also want to do workshops
 		* and what would a big, strong, nation do? that's right little world; they would burn them all for witchcraft, and make the world a better place
 	* backdoors
 	* rfid
-	* elon musks' network makes national firewalls redundant (stone you china,..), and satellite cracking easier than ever before #aliens
+	* elon musks' network makes national firewalls redundant (stone you china, russia,..), and satellite cracking easier than ever before #aliens
 	* neutrality
 	* hackers shouldn't be signing NDAs; data breaches happen from the [inside](https://en.wikipedia.org/wiki/User_error) [out](https://en.wikipedia.org/wiki/Halloween_documents)
 		* hackers don't need access to SFX databases; the bank that automated loans using sexist historical data
