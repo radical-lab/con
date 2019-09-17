@@ -38,6 +38,7 @@ i also want to do workshops
 	* oracle didn't want javascript to be a good language (lisp dialect); they are solely responsible for the worst programming languages, and timbl is bribed to support javascript #embrace_extend_extinguish
 	* oracle hired andy rubin, rich miner, nick sears, and chris white, to start a company, approach oracle for funding to use java for the window manager of android, sell to google with the oracle contract to prevent google using go (let alone c) instead of java #embrace_extend_extinguish
 	* microsofts' strategic war tactics against floss; don't go against the grain, instead just go c̄ the flow, and [embrace, extend, extinguish](https://en.wikipedia.org/wiki/Halloween_documents#Documents_I_and_II)
+	* microsoft boobs; a publicity stunt to make the world aware they contributed to linux #embrace_extend_extinguish
 	* microsoft contagiously doesn't support w3c standards; timbl is bribed to let them get away with it #embrace_extend_extinguish
 	* `/page (up|down)/` patented by criminals: microsoft, timothy sellers, heather grantham, and joshua dersch
 	* samizdat; kenneth brown was hired by microsoft to underhandedly undermine floss #plausible_deniability
