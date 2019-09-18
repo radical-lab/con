@@ -45,6 +45,8 @@ i also want to do workshops
 	* emacs email subsystem sold to the russians, edward snowden, donald trumps' defacebooked politics, the ones who don't get caught,.. #military_espionage #floss_demotes_spies_like_legalising_drugs_demotes_drug_dealers_and_other_illegal_activity
 	* richard stallmans' printer story, my scanner story,.. #fawlty_products #consumer_affairs #floss_drivers
 		* one day, there was a saint…
+	* greedy icann; rich people tld
+		* the moral of the story is that we can make our own dns ecosystem to name ip addresses, and make icann irrelevant #power_to_the_people
 	* corruption; political bribes, and under the table deals outside the democratic framework
 		* the moral of the story is; politicians must be held accountable, otherwise they will just `/resign|(step|stand) down/` when they stone up enough
 	* isp tracking; when politicians are exempt, it raises the barrier of `/entry|competition/` #job_security #treason #occupy #sedition #guillotine #heads_on_pikes #accountability
