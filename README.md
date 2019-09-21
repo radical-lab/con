@@ -36,6 +36,7 @@ i also want to do workshops
 	* apple killed steve jobs, and blamed fruitarian diets (probably because apples are malnutritious); giving a bad name to non-meat-eating #bad_apple
 	* amazons' nda doesn't protect them from defamation; yours' won't protect you either
 	* oracle didn't want javascript to be a good language (lisp dialect); they are solely responsible for the worst programming languages, and timbl is bribed to support javascript #embrace_extend_extinguish
+		* lisp in the browser also means emacs in the browser; C-x C-f `/cache|cookies|storage|file:\/\//`
 	* oracle hired andy rubin, rich miner, nick sears, and chris white, to start a company, approach oracle for funding to use java for the window manager of android, sell to google with the oracle contract to prevent google using go (let alone c) instead of java #embrace_extend_extinguish
 	* microsofts' strategic war tactics against floss; don't go against the grain, instead just go c̄ the flow, and [embrace, extend, extinguish](https://en.wikipedia.org/wiki/Halloween_documents#Documents_I_and_II)
 	* microsoft boobs; a publicity stunt to make the world aware they contributed to linux #embrace_extend_extinguish
