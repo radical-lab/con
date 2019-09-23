@@ -39,6 +39,9 @@ i also want to do workshops
 		* lisp in the browser also means emacs in the browser; C-x C-f `/cache|cookies|storage|file:\/\//`
 	* oracle hired andy rubin, rich miner, nick sears, and chris white, to start a company, approach oracle for funding to use java for the window manager of android, sell to google with the oracle contract to prevent google using go (let alone c) instead of java #embrace_extend_extinguish
 	* microsofts' strategic war tactics against floss; don't go against the grain, instead just go c̄ the flow, and [embrace, extend, extinguish](https://en.wikipedia.org/wiki/Halloween_documents#Documents_I_and_II)
+	* microsoft moved their germany headquarters to munich to "influence" (bribe) their government to switch from limux to windows; die IT-evolution
+	* https://www.theregister.co.uk/2019/06/27/microsoft_linux_distro_list/
+		* nsa already stones with linux
 	* microsoft boobs; a publicity stunt to make the world aware they contributed to linux #embrace_extend_extinguish
 	* microsoft contagiously doesn't support w3c standards; timbl is bribed to let them get away with it #embrace_extend_extinguish
 	* `/page (up|down)/` patented by criminals: microsoft, timothy sellers, heather grantham, and joshua dersch
