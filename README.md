@@ -74,6 +74,9 @@ i also want to do workshops
 		* when i make any significant income, it's not like i'm going to change banks; interest may be the safest investment, but it's also the slowest
 	* dietaxing; tax haven sandwiches
 	* eternal intellectual property; start a company, and the copy rights will last half a decade, or so, years after it "dies" (which is never)
+	* getting the most out of your sick leave
+		* goto psychologist, claim depression, and get paid to play video games while you recover
+		* goto doctor, claim gastro (it means `/vomiting|diarrhoea/`), and get paid to convincingly eat beans
 	* slaves of shyam license; rationalisation of the main features of the license that will never change
 		* requiring all code written in the language to be floss, and human subject research
 			* infrastructure will automatically log usage; infrastructure requirement
