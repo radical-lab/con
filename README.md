@@ -53,6 +53,8 @@ i also want to do workshops
 		* the moral of the story is that we can make our own dns ecosystem to name ip addresses, and make icann irrelevant #power_to_the_people
 	* corruption; political bribes, and under the table deals outside the democratic framework
 		* the moral of the story is; politicians must be held accountable, otherwise they will just `/resign|(step|stand) down/` when they stone up enough
+	* australian robodebt, chinese social credit system
+		* buggy <s>intelligence</s>
 	* isp tracking; when politicians are exempt, it raises the barrier of `/entry|competition/` #job_security #treason #occupy #sedition #guillotine #heads_on_pikes #accountability
 		* once upon a time, there were some greedy politicians who abused their power… (at some point attack their citizens for being too weak, and under their manipulative control; witch hunt, and long live democracy)
 		* and what would a big, strong, nation do? that's right little world; they would burn them all for witchcraft, and make the world a better place
@@ -60,6 +62,9 @@ i also want to do workshops
 	* rfid
 	* elon musks' network makes national firewalls redundant (stone you china, russia,..), and satellite cracking easier than ever before #aliens
 	* neutrality
+	* human resources, academics,..
+		* if it's written using a word processor, then it shouldn't be read; no effort, no attention
+		* word processors are for children, and learning disabilities
 	* hackers shouldn't be signing NDAs; data breaches happen from the [inside](https://en.wikipedia.org/wiki/User_error) [out](https://en.wikipedia.org/wiki/Halloween_documents)
 		* hackers don't need access to SFX databases; the bank that automated loans using sexist historical data
 		* some of the hackers working at banks who have been backdooring atms to steal even more money from the banks that already pay them have been caught, but not all of them; banks should floss their sources, and put bountie$ on their criminal employees
