@@ -65,7 +65,7 @@ i also want to do workshops
 		* there once lived a truman
 		* all of trumans' family, and friends, were planted by the government, or some other organisation; probably criminal, government contractor,..
 		* when truman interacted with companies, through websites, and other telecommunications; they were all middlemen, spoofs, fake businesses,..
-		* adware was fake, television was fake; social engineering, psychological manipulation, hypnosis, brain washing, mind control,..
+		* adware was fake, television was fake, news was fake; social engineering, psychological manipulation, hypnosis, brain washing, mind control,..
 		* employment was fake; just work your life away
 		* all of social media was fake; even if the people are real, they don't get your' messages, and you don't get theirs', because they're all fake
 		* everything was fake
