@@ -68,7 +68,7 @@ i also want to do workshops
 		* adware was fake, newsware was fake, television was fake, radio was fake, paper was fake; social engineering, psychological manipulation, hypnosis, brain washing, mind control,..
 		* employment was fake; just work your life away
 		* all of social media was fake; even if the people are real, they don't get your' messages, and you don't get theirs', because they're all fake
-		* dreams were fake
+		* dreams were fake; rem is conveniently difficult to yoga nidra
 		* everything was fake
 		* even your babies are removed from your sight, at least when you sleep, and spend most of their time in (re-)education camps called "schools"; you've heard about home schooling, but never considered it for yourself, because of your fake employment, and even if you did, you must sleep, or supposedly "die" trying not to (like a kelpian)
 		* even genetic testing was fake, and pretty much all technology; natural language interfaces are pretty unintelligent for a so-called artificial intelligent system that can't even learn new words, let alone new conceptual subjects
