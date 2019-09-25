@@ -61,6 +61,14 @@ i also want to do workshops
 		* and what would a big, strong, nation do? that's right little world; they would burn them all for witchcraft, and make the world a better place
 	* backdoors
 	* rfid
+	* truman
+		* there once lived a truman
+		* all of trumans' family, and friends, were planted by the government, or some other organisation; probably criminal, government contractor,..
+		* when truman interacted with companies, through websites, and other telecommunications; they were all middlemen, spoofs, fake businesses
+		* all of social media was fake
+		* everything was fake
+		* just like the matrix; an artificial intelligence that makes everyone a hero to fake people, because those special powers can only exists within the matrix, so the neO never ever escaped
+		* the moral of the story is we are all truman
 	* elon musks' network makes national firewalls redundant (stone you china, russia,..), and satellite cracking easier than ever before #aliens
 	* neutrality
 	* human resources, academics,..
@@ -76,9 +84,12 @@ i also want to do workshops
 	* eternal intellectual property; start a company, and the copy rights will last half a decade, or so, years after it "dies" (which is never)
 	* getting the most out of your sick leave (and assignment extensions; academic integrity programs are inpirational!!! :D)
 		* goto psychologist, claim depression, and get paid to play video games while you recover
+			* having a `/bad|stressful/` day? boss yelled at you? don't climb out the window, jump off the building, so your family can sue them for $$$; just get paid to play video games instead
 		* goto doctor, claim back pain, and get a free full body massage
+			* no ergonomic chairs? no adjustable tables? no gym membership? don't claim compensation; just get a free full body massage instead, or maybe try acupuncture,..
 		* goto doctor, claim gastro (it means `/vomiting|diarrhoea/`), and get paid to convincingly eat beans
 		* goto med student friend, ask for forged doctors note, and this could probably work work too
+			* there's actually a med student in my dorm; i should ask for more of these
 	* slaves of shyam license; rationalisation of the main features of the license that will never change
 		* requiring all code written in the language to be floss, and human subject research
 			* infrastructure will automatically log usage; infrastructure requirement
