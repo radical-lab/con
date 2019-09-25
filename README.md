@@ -78,6 +78,7 @@ i also want to do workshops
 		* goto psychologist, claim depression, and get paid to play video games while you recover
 		* goto doctor, claim back pain, and get a free full body massage
 		* goto doctor, claim gastro (it means `/vomiting|diarrhoea/`), and get paid to convincingly eat beans
+		* goto med student friend, ask for forged doctors note, and this could probably work work too
 	* slaves of shyam license; rationalisation of the main features of the license that will never change
 		* requiring all code written in the language to be floss, and human subject research
 			* infrastructure will automatically log usage; infrastructure requirement
