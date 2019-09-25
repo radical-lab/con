@@ -71,7 +71,7 @@ i also want to do workshops
 		* everything was fake
 		* even genetic testing was fake, and pretty much all technology; natural language interfaces are pretty unintelligent for a so-called artificial intelligent system that can't even learn new words, let alone new conceptual subjects
 		* just like the matrix; an artificial intelligence that makes everyone a hero to fake people, because those special powers can only exists within the matrix, so the neO never ever escaped
-		* the moral of the story is we are all truman
+		* the moral of the story is we are all truman (and i am literally insane for writing this since i am the truman preaching to the choir; myself, the only truman who knows every"-thing")
 	* elon musks' network makes national firewalls redundant (stone you china, russia,..), and satellite cracking easier than ever before #aliens
 	* neutrality
 	* human resources, academics,..
