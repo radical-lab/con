@@ -41,6 +41,8 @@ i also want to do workshops
 	* oracle hired andy rubin, rich miner, nick sears, and chris white, to start a company, approach oracle for funding to use java for the window manager of android, sell to google with the oracle contract to prevent google using go (let alone c) instead of java #embrace_extend_extinguish
 	* microsofts' strategic war tactics against floss; don't go against the grain, instead just go c̄ the flow, and [embrace, extend, extinguish](https://en.wikipedia.org/wiki/Halloween_documents#Documents_I_and_II)
 	* microsoft moved their germany headquarters to munich to "influence" (bribe) their government to switch from limux to windows; die IT-evolution
+		* all the universities are using outlook; rmit went from gmail to outlook, unisa has always been outlook for me, curtin has always been outlook for me as well
+		* the excuses for the exclusivity of word processing files; so far that's just curtin though, and i've only done one subject
 	* https://www.theregister.co.uk/2019/06/27/microsoft_linux_distro_list/
 		* nsa already stones with linux
 	* microsoft boobs; a publicity stunt to make the world aware they contributed to linux #embrace_extend_extinguish
