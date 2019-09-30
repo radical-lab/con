@@ -17,3 +17,5 @@ the idea for teapot started when i was studying perl 5, and i remember appending
 
 n÷d, where d⊃{∓0,∓1÷[x],∓1,∓[n]} ∧ d=[d]
 1÷0, where r=1
+
+x⁰ = x÷x = 1
