@@ -25,7 +25,10 @@ n÷d, where d⊃{∓0,∓1÷[x],∓1,∓[n]} ∧ d=[d]
 ∀x: x⁰ = 1
 
 ∀ x: P(x) means P(x) is true "for all" x.
-E x: P(x) means P(x) is true "for every" x.
+A x: P(x) means P(x) is true "for atleast a" x.
+A!x: P(x) means P(x) is true "for a" x.
+A¬x: P(x) means P(x) is true "for <1" x.
+E x: P(x) means P(x) is true "for each, and every" x.
 ∃ x: P(x), means P(x) is true "for ≥1" x.
 ∃!x: P(x), means P(x) is true "for =1" x.
 ∃¬x: P(x), means P(x) is true "for <1" x.
