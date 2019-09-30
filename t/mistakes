@@ -24,10 +24,11 @@ n÷d, where d⊃{∓0,∓1÷[x],∓1,∓[n]} ∧ d=[d]
 ∨
 ∀x: x⁰ = 1
 
-E x; P(x), means every x
-∃ x: P(x), means there is ≥1 x such that P(x) is true.
-∃!x: P(x), means there is =1 x such that P(x) is true.
-∃¬x: P(x), means there is <1 x such that P(x) is true.
+∀ x: P(x) means P(x) is true "for all" x.
+E x: P(x) means P(x) is true "for every" x.
+∃ x: P(x), means P(x) is true "for ≥1" x.
+∃!x: P(x), means P(x) is true "for =1" x.
+∃¬x: P(x), means P(x) is true "for <1" x.
 
 the yearly teapot c̄ intricate patterns; probably not yearly ∵ i'm not that interested in mathematics…
 ?- sort([Life], TM, Man).
