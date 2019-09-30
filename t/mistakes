@@ -1,5 +1,6 @@
 odd accumulations mean श्याम is not prime; primes should not be able to factor higher than themselves, nor should geometry be rooted above its' self
 
+wrap-around
 xⁿ = x
 x¹ = 0
 x⁰ = 1 ⊻ 0
