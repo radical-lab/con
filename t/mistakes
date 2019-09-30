@@ -20,4 +20,6 @@ i should look this up; what are the other publications?
 n÷d, where d⊃{∓0,∓1÷[x],∓1,∓[n]} ∧ d=[d]
 1÷0, where r=1
 
+∀x: x⁰ = x÷x
+or
 ∀x: x⁰ = 1
