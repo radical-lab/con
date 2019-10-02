@@ -33,7 +33,9 @@ i also want to do workshops
 		* the moral of the story is; vive la guillotine, vive la democracy, vive la révolution
 	* `/historical|cultural|religious|unenforced/` laws that belong in the history books
 	* national laws should be more consistent; state laws should be abolished
+	* lobotomies #western_medicine
 	* hospital food that includes carcinogenic meat
+		* doctor WHO conducted some research that proved meat causes cancer, but hospitals still feed cancer to patients; they used to prescribe smoking too, but that's because they were bribed by the tobacco industry #western_medicine
 	* apple killed steve jobs, and blamed fruitarian diets (probably because apples are malnutritious); giving a bad name to non-meat-eating #bad_apple
 	* amazons' nda doesn't protect them from defamation; yours' won't protect you either
 	* oracle didn't want javascript to be a good language (lisp dialect); they are solely responsible for the worst programming languages, and timbl is bribed to support javascript #embrace_extend_extinguish
