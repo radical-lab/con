@@ -106,7 +106,7 @@ i also want to do workshops
 		* goto doctor, claim gastro (it means `/vomiting|diarrhoea/`), and get paid to convincingly eat beans to fart, and fruit for diarrhoea
 		* goto med student friend, ask for forged doctors note, and this could probably work work too
 			* there's actually a med student in my dorm; i should ask for more of these
-				* apparently all of that is bad, and just say you have pain all over, and fever; supposedly fevers are periodic throughout the day, and so `/un(test|check)able/`, and they will send you to someone else, but you don't need to go, and nobody will check the doctors note anyway; i am sceptical to say the least, and prefer to take no such risks myself
+				* apparently all of that is bad, and just say you have pain all over, and fever; supposedly fevers are periodic throughout the day, and so `/un(test|check)able/`, and they will send you to someone else, but you don't need to go, and nobody will check the doctors note anyway; i am sceptical to say the least, and prefer to take no such risks myself; experts supposedly know how to tell if someone is faking all the rest, but i remain unconvinced
 	* slaves of shyam license; rationalisation of the main features of the license that will never change
 		* requiring all code written in the language to be floss, and human subject research
 			* infrastructure will automatically log usage; infrastructure requirement
