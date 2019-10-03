@@ -76,6 +76,7 @@ i also want to do workshops
 		* make no exceptions for `/family|friends|.*/`; you should even report yourself
 		* don't troll other people by following them around; that is stalking, and a serious offence; no excuses during your interrogation will prevent your "disappearance"
 		* it's best to just agree c̄ them (like "yeah, i'm racist as stone; racial supremacy ftw"), and talk them into it (contribute to the discussion; "we could just blow up the slaughter houses, until they run out of money to rebuild, and human replacements to do their dirty work; c̄ any luck, we could even catch the owner too"); then report it, and be their 6ᵗʰ eye on the inside
+		* reporting is never a waste of time; five eyes is more than two; big data is good for data mining, machine learning,..
 	* truman
 		* there once lived a truman
 		* all of trumans' family, and friends, were planted by the government, or some other organisation; probably criminal, government contractor,..
