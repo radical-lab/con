@@ -101,9 +101,10 @@ i also want to do workshops
 	* getting the most out of your sick leave (and assignment extensions; academic integrity programs are inpirational!!! :D)
 		* goto psychologist, claim depression, and get paid to play video games while you recover
 			* having a `/bad|stressful/` day? boss yelled at you? don't climb out the window, jump off the building, so your family can sue them for $$$; just get paid to play video games instead
-		* goto doctor, claim back pain, and get a free full body massage
+			* this is the best one, and my own, and you can even announce your gaming victories on social media, and play games c̄ your `/family|friends|co-workers|boss|strangers|computers|aliens|gods/` who can help you get through your depression
+		* goto doctor, claim back pain, and get a free full body massage; a friend said this is anecdotal
 			* no ergonomic chairs? no adjustable tables? no gym membership? don't claim compensation; just get a free full body massage instead, or maybe try acupuncture,..
-		* goto doctor, claim gastro (it means `/vomiting|diarrhoea/`), and get paid to convincingly eat beans to fart, and fruit for diarrhoea
+		* goto doctor, claim gastro (it means `/vomiting|diarrhoea/`), and get paid to convincingly eat beans to fart, and fruit for diarrhoea; a friend said this to me ages ago
 		* goto med student friend, ask for forged doctors note, and this could probably work work too
 			* there's actually a med student in my dorm; i should ask for more of these
 				* apparently all of that is bad, and just say you have pain all over, and fever; supposedly fevers are periodic throughout the day, and so `/un(test|check)able/`, and they will send you to someone else, but you don't need to go, and nobody will check the doctors note anyway; i am sceptical to say the least, and prefer to take no such risks myself; experts supposedly know how to tell if someone is faking all the rest, but i remain unconvinced
