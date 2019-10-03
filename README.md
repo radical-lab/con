@@ -73,6 +73,7 @@ i also want to do workshops
 		* money comes from somewhere, so no matter how wealthy they are; report them, or you're financially supporting the baddies
 		* people don't talk about "-thing"s they aren't thinking about, but they do think about "-thing"s they don't talk about; we just assume they aren't thinking about "-thing"s they aren't talking about, until they start talking
 		* if you're being followed, and have no signal; DON'T PANIC; note the number plate, and drive to a police station, or a place that has cameras (like a supermarket carpark), but don't let them know they've been made by testing them (like driving in circles), and keep checking the signal (they might not be jamming it)
+		* make no exceptions for `/family|friends|.*/`; you should even report yourself
 	* truman
 		* there once lived a truman
 		* all of trumans' family, and friends, were planted by the government, or some other organisation; probably criminal, government contractor,..
