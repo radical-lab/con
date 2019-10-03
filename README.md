@@ -75,7 +75,7 @@ i also want to do workshops
 		* if you're being followed, and have no signal; DON'T PANIC; note the number plate, and drive to a police station, or a place that has cameras (like a supermarket carpark), but don't let them know they've been made by testing them (like driving in circles), and keep checking the signal (they might not be jamming it)
 		* make no exceptions for `/family|friends|.*/`; you should even report yourself
 		* don't troll other people by following them around; that is stalking, and a serious offence; no excuses during your interrogation will prevent your "disappearance"
-		* it's best to just agree c̄ them (like "yeah, i'm racist as stone; racial supremacy ftw"), and talk them into it (contribute to the discussion; "we could just blow up the slaughter houses, until they run out of money to rebuild, and human replacements to do their dirty work; c̄ any luck, we could even catch the owner too"); then report it, and be their 6ᵗʰ eye on the inside
+		* it's best to just agree c̄ them (like "yeah, i'm racist as stone; racial supremacy ftw"), and talk them into it (contribute to the discussion; "we could just blow up the slaughter houses, until they run out of money to rebuild, and human replacements to do their dirty work; c̄ any luck, we could even catch the owner too"; we can do that after the majority stops eating meat, votes it illegal, and the meat eaters declare war like they did for slavery); then report it, and be their 6ᵗʰ eye on the inside
 		* reporting is never a waste of time, nor taxpayers' money; five eyes is more than two; big data is good for data mining, machine learning,..
 	* truman
 		* there once lived a truman
