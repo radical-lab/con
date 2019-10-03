@@ -68,6 +68,8 @@ i also want to do workshops
 		* and what would a big, strong, nation do? that's right little world; they would burn them all for witchcraft, and make the world a better place
 	* backdoors
 	* rfid
+	* reporting
+		* report any suspicious activity, or if someone says some"-thing" like "would you do this", "we should do that", or "i want to do whatever", referring to criminal activity; if they are putting these kinds of motivations out there, then they need to be reported so that they will "disappear"; if they were to say these "-thing"s to someone else, who agrees, then they could talk each other into doing some"-thing" about it; this is a standard terrorist cell recruitment tool that avoids telecommunications, so trying to talk them out of it will only make them pretend
 	* truman
 		* there once lived a truman
 		* all of trumans' family, and friends, were planted by the government, or some other organisation; probably criminal, government contractor,..
