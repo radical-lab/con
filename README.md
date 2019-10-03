@@ -102,7 +102,7 @@ i also want to do workshops
 		* goto psychologist, claim depression, and get paid to play video games while you recover
 			* having a `/bad|stressful/` day? boss yelled at you? don't climb out the window, jump off the building, so your family can sue them for $$$; just get paid to play video games instead
 			* this is the best one, and my own, and you can even announce your gaming victories on social media, and play games c̄ your `/family|friends|co-workers|boss|strangers|computers|aliens|√?gods/` who can help you get through your depression
-		* break a leg (or any other bone that doesn't impede your ability to play video games), and goto hospital
+		* break a leg (or any other bone that doesn't impede your ability to play video games), and goto hospital; also mine
 		* goto doctor, claim back pain, and get a free full body massage; a friend said this is anecdotal
 			* no ergonomic chairs? no adjustable tables? no gym membership? don't claim compensation; just get a free full body massage instead, or maybe try acupuncture,..
 		* goto doctor, claim gastro (it means `/vomiting|diarrhoea/`), and get paid to convincingly eat beans to fart, and fruit for diarrhoea; a friend said this to me ages ago
