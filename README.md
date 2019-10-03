@@ -103,7 +103,7 @@ i also want to do workshops
 			* having a `/bad|stressful/` day? boss yelled at you? don't climb out the window, jump off the building, so your family can sue them for $$$; just get paid to play video games instead
 		* goto doctor, claim back pain, and get a free full body massage
 			* no ergonomic chairs? no adjustable tables? no gym membership? don't claim compensation; just get a free full body massage instead, or maybe try acupuncture,..
-		* goto doctor, claim gastro (it means `/vomiting|diarrhoea/`), and get paid to convincingly eat beans
+		* goto doctor, claim gastro (it means `/vomiting|diarrhoea/`), and get paid to convincingly eat beans to fart, and fruit for diarrhoea
 		* goto med student friend, ask for forged doctors note, and this could probably work work too
 			* there's actually a med student in my dorm; i should ask for more of these
 	* slaves of shyam license; rationalisation of the main features of the license that will never change
