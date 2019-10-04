@@ -33,5 +33,10 @@ E x: P(x) means P(x) is true "for each, and every" x.
 ∃!x: P(x), means P(x) is true "for =1" x.
 ∃¬x: P(x), means P(x) is true "for <1" x.
 
+decimals c̄out decimals
+.x=1÷(bˣ)
+.x=1÷(xᵇ)
+there's some way of doing this to say that .1=(1÷(1¹))=1, and i'm sure it has some"-thing" to do c̄ the base
+
 the yearly teapot c̄ intricate patterns; probably not yearly ∵ i'm not that interested in mathematics…
 ?- sort([Life], TM, Man).
