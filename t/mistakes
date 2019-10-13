@@ -39,8 +39,9 @@ decimals c̄out decimals
 there's some way of doing this to say that .1=(1÷(1¹))=1, and i'm sure it has some"-thing" to do c̄ the base
 
 E=mp¹
-x÷y = (m÷p)[p≤m]+(p÷m)[m≤p]
-y÷x = (m÷p)[m≤p]+(p÷m)[p≤m]
+x÷y = (m÷p)[p≤m]+(p÷m)[m<p]
+y÷x = (m÷p)[m≤p]+(p÷m)[p<m]
+TODO: check mutually exclusive inequalities
 
 the yearly teapot c̄ intricate patterns; probably not yearly ∵ i'm not that interested in mathematics…
 ?- sort([Life], TM, Man).
