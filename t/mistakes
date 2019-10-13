@@ -48,6 +48,7 @@ E=(⌊x÷4⌋+√(x-4⌊x÷4⌋)÷2)[0<x]
 average distance between m, and p
 E=logₙ₊₁(x-n⌊x÷n⌋+1)+⌊x÷n⌋
 oeis doesn't have {1,3,15,260}∋n for logₙ₊₁(x+1); log₂↑₂↑ₙ(x+1)
+cosθ=(∑mp)÷(∥m∥·∥p∥)
 
 the yearly teapot c̄ intricate patterns; probably not yearly ∵ i'm not that interested in mathematics…
 ?- sort([Life], TM, Man).
