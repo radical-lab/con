@@ -44,6 +44,7 @@ x÷y = (m÷p)[p<m]+(p÷m)[m≤p]
 y÷x = (m÷p)[m≤p]+(p÷m)[p<m]
 y÷x = (m÷p)[m<p]+(p÷m)[p≤m]
 TODO: check mutually exclusive inequalities
+(⌊x÷4⌋+√(x-4⌊x÷4⌋)÷2)[0<x]
 
 the yearly teapot c̄ intricate patterns; probably not yearly ∵ i'm not that interested in mathematics…
 ?- sort([Life], TM, Man).
