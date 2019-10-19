@@ -33,6 +33,7 @@ i also want to do workshops
 		* the moral of the story is; vive la guillotine, vive la democracy, vive la révolution
 	* `/historical|cultural|religious|unenforced/` laws that belong in the history books
 	* national laws should be more consistent; state laws should be abolished
+		* blasphemy laws; this is actually a "-thing", but not for indigenous religions which are deemed unworthy
 	* lobotomies #western_medicine
 	* drugs
 		* when i was your age, little world, i used to take drugs whenever i had a headache, but they were ineffective, and i was occasionally hospitalised; then one day at school, i was taught that drugs weaken our immune system, which prevents our bodies from healing on their own; the next next time i had a headache, and my mum offered me drugs, but i refused, and endured immense pain, and agony; in the end it turns out the drugs were causing the headaches, and i haven't had any since; the reason the drugs caused my headaches was because of side effects; drugs are descriminately designed for certain people, and when the people who are descriminated against take those drugs they suffer from deliberate side effects; the moral of the story is don't do drugs little world #western_medicine #syphilis
