@@ -33,11 +33,12 @@ i also want to do workshops
 		* the moral of the story is; vive la guillotine, vive la democracy, vive la révolution
 	* `/historical|cultural|religious|unenforced/` laws that belong in the history books
 	* national laws should be more consistent; state laws should be abolished
-		* blasphemy laws; this is actually a "-thing", but not for indigenous religions which are deemed unworthy
+		* blasphemy laws; this is actually a "-thing", but not for indigenous religions which are discriminatorily deemed unworthy
 	* lobotomies #western_medicine
 	* drugs
 		* when i was your age, little world, i used to take drugs whenever i had a headache, but they were ineffective, and i was occasionally hospitalised; then one day at school, i was taught that drugs weaken our immune system, which prevents our bodies from healing on their own; the next next time i had a headache, and my mum offered me drugs, but i refused, and endured immense pain, and agony; in the end it turns out the drugs were causing the headaches, and i haven't had any since; the reason the drugs caused my headaches was because of side effects; drugs are descriminately designed for certain people, and when the people who are descriminated against take those drugs they suffer from deliberate side effects; the moral of the story is don't do drugs little world #western_medicine #syphilis
 		* sequencing indicates which part of the world you're from, and can also be used for target practice
+	* the birds, and the bees; bean stalks
 	* hospital food that includes carcinogenic meat
 		* doctor WHO conducted some research that proved meat causes cancer, but hospitals still feed cancer to patients; they used to prescribe smoking too, but that's because they were bribed by the tobacco industry #western_medicine
 	* apple killed steve jobs, and blamed fruitarian diets (probably because apples are malnutritious); giving a bad name to non-meat-eating #bad_apple
@@ -86,6 +87,7 @@ i also want to do workshops
 		* employment was fake; just work your life away
 		* all of social media was fake; even if the people are real, they don't get your' messages, and you don't get theirs', because they're all fake
 		* dreams were fake; rem is conveniently difficult to yoga nidra
+		* religion was fake; especially the ones that preach against praying the godss' name in vain, as if there is such a time, and a place, for worshipping the all-seeing gods that is bad
 		* everything was fake
 		* even your babies are removed from your sight, at least when you sleep, and spend most of their time in (re-)education camps called "schools"; you've heard about home schooling, but never considered it for yourself, because of your fake employment, and even if you did, you must sleep, or supposedly "die" trying not to (like a kelpian)
 		* even genetic testing was fake, and pretty much all technology; natural language interfaces are pretty unintelligent for a so-called artificial intelligent system that can't even learn new words, let alone new conceptual subjects
