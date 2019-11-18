@@ -147,6 +147,10 @@ i also want to do workshops
 	* title: "have your cake, and eat it too"
 	* picture: whatever my favourite (looking) cake is; a well balanced (pillars) 𝄞3 tiered wedding cake c̄ birthday candles ∵ the student is marrying emacs, and birthdays are all about "me" (or maybe a pentagram on top c̄ "EMACS\nMACRO\nACTED\nCREDO\nSODOM" on the sidelines for a virgin sacrifice…maybe a girl can jump out of it…maybe it can be a flip book…)
 	* theme: food science (recipes, ingredients,..)
+	* isomorphic lisp; dialectically-agnostic symbolically-expressive lisp-isomorphisms #dsl #aei(ou)
+	* redefine a function inside its' own definition, and then call it recursively; metaprogramming, /evolutionary|genetic/ algorithms, fun,..
+	* https://stackoverflow.com/q/22224045
+	* optimisation language features are bad practice; cons, car, and cdr, are all you will ever need
 3. learn prolog; very different from conventional programming, and probably the most useful
 	* title: <s>"Elementary, my dear Hacker."</s> "What have I got in my pocket?"
 	* quote: "When you have eliminated the impossible, whatever remains, however improbable, must be the truth."
