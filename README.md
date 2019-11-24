@@ -151,7 +151,7 @@ i also want to do workshops
 	* redeclare a function inside its' own declaration, and then call it recursively; metaprogramming, /evolutionary|genetic/ algorithms, fun,..
 	* https://stackoverflow.com/q/22224045
 	* optimisation language features are bad practice; cons, car, and cdr, are all you will ever need
-	* lisp-1 was first, lisp-2 shouldn't exist; in haskell a zero-arity function is just a constant function, so why can't lisp be the same? `symbol` versus `(symbol)` means no need to `(quote symbol)`, but `symbol` could just be the source, and keep quoting symbols; otherwise it's just an excuse to reduce the curvies, and that's just odd language design; lisp is curvy, so get used to it, and be happy c̄ the way it looks, and be happy c̄ who you are, and have a [positive attitude](https://xkcd.com/828/)
+	* lisp-1 was first, lisp-2 shouldn't exist; in haskell a zero-arity function is just a constant function, so why can't lisp be the same? `symbol` versus `(symbol)` means no need to `(quote symbol)`, but `symbol` could just be the source, and keep quoting symbols; otherwise it's just an excuse to reduce the curvies, and that's just Old Language Design; lisp is curvy, so get used to it, and be happy c̄ the way it looks, and be happy c̄ who you are, and have a [positive attitude](https://xkcd.com/828/)
 	* i guess i'll include some [malware](https://github.com/kanaka/mal)
 3. learn prolog; very different from conventional programming, and probably the most useful
 	* title: <s>"Elementary, my dear Hacker."</s> "What have I got in my pocket?"
