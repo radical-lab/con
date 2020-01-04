@@ -162,6 +162,7 @@ i also want to do workshops
 	* programming language implementation should be taught from a `prolog(lisp(X),hindu_numerical_machine_instructions(Y))` POV (free `/disassembler|decompiler/`)
 	* deductive knowledgebases supercede most databases; the only kind that should be taught these days
 	* chapter("textile hacking: text processing with strings").
+	* art style: terms from linuistics will be used to describe "-thing"s (`s/object/noun/` #clocksinandmellish)
 4. learn haskell; prolog helps with learning types, and probably the most safest (lazy evaluation makes higher order types possible (or maybe just partial application?), and the type system is an [implicit module system](https://www.reddit.com/r/haskelltil/comments/3sv090/cycling_an_enumeration/cx0msam/))
 	* title: "in due course, at the appropriate juncture, in the fullness of time, when the moment is ripe, when the necessary procedures have been completed; nothing precipitate, of course…"
 	* quote: asimovs' laws (all of them‽)
